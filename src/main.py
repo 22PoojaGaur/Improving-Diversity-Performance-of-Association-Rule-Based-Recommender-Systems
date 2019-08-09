@@ -23,7 +23,7 @@ class Tree(object):
       # if root empty insert root
         if self.root == None:
             self.node_count == 1
-            self.root = Node(self, node_count, nodes[0])
+            self.root = Node(self.node_count, nodes[0])
 
         #insert remaining nodes in tree
         current = self.root
@@ -101,15 +101,16 @@ def read_input():
             #line is path
             path = line.strip().split(' ')
 
-            CH = CH.Insert_nodes(path)
+            CH.Insert_nodes(path)
             is_item = 1
 
-    return CH
+    return
 
    
 def main():
 
     CH = read_input()
+    CH.print_tree()
 
 if __name__ == '__main__':
     main()
