@@ -1,0 +1,1155 @@
+Home
+
+Groceries - 
+
+
+Food_Cupboard - 
+Fresh_Food - 
+Household - 
+Baby - 
+Drinks - 
+Bakery - 
+Home_&_Ents - 
+Pets - 
+Health_&_Beauty - 
+Frozen_Food - 
+
+
+Tins_&_Packets - 
+Sugar_&_Sweetners - 
+Baking,_Desserts_&_Spreads - 
+Crisps,_Biscuits_&_Sweets - 
+cereals - 
+leaf node depth  4
+Cooking_Ingredients - 
+Condiments_&_Table_Sauces - 
+Organic - 
+Pasta,_Rice_&_Noodles - 
+Others - 
+Snacks - 
+
+
+Dairy_,_Eggs_&_Cheese - 
+Meat,_Fish_&_Poultry - 
+Fresh_Fruit - 
+Vegetables - 
+seasonal_products - 
+leaf node depth  4
+
+
+Cleaning - 
+Food_Storage - 
+Laundry - 
+Dishwashers_&_Washing_Up - 
+house_keeping_products - 
+leaf node depth  4
+hygiene_articles - 
+leaf node depth  4
+light_bulbs - 
+leaf node depth  4
+Toilet_Roll,_Kitchen_Rolls_&_Tissues - 
+Sound - 
+
+
+baby_cosmetics - 
+leaf node depth  4
+baby_food - 
+leaf node depth  4
+
+
+Others - 
+Beers,_Ciders_&_Alcopops - 
+Water - 
+Spirits,_Liqueurs_&_Fortified_Wines - 
+Coffee - 
+Smoothies,_Juice_&_Yoghurt_Drinks - 
+Wine - 
+Soft_Drinks - 
+tea - 
+
+
+Breads - 
+Cakes_&_Pies - 
+long_life_bakery_product - 
+leaf node depth  4
+Wraps,_Pitta_&_Naan - 
+
+
+For_the_Home - 
+Cooking_&_Dining - 
+Plant_&_Garden - 
+Magazines,_Newspapers_&_Tobacconis - 
+Audio_Visual_&_Computing - 
+
+
+cat_food - 
+leaf node depth  4
+dog_food - 
+leaf node depth  4
+pet_care - 
+leaf node depth  4
+
+
+Health - 
+Oral_Care - 
+Feminine_Care - 
+Haircare - 
+Beauty_&_Skincare - 
+Toiletries - 
+
+
+Frozen_Meat,_Fish_&_Poultry - 
+Frozen_Ice_Cream_&_Desserts - 
+Frozen_Vegs,_Chips_&_Rice - 
+Prepared_Meals - 
+
+
+Instant_food_products - 
+leaf node depth  5
+Tinned_Fish_&_Seafood - 
+Tinned_Fruits - 
+Tinned_Vegetables - 
+ready_soups - 
+leaf node depth  5
+soups - 
+leaf node depth  5
+
+
+artif._sweetener - 
+leaf node depth  5
+sugar - 
+leaf node depth  5
+sweet_spreads - 
+leaf node depth  5
+syrup - 
+leaf node depth  5
+
+
+baking_powder - 
+leaf node depth  5
+cooking_chocolate - 
+leaf node depth  5
+dessert - 
+leaf node depth  5
+flour - 
+leaf node depth  5
+Jams,_Spreads_&_Honey - 
+pudding_powder - 
+leaf node depth  5
+
+
+candy - 
+leaf node depth  5
+chewing_gum - 
+leaf node depth  5
+chocolate - 
+leaf node depth  5
+chocolate_marshmallow - 
+leaf node depth  5
+Nuts_&_Popcorn - 
+specialty_bar - 
+leaf node depth  5
+specialty_chocolate - 
+leaf node depth  5
+
+
+Herbs,_Spices_&_Salt - 
+oil - 
+leaf node depth  5
+
+
+ketchup - 
+leaf node depth  5
+Mayonnaise_&_Salad_Cream - 
+salad_dressing - 
+leaf node depth  5
+sauces - 
+leaf node depth  5
+vinegar - 
+leaf node depth  5
+
+
+organic_products - 
+leaf node depth  5
+organic_sausage - 
+leaf node depth  5
+
+
+pasta - 
+leaf node depth  5
+rice - 
+leaf node depth  5
+
+
+potato_products - 
+leaf node depth  5
+preservation_products - 
+leaf node depth  5
+specialty_fat - 
+leaf node depth  5
+
+
+snack_products - 
+leaf node depth  5
+
+
+Milks - 
+butter - 
+leaf node depth  5
+cream - 
+leaf node depth  5
+cream_cheese - 
+leaf node depth  5
+curd - 
+leaf node depth  5
+curd_cheese - 
+leaf node depth  5
+domestic_eggs - 
+leaf node depth  5
+hard_cheese - 
+leaf node depth  5
+Butter - 
+meat_spreads - 
+leaf node depth  5
+pastry - 
+leaf node depth  5
+processed_cheese - 
+leaf node depth  5
+sliced_cheese - 
+leaf node depth  5
+soft_cheese - 
+leaf node depth  5
+specialty_cheese - 
+leaf node depth  5
+spread_cheese - 
+leaf node depth  5
+whipped_sour_cream - 
+leaf node depth  5
+yogurt - 
+leaf node depth  5
+
+
+beef - 
+leaf node depth  5
+Chicken_&_Turkey - 
+Fish_&_Seafood - 
+Sausages - 
+ham - 
+leaf node depth  5
+hamburger_meat - 
+leaf node depth  5
+liver_loaf - 
+leaf node depth  5
+meat - 
+leaf node depth  5
+pork - 
+leaf node depth  5
+sausage - 
+leaf node depth  5
+
+
+berries - 
+leaf node depth  5
+citrus_fruit - 
+leaf node depth  5
+grapes - 
+leaf node depth  5
+packaged_fruit - 
+leaf node depth  5
+pip_fruit - 
+leaf node depth  5
+tropical_fruit - 
+leaf node depth  5
+
+
+onions - 
+leaf node depth  5
+other_vegetables - 
+leaf node depth  5
+pickled_vegetables - 
+leaf node depth  5
+root_vegetables - 
+leaf node depth  5
+specialty_vegetables - 
+leaf node depth  5
+
+
+abrasive_cleaner - 
+leaf node depth  5
+bathroom_cleaner - 
+leaf node depth  5
+cleaner - 
+leaf node depth  5
+Toilet_Cleaner_&_Blocks - 
+
+
+Bags - 
+
+
+detergent - 
+leaf node depth  5
+
+
+dish_cleaner - 
+leaf node depth  5
+
+
+napkins - 
+leaf node depth  5
+
+
+sound_storage_medium - 
+leaf node depth  5
+
+
+beverages - 
+leaf node depth  5
+cocoa_drinks - 
+leaf node depth  5
+misc._beverages - 
+leaf node depth  5
+
+
+bottled_beer - 
+leaf node depth  5
+canned_beer - 
+leaf node depth  5
+
+
+bottled_water - 
+leaf node depth  5
+
+
+brandy - 
+leaf node depth  5
+liqueur - 
+leaf node depth  5
+liquor - 
+leaf node depth  5
+liquor_appetizer - 
+leaf node depth  5
+rubbing_alcohol - 
+leaf node depth  5
+rum - 
+leaf node depth  5
+whisky - 
+leaf node depth  5
+white_wine - 
+leaf node depth  5
+
+
+coffee - 
+leaf node depth  5
+instant_coffee - 
+leaf node depth  5
+
+
+fruitvegetable_juice - 
+leaf node depth  5
+
+
+prosecco - 
+leaf node depth  5
+red-blush_wine - 
+leaf node depth  5
+sparkling_wine - 
+leaf node depth  5
+
+
+soda - 
+leaf node depth  5
+
+
+tea - 
+leaf node depth  5
+
+
+brown_bread - 
+leaf node depth  5
+semi-finished_bread - 
+leaf node depth  5
+white_bread - 
+leaf node depth  5
+zwieback - 
+leaf node depth  5
+
+
+cake_bar - 
+leaf node depth  5
+waffles - 
+leaf node depth  5
+
+
+roll_products - 
+leaf node depth  5
+rolls-buns - 
+leaf node depth  5
+
+
+candles - 
+leaf node depth  5
+dishes - 
+leaf node depth  5
+Kitchen_-_Accessories - 
+Kitchen_-_Cutlery - 
+
+
+cookware - 
+leaf node depth  5
+
+
+flower_seeds - 
+leaf node depth  5
+flower_soil-fertilizer - 
+leaf node depth  5
+pot_plants - 
+leaf node depth  5
+
+
+newspapers - 
+
+
+photo-film - 
+leaf node depth  5
+
+
+decalcifier - 
+leaf node depth  5
+
+
+dental_care - 
+leaf node depth  5
+
+
+female_sanitary_products - 
+leaf node depth  5
+
+
+hair_spray - 
+leaf node depth  5
+
+
+make_up_remover - 
+leaf node depth  5
+male_cosmetics - 
+leaf node depth  5
+skin_care - 
+leaf node depth  5
+
+
+soap - 
+leaf node depth  5
+softener - 
+leaf node depth  5
+
+
+Chicken_&Turkey - 
+Fish_&_Seafood - 
+
+
+Dessert - 
+ice_cream - 
+leaf node depth  5
+
+
+Vegetables_&_Fruits - 
+Potatoes_&_Chips - 
+
+
+frozen_meals - 
+leaf node depth  5
+
+
+canned_fish - 
+leaf node depth  6
+
+
+canned_fruit - 
+leaf node depth  6
+
+
+canned_vegetables - 
+leaf node depth  6
+
+
+honey - 
+leaf node depth  6
+jam - 
+leaf node depth  6
+
+
+nut_snack - 
+leaf node depth  6
+nuts-prunes - 
+leaf node depth  6
+popcorn - 
+leaf node depth  6
+salty_snack - 
+leaf node depth  6
+
+
+herbs - 
+leaf node depth  6
+mustard - 
+leaf node depth  6
+salt - 
+leaf node depth  6
+spices - 
+leaf node depth  6
+
+
+mayonnaise - 
+leaf node depth  6
+
+
+UHT-milk - 
+leaf node depth  6
+butter_milk - 
+leaf node depth  6
+condensed_milk - 
+leaf node depth  6
+whole_milk - 
+leaf node depth  6
+
+
+margarine - 
+leaf node depth  6
+
+
+chicken - 
+leaf node depth  6
+turkey - 
+leaf node depth  6
+
+
+fish - 
+leaf node depth  6
+
+
+frankfurter - 
+leaf node depth  6
+
+
+toilet_cleaner - 
+leaf node depth  6
+
+
+bags - 
+leaf node depth  6
+cling_film - 
+leaf node depth  6
+shopping_bags - 
+leaf node depth  6
+
+
+kitchen_towels - 
+leaf node depth  6
+
+
+kitchen_utensil - 
+leaf node depth  6
+
+
+tidbits - 
+leaf node depth  6
+
+
+frozen_Chicken - 
+leaf node depth  6
+
+
+frozen_fish - 
+leaf node depth  6
+
+
+frozen_dessert - 
+leaf node depth  6
+
+
+frozen_fruits - 
+leaf node depth  6
+frozen_vegetables - 
+leaf node depth  6
+
+
+frozen_potato_products - 
+leaf node depth  6
+
+
+processing pattern %s ready_soups 
+
+NOT PROCESSED 
+
+processing pattern %s flower_soil-fertilizer 
+
+NOT PROCESSED 
+
+processing pattern %s prosecco 
+
+NOT PROCESSED 
+
+processing pattern %s organic_sausage 
+
+NOT PROCESSED 
+
+processing pattern %s cocoa_drinks 
+
+NOT PROCESSED 
+
+processing pattern %s pudding_powder 
+
+NOT PROCESSED 
+
+processing pattern %s tidbits 
+
+NOT PROCESSED 
+
+processing pattern %s cooking_chocolate 
+
+NOT PROCESSED 
+
+processing pattern %s soap 
+
+NOT PROCESSED 
+
+processing pattern %s bathroom_cleaner 
+
+NOT PROCESSED 
+
+processing pattern %s cookware 
+
+NOT PROCESSED 
+
+processing pattern %s fish 
+
+NOT PROCESSED 
+
+processing pattern %s potato_products 
+
+NOT PROCESSED 
+
+processing pattern %s snack_products 
+
+NOT PROCESSED 
+
+processing pattern %s nut_snack 
+
+NOT PROCESSED 
+
+processing pattern %s artif._sweetener 
+
+NOT PROCESSED 
+
+processing pattern %s canned_fruit 
+
+NOT PROCESSED 
+
+processing pattern %s syrup 
+
+NOT PROCESSED 
+
+processing pattern %s nuts-prunes 
+
+NOT PROCESSED 
+
+processing pattern %s abrasive_cleaner 
+
+NOT PROCESSED 
+
+processing pattern %s skin_care 
+
+NOT PROCESSED 
+
+processing pattern %s specialty_fat 
+
+NOT PROCESSED 
+
+processing pattern %s tea 
+
+NOT PROCESSED 
+
+processing pattern %s brandy 
+
+NOT PROCESSED 
+
+processing pattern %s light_bulbs 
+
+NOT PROCESSED 
+
+processing pattern %s meat_spreads 
+
+NOT PROCESSED 
+
+processing pattern %s meat_spreads yogurt 
+
+0.6 
+
+processing pattern %s ketchup 
+
+NOT PROCESSED 
+
+processing pattern %s rum 
+
+NOT PROCESSED 
+
+processing pattern %s male_cosmetics 
+
+NOT PROCESSED 
+
+processing pattern %s curd_cheese other_vegetables 
+
+0.6 
+
+processing pattern %s curd_cheese whole_milk 
+
+0.8 
+
+processing pattern %s cleaner 
+
+NOT PROCESSED 
+
+processing pattern %s cleaner whole_milk 
+
+0.8 
+
+processing pattern %s liver_loaf 
+
+NOT PROCESSED 
+
+processing pattern %s liver_loaf whole_milk 
+
+0.8 
+
+processing pattern %s spices 
+
+NOT PROCESSED 
+
+processing pattern %s other_vegetables spices 
+
+0.8 
+
+processing pattern %s jam other_vegetables 
+
+0.8 
+
+processing pattern %s jam root_vegetables 
+
+0.8 
+
+processing pattern %s jam whole_milk 
+
+1.0 
+
+processing pattern %s softener 
+
+NOT PROCESSED 
+
+processing pattern %s softener whole_milk 
+
+0.8 
+
+processing pattern %s sauces 
+
+NOT PROCESSED 
+
+processing pattern %s sauces whole_milk 
+
+0.8 
+
+processing pattern %s sparkling_wine 
+
+NOT PROCESSED 
+
+processing pattern %s cereals other_vegetables 
+
+0.4 
+
+processing pattern %s cereals yogurt 
+
+0.4 
+
+processing pattern %s cereals whole_milk 
+
+0.6 
+
+processing pattern %s dental_care whole_milk 
+
+0.8 
+
+processing pattern %s dental_care other_vegetables 
+
+0.6 
+
+processing pattern %s kitchen_towels other_vegetables 
+
+0.8 
+
+processing pattern %s kitchen_towels whole_milk 
+
+1.0 
+
+processing pattern %s female_sanitary_products 
+
+NOT PROCESSED 
+
+processing pattern %s female_sanitary_products whole_milk 
+
+0.8 
+
+processing pattern %s vinegar yogurt 
+
+0.6 
+
+processing pattern %s other_vegetables vinegar 
+
+0.6 
+
+processing pattern %s vinegar whole_milk 
+
+0.8 
+
+processing pattern %s soups whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables soups whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables soups 
+
+0.6 
+
+processing pattern %s zwieback 
+
+NOT PROCESSED 
+
+processing pattern %s popcorn soda 
+
+0.8 
+
+processing pattern %s popcorn salty_snack 
+
+1.0 
+
+processing pattern %s popcorn whole_milk 
+
+1.0 
+
+processing pattern %s instant_coffee rolls-buns 
+
+0.6 
+
+processing pattern %s instant_coffee other_vegetables 
+
+0.6 
+
+processing pattern %s instant_coffee yogurt 
+
+0.6 
+
+processing pattern %s instant_coffee whole_milk 
+
+0.8 
+
+processing pattern %s instant_coffee soda 
+
+0.6 
+
+processing pattern %s butter rice 
+
+0.6 
+
+processing pattern %s citrus_fruit rice 
+
+0.6 
+
+processing pattern %s fruitvegetable_juice rice 
+
+0.6 
+
+processing pattern %s rice tropical_fruit 
+
+0.6 
+
+processing pattern %s rice whole_milk yogurt 
+
+0.8 
+
+processing pattern %s other_vegetables rice yogurt 
+
+0.7 
+
+processing pattern %s other_vegetables rice root_vegetables 
+
+0.7 
+
+processing pattern %s other_vegetables rice root_vegetables whole_milk 
+
+0.8 
+
+processing pattern %s rice root_vegetables whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables rice 
+
+0.6 
+
+processing pattern %s other_vegetables rice whole_milk 
+
+0.8 
+
+processing pattern %s rice whole_milk 
+
+0.8 
+
+processing pattern %s bottled_beer liquor_appetizer 
+
+0.6 
+
+processing pattern %s liquor_appetizer soda 
+
+0.6 
+
+processing pattern %s Instant_food_products root_vegetables 
+
+0.6 
+
+processing pattern %s Instant_food_products soda 
+
+0.6 
+
+processing pattern %s Instant_food_products rolls-buns 
+
+0.6 
+
+processing pattern %s Instant_food_products other_vegetables 
+
+0.6 
+
+processing pattern %s Instant_food_products whole_milk 
+
+0.8 
+
+processing pattern %s Instant_food_products hamburger_meat 
+
+0.6 
+
+processing pattern %s pastry turkey 
+
+0.8 
+
+processing pattern %s rolls-buns turkey 
+
+0.8 
+
+processing pattern %s turkey yogurt 
+
+0.8 
+
+processing pattern %s root_vegetables turkey 
+
+0.8 
+
+processing pattern %s other_vegetables root_vegetables turkey 
+
+0.8 
+
+processing pattern %s tropical_fruit turkey 
+
+0.8 
+
+processing pattern %s turkey whole_milk 
+
+1.0 
+
+processing pattern %s other_vegetables turkey whole_milk 
+
+0.9 
+
+processing pattern %s other_vegetables turkey 
+
+0.8 
+
+processing pattern %s house_keeping_products yogurt 
+
+0.4 
+
+processing pattern %s house_keeping_products other_vegetables 
+
+0.4 
+
+processing pattern %s house_keeping_products whole_milk 
+
+0.6 
+
+processing pattern %s frozen_potato_products rolls-buns 
+
+0.8 
+
+processing pattern %s frozen_potato_products yogurt 
+
+0.8 
+
+processing pattern %s frozen_potato_products other_vegetables 
+
+0.8 
+
+processing pattern %s frozen_potato_products other_vegetables whole_milk 
+
+0.9 
+
+processing pattern %s frozen_potato_products soda 
+
+0.8 
+
+processing pattern %s frozen_potato_products whole_milk 
+
+1.0 
+
+processing pattern %s root_vegetables specialty_cheese 
+
+0.6 
+
+processing pattern %s specialty_cheese yogurt 
+
+0.6 
+
+processing pattern %s specialty_cheese whole_milk yogurt 
+
+0.8 
+
+processing pattern %s specialty_cheese whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables specialty_cheese whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables specialty_cheese 
+
+0.6 
+
+processing pattern %s dog_food shopping_bags 
+
+0.6 
+
+processing pattern %s dog_food soda 
+
+0.4 
+
+processing pattern %s dog_food yogurt 
+
+0.4 
+
+processing pattern %s dog_food other_vegetables 
+
+0.4 
+
+processing pattern %s dog_food whole_milk 
+
+0.6 
+
+processing pattern %s candles pastry 
+
+0.6 
+
+processing pattern %s candles margarine 
+
+0.8 
+
+processing pattern %s candles other_vegetables 
+
+0.6 
+
+processing pattern %s candles whole_milk 
+
+0.8 
+
+processing pattern %s shopping_bags sweet_spreads 
+
+0.8 
+
+processing pattern %s root_vegetables sweet_spreads 
+
+0.6 
+
+processing pattern %s sweet_spreads yogurt 
+
+0.6 
+
+processing pattern %s other_vegetables sweet_spreads 
+
+0.6 
+
+processing pattern %s soda sweet_spreads 
+
+0.6 
+
+processing pattern %s sweet_spreads whole_milk 
+
+0.8 
+
+processing pattern %s chocolate_marshmallow domestic_eggs 
+
+0.6 
+
+processing pattern %s chocolate_marshmallow tropical_fruit 
+
+0.6 
+
+processing pattern %s chocolate_marshmallow other_vegetables 
+
+0.6 
+
+processing pattern %s chocolate_marshmallow rolls-buns 
+
+0.6 
+
+processing pattern %s chocolate_marshmallow soda 
+
+0.6 
+
+processing pattern %s chocolate_marshmallow whole_milk 
+
+0.8 
+
+processing pattern %s mayonnaise sausage 
+
+0.8 
+
+processing pattern %s mayonnaise soda 
+
+0.8 
+
+processing pattern %s mayonnaise root_vegetables 
+
+0.8 
+
+processing pattern %s mayonnaise yogurt 
+
+0.8 
+
+processing pattern %s mayonnaise rolls-buns 
+
+0.8 
+
+processing pattern %s mayonnaise whole_milk 
+
+1.0 
+
+processing pattern %s mayonnaise other_vegetables 
+
+0.8 
+
+processing pattern %s photo-film 
+
+NOT PROCESSED 
+
+processing pattern %s photo-film whole_milk 
+
+0.8 
+
+processing pattern %s other_vegetables pet_care
