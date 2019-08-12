@@ -21,7 +21,7 @@ def main():
     out_file_name = sys.argv[2]
     line = ''
 
-
+  
     try:
         fin = open(file_name, 'r')
     except:
