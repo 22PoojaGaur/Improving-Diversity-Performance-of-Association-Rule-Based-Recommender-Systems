@@ -16,7 +16,6 @@ def calculate_nodes_in_projection(pattern, ch_dict=None):
         path = set(ch_dict[item])
         # print  [node.value for node in path]
         nodes_in_proj = nodes_in_proj | path
-
     return len(nodes_in_proj)
 
 
@@ -83,6 +82,7 @@ def main():
         if len(item_path_dict[item]) > ch_height:
             ch_height = len(item_path_dict[item])
 
+    print("concept hierarchy height")
     print (ch_height)
     dranks = [0]*len(freq_patterns)
     idx = 0
