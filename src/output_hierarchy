@@ -576,351 +576,45 @@ frozen_potato_products -
 leaf node depth  6
 
 
-processing pattern %s ready_soups 
+processing pattern %s napkins 
 
 NOT PROCESSED 
 
-processing pattern %s flower_soil-fertilizer 
+processing pattern %s beef 
 
 NOT PROCESSED 
 
-processing pattern %s prosecco 
+processing pattern %s curd 
 
 NOT PROCESSED 
 
-processing pattern %s organic_sausage 
+processing pattern %s butter 
 
 NOT PROCESSED 
 
-processing pattern %s cocoa_drinks 
+processing pattern %s pork 
 
 NOT PROCESSED 
 
-processing pattern %s pudding_powder 
+processing pattern %s coffee 
 
 NOT PROCESSED 
 
-processing pattern %s tidbits 
+processing pa candles 
 
 NOT PROCESSED 
 
->>>>>>> read-transactional-data
-processing pattern %s cooking_chocolate 
+processing pattern %s sweet_spreads 
 
 NOT PROCESSED 
-
-processing pattern %s soap 
-
-NOT PROCESSED 
-
-processing pattern %s bathroom_cleaner 
-
-NOT PROCESSED 
-
-processing pattern %s cookware 
-
-NOT PROCESSED 
-
-processing pattern %s fish 
-
-NOT PROCESSED 
-
-processing pattern %s potato_products 
-
-NOT PROCESSED 
-
-processing pattern %s snack_products 
-
-NOT PROCESSED 
-
-processing pattern %s nut_snack 
-
-NOT PROCESSED 
-
-processing pattern %s artif._sweetener 
-
-NOT PROCESSED 
-
-processing pattern %s canned_fruit 
-
-NOT PROCESSED 
-
-processing pattern %s syrup 
-
-NOT PROCESSED 
-
-processing pattern %s nuts-prunes 
-
-NOT PROCESSED 
-
-processing pattern %s abrasive_cleaner 
-
-NOT PROCESSED 
-
-processing pattern %s skin_care 
-
-NOT PROCESSED 
-
-processing pattern %s specialty_fat 
-
-NOT PROCESSED 
-
-processing pattern %s tea 
-
-NOT PROCESSED 
-
-processing pattern %s brandy 
-
-NOT PROCESSED 
-
-processing pattern %s light_bulbs 
-
-NOT PROCESSED 
-
-processing pattern %s meat_spreads 
-
-NOT PROCESSED 
-
-
-processing pattern %s meat_spreads yogurt 
-
-0.6 
-
-processing pattern %s ketchup 
-
-NOT PROCESSED 
-
-processing pattern %s rum 
-
-NOT PROCESSED 
-
-processing pattern %s male_cosmetics 
-
-NOT PROCESSED 
-
-processing pattern %s curd_cheese 
-
-NOT PROCESSED 
-
-processing pattern %s cleaner 
-
-NOT PROCESSED 
-
-processing pattern %s liver_loaf 
-
-NOT PROCESSED 
-
-processing pattern %s spices 
-
-NOT PROCESSED 
-
-processing pattern %s jam 
-
-NOT PROCESSED 
-
-processing pattern %s jam whole_milk 
-
-1.0 
-
-processing pattern %s softener 
-
-NOT PROCESSED 
-
-processing pattern %s sauces 
-
-NOT PROCESSED 
-
-processing pattern %s sparkling_wine 
-
-NOT PROCESSED 
-
-processing pattern %s cereals 
-
-NOT PROCESSED 
-
-processing pattern %s cereals whole_milk 
-
-0.6 
-
-processing pattern %s dental_care 
-
-NOT PROCESSED 
-
-processing pattern %s kitchen_towels 
-
-NOT PROCESSED 
-
-processing pattern %s kitchen_towels whole_milk 
-
-1.0 
-
-processing pattern %s female_sanitary_products 
-
-NOT PROCESSED 
-
-processing pattern %s vinegar 
-
-NOT PROCESSED 
-
-processing pattern %s vinegar whole_milk 
-
-0.8 
-
-processing pattern %s soups whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables soups 
-
-0.6 
-
-processing pattern %s zwieback 
-
-NOT PROCESSED 
-
-processing pattern %s popcorn 
-
-NOT PROCESSED 
-
-processing pattern %s popcorn whole_milk 
-
-1.0 
-
-processing pattern %s instant_coffee 
-
-NOT PROCESSED 
-
-processing pattern %s rice root_vegetables 
-
-0.6 
-
-processing pattern %s other_vegetables rice 
-
-0.6 
-
-processing pattern %s other_vegetables rice whole_milk 
-
-0.8 
-
-processing pattern %s rice whole_milk 
-
-0.8 
-
-processing pattern %s liquor_appetizer 
-
-NOT PROCESSED 
-
-processing pattern %s Instant_food_products other_vegetables 
-
-0.6 
-
-processing pattern %s Instant_food_products whole_milk 
-
-0.8 
-
-processing pattern %s Instant_food_products hamburger_meat 
-
-0.6 
-
-processing pattern %s root_vegetables turkey 
-
-0.8 
-
-processing pattern %s tropical_fruit turkey 
-
-0.8 
-
-processing pattern %s turkey whole_milk 
-
-1.0 
-
-processing pattern %s other_vegetables turkey 
-
-0.8 
-
-processing pattern %s house_keeping_products other_vegetables 
-
-0.4 
-
-processing pattern %s house_keeping_products whole_milk 
-
-0.6 
-
-processing pattern %s frozen_potato_products other_vegetables 
-
-0.8 
-
-processing pattern %s frozen_potato_products soda 
-
-0.8 
-
-processing pattern %s frozen_potato_products whole_milk 
-
-1.0 
-
-processing pattern %s specialty_cheese yogurt 
-
-0.6 
-
-processing pattern %s specialty_cheese whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables specialty_cheese 
-
-0.6 
-
-processing pattern %s dog_food 
-
-NOT PROCESSED 
-
-processing pattern %s dog_food whole_milk 
-
-0.6 
-
-processing pattern %s candles 
-
-NOT PROCESSED 
-
-processing pattern %s candles whole_milk 
-
-0.8 
-
-processing pattern %s soda sweet_spreads 
-
-0.6 
-
-processing pattern %s sweet_spreads whole_milk 
-
-0.8 
 
 processing pattern %s chocolate_marshmallow 
 
 NOT PROCESSED 
 
-processing pattern %s chocolate_marshmallow whole_milk 
+processing pattern %s mayonnaise 
 
-0.8 
-
-processing pattern %s mayonnaise root_vegetables 
-
-0.8 
-
-processing pattern %s mayonnaise yogurt 
-
-0.8 
-
-processing pattern %s mayonnaise rolls-buns 
-
-0.8 
-
-processing pattern %s mayonnaise whole_milk 
-
-1.0 
-
-processing pattern %s mayonnaise other_vegetables 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s photo-film 
 
@@ -930,1347 +624,159 @@ processing pattern %s pet_care
 
 NOT PROCESSED 
 
-processing pattern %s pet_care whole_milk 
+processing pattern %s condensed_milk 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s condensed_milk other_vegetables 
+processing pattern %s roll_products 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s coffee condensed_milk 
+processing pattern %s flower_seeds 
 
-0.8 
-
-processing pattern %s roll_products root_vegetables 
-
-0.6 
-
-processing pattern %s roll_products whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables roll_products 
-
-0.6 
-
-processing pattern %s flower_seeds other_vegetables 
-
-0.6 
-
-processing pattern %s flower_seeds whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s dish_cleaner 
 
 NOT PROCESSED 
 
-processing pattern %s dish_cleaner whole_milk 
+processing pattern %s frozen_dessert 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frozen_dessert soda 
+processing pattern %s salt 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frozen_dessert tropical_fruit 
+processing pattern %s canned_vegetables 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frozen_dessert rolls-buns 
+processing pattern %s liquor 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frozen_dessert other_vegetables 
+processing pattern %s spread_cheese 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frozen_dessert whole_milk 
+processing pattern %s cling_film 
 
-1.0 
+NOT PROCESSED 
 
-processing pattern %s root_vegetables salt 
+processing pattern %s frozen_fish 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s other_vegetables salt 
+processing pattern %s mustard 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s salt whole_milk 
+processing pattern %s packaged_fruit 
 
-1.0 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables root_vegetables 
+processing pattern %s cake_bar 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables tropical_fruit 
+processing pattern %s seasonal_products 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables yogurt 
+processing pattern %s canned_fish 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables soda 
+processing pattern %s pasta 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables whole_milk 
+processing pattern %s herbs 
 
-1.0 
+NOT PROCESSED 
 
-processing pattern %s canned_vegetables other_vegetables 
+processing pattern %s processed_cheese 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s liquor shopping_bags 
+processing pattern %s soft_cheese 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s bottled_beer liquor 
+processing pattern %s pot_plants 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s other_vegetables spread_cheese 
+processing pattern %s flour 
 
-0.6 
-
-processing pattern %s soda spread_cheese 
-
-0.6 
-
-processing pattern %s spread_cheese whole_milk 
-
-0.8 
-
-processing pattern %s spread_cheese yogurt 
-
-0.6 
-
-processing pattern %s rolls-buns spread_cheese 
-
-0.6 
-
-processing pattern %s cling_film yogurt 
-
-0.8 
-
-processing pattern %s cling_film other_vegetables 
-
-0.8 
-
-processing pattern %s cling_film whole_milk 
-
-1.0 
-
-processing pattern %s frozen_fish tropical_fruit 
-
-0.8 
-
-processing pattern %s frozen_fish root_vegetables 
-
-0.8 
-
-processing pattern %s frozen_fish yogurt 
-
-0.8 
-
-processing pattern %s frozen_fish other_vegetables 
-
-0.8 
-
-processing pattern %s frozen_fish other_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_fish whole_milk 
-
-1.0 
-
-processing pattern %s frankfurter mustard 
-
-1.0 
-
-processing pattern %s mustard tropical_fruit 
-
-0.8 
-
-processing pattern %s mustard other_vegetables 
-
-0.8 
-
-processing pattern %s mustard root_vegetables 
-
-0.8 
-
-processing pattern %s mustard rolls-buns 
-
-0.8 
-
-processing pattern %s mustard whole_milk 
-
-1.0 
-
-processing pattern %s packaged_fruit yogurt 
-
-0.6 
-
-processing pattern %s bottled_water packaged_fruit 
-
-0.6 
-
-processing pattern %s packaged_fruit rolls-buns 
-
-0.6 
-
-processing pattern %s other_vegetables packaged_fruit 
-
-0.6 
-
-processing pattern %s packaged_fruit root_vegetables 
-
-0.6 
-
-processing pattern %s packaged_fruit whole_milk 
-
-0.8 
-
-processing pattern %s cake_bar shopping_bags 
-
-0.8 
-
-processing pattern %s cake_bar rolls-buns 
-
-0.6 
-
-processing pattern %s cake_bar other_vegetables 
-
-0.6 
-
-processing pattern %s cake_bar soda 
-
-0.6 
-
-processing pattern %s cake_bar whole_milk 
-
-0.8 
-
-processing pattern %s seasonal_products shopping_bags 
-
-0.6 
-
-processing pattern %s seasonal_products soda 
-
-0.4 
-
-processing pattern %s rolls-buns seasonal_products 
-
-0.4 
-
-processing pattern %s seasonal_products yogurt 
-
-0.4 
-
-processing pattern %s other_vegetables seasonal_products 
-
-0.4 
-
-processing pattern %s seasonal_products whole_milk 
-
-0.6 
-
-processing pattern %s canned_fish root_vegetables 
-
-0.8 
-
-processing pattern %s canned_fish soda 
-
-0.8 
-
-processing pattern %s canned_fish shopping_bags 
-
-1.0 
-
-processing pattern %s canned_fish yogurt 
-
-0.8 
-
-processing pattern %s canned_fish rolls-buns 
-
-0.8 
-
-processing pattern %s canned_fish whole_milk 
-
-1.0 
-
-processing pattern %s canned_fish other_vegetables 
-
-0.8 
-
-processing pattern %s hamburger_meat pasta 
-
-0.6 
-
-processing pattern %s pasta yogurt 
-
-0.6 
-
-processing pattern %s pasta root_vegetables 
-
-0.6 
-
-processing pattern %s pasta soda 
-
-0.6 
-
-processing pattern %s other_vegetables pasta 
-
-0.6 
-
-processing pattern %s pasta whole_milk 
-
-0.8 
-
-processing pattern %s frozen_vegetables herbs 
-
-1.0 
-
-processing pattern %s butter herbs 
-
-0.8 
-
-processing pattern %s beef herbs 
-
-0.8 
-
-processing pattern %s herbs tropical_fruit 
-
-0.8 
-
-processing pattern %s citrus_fruit herbs 
-
-0.8 
-
-processing pattern %s herbs rolls-buns 
-
-0.8 
-
-processing pattern %s bottled_water herbs 
-
-0.8 
-
-processing pattern %s herbs whipped_sour_cream 
-
-0.8 
-
-processing pattern %s herbs yogurt 
-
-0.8 
-
-processing pattern %s herbs other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s herbs root_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s herbs other_vegetables 
-
-0.8 
-
-processing pattern %s herbs whole_milk 
-
-1.0 
-
-processing pattern %s herbs other_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s processed_cheese yogurt 
-
-0.6 
-
-processing pattern %s pastry processed_cheese 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice processed_cheese 
-
-0.6 
-
-processing pattern %s ham processed_cheese 
-
-0.6 
-
-processing pattern %s processed_cheese root_vegetables 
-
-0.6 
-
-processing pattern %s processed_cheese sausage 
-
-0.6 
-
-processing pattern %s processed_cheese white_bread 
-
-0.6 
-
-processing pattern %s processed_cheese tropical_fruit 
-
-0.6 
-
-processing pattern %s processed_cheese rolls-buns 
-
-0.6 
-
-processing pattern %s processed_cheese soda 
-
-0.6 
-
-processing pattern %s processed_cheese soda whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables processed_cheese 
-
-0.6 
-
-processing pattern %s other_vegetables processed_cheese whole_milk 
-
-0.8 
-
-processing pattern %s processed_cheese whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit soft_cheese 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice soft_cheese 
-
-0.6 
-
-processing pattern %s butter soft_cheese 
-
-0.6 
-
-processing pattern %s pastry soft_cheese 
-
-0.6 
-
-processing pattern %s soda soft_cheese 
-
-0.6 
-
-processing pattern %s shopping_bags soft_cheese 
-
-0.8 
-
-processing pattern %s pip_fruit soft_cheese 
-
-0.6 
-
-processing pattern %s soft_cheese whipped_sour_cream 
-
-0.6 
-
-processing pattern %s domestic_eggs soft_cheese 
-
-0.6 
-
-processing pattern %s soft_cheese tropical_fruit 
-
-0.6 
-
-processing pattern %s root_vegetables soft_cheese 
-
-0.6 
-
-processing pattern %s sausage soft_cheese 
-
-0.6 
-
-processing pattern %s rolls-buns soft_cheese 
-
-0.6 
-
-processing pattern %s other_vegetables soft_cheese yogurt 
-
-0.7 
-
-processing pattern %s soft_cheese whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables soft_cheese 
-
-0.6 
-
-processing pattern %s other_vegetables soft_cheese whole_milk 
-
-0.8 
-
-processing pattern %s soft_cheese whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice pot_plants 
-
-0.6 
-
-processing pattern %s bottled_water pot_plants 
-
-0.6 
-
-processing pattern %s pot_plants soda 
-
-0.6 
-
-processing pattern %s pot_plants rolls-buns 
-
-0.6 
-
-processing pattern %s pot_plants tropical_fruit 
-
-0.6 
-
-processing pattern %s pot_plants yogurt 
-
-0.6 
-
-processing pattern %s other_vegetables pot_plants 
-
-0.6 
-
-processing pattern %s pot_plants whole_milk 
-
-0.8 
-
-processing pattern %s flour pastry 
-
-0.6 
-
-processing pattern %s bottled_water flour 
-
-0.6 
-
-processing pattern %s beef flour 
-
-0.6 
-
-processing pattern %s flour soda 
-
-0.6 
-
-processing pattern %s curd flour 
-
-0.6 
-
-processing pattern %s citrus_fruit flour 
-
-0.6 
-
-processing pattern %s flour tropical_fruit 
-
-0.6 
-
-processing pattern %s domestic_eggs flour 
-
-0.6 
-
-processing pattern %s flour rolls-buns 
-
-0.6 
-
-processing pattern %s flour margarine 
-
-0.8 
-
-processing pattern %s flour whipped_sour_cream 
-
-0.6 
-
-processing pattern %s flour whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s flour root_vegetables 
-
-0.6 
-
-processing pattern %s flour root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s flour whole_milk yogurt 
-
-0.8 
-
-processing pattern %s flour other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s flour sugar 
-
-0.6 
-
-processing pattern %s flour sugar whole_milk 
-
-0.8 
-
-processing pattern %s flour other_vegetables 
-
-0.6 
-
-processing pattern %s flour other_vegetables whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s flour whole_milk 
 
 0.8 
 
-processing pattern %s bottled_water semi-finished_bread 
+processing pattern %s dishes 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s newspapers semi-finished_bread 
+processing pattern %s semi-finished_bread 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s sausage semi-finished_bread 
+processing pattern %s baking_powder 
 
-0.6 
-
-processing pattern %s pip_fruit semi-finished_bread 
-
-0.6 
-
-processing pattern %s semi-finished_bread shopping_bags 
-
-0.8 
-
-processing pattern %s pastry semi-finished_bread 
-
-0.6 
-
-processing pattern %s rolls-buns semi-finished_bread 
-
-0.6 
-
-processing pattern %s semi-finished_bread yogurt 
-
-0.6 
-
-processing pattern %s semi-finished_bread soda 
-
-0.6 
-
-processing pattern %s semi-finished_bread tropical_fruit 
-
-0.6 
-
-processing pattern %s other_vegetables semi-finished_bread 
-
-0.6 
-
-processing pattern %s other_vegetables semi-finished_bread whole_milk 
-
-0.8 
-
-processing pattern %s semi-finished_bread whole_milk 
-
-0.8 
-
-processing pattern %s dishes root_vegetables 
-
-0.6 
-
-processing pattern %s dishes napkins 
-
-0.6 
-
-processing pattern %s dishes rolls-buns 
-
-0.6 
-
-processing pattern %s dishes yogurt 
-
-0.6 
-
-processing pattern %s dishes whole_milk 
-
-0.8 
-
-processing pattern %s dishes other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s dishes other_vegetables 
-
-0.6 
-
-processing pattern %s baking_powder pip_fruit 
-
-0.6 
-
-processing pattern %s baking_powder bottled_water 
-
-0.6 
-
-processing pattern %s baking_powder butter 
-
-0.6 
-
-processing pattern %s baking_powder margarine 
-
-0.8 
-
-processing pattern %s baking_powder domestic_eggs 
-
-0.6 
-
-processing pattern %s baking_powder sugar 
-
-0.6 
-
-processing pattern %s baking_powder citrus_fruit 
-
-0.6 
-
-processing pattern %s baking_powder rolls-buns 
-
-0.6 
-
-processing pattern %s baking_powder root_vegetables 
-
-0.6 
-
-processing pattern %s baking_powder other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s baking_powder tropical_fruit 
-
-0.6 
-
-processing pattern %s baking_powder yogurt 
-
-0.6 
-
-processing pattern %s baking_powder whole_milk yogurt 
-
-0.8 
-
-processing pattern %s baking_powder whipped_sour_cream 
-
-0.6 
-
-processing pattern %s baking_powder whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s baking_powder other_vegetables 
-
-0.6 
-
-processing pattern %s baking_powder other_vegetables whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s baking_powder whole_milk 
 
 0.8 
 
-processing pattern %s frozen_vegetables pickled_vegetables 
+processing pattern %s pickled_vegetables 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s frankfurter pickled_vegetables 
+processing pattern %s white_wine 
 
-0.8 
+NOT PROCESSED 
 
-processing pattern %s pickled_vegetables sausage 
+processing pattern %s detergent 
 
-0.6 
-
-processing pattern %s bottled_water pickled_vegetables 
-
-0.6 
-
-processing pattern %s citrus_fruit pickled_vegetables 
-
-0.6 
-
-processing pattern %s pickled_vegetables yogurt 
-
-0.6 
-
-processing pattern %s pickled_vegetables tropical_fruit 
-
-0.6 
-
-processing pattern %s pickled_vegetables soda 
-
-0.6 
-
-processing pattern %s pickled_vegetables root_vegetables 
-
-0.6 
-
-processing pattern %s pickled_vegetables rolls-buns 
-
-0.6 
-
-processing pattern %s other_vegetables pickled_vegetables 
-
-0.6 
-
-processing pattern %s pickled_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s white_wine whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns white_wine 
-
-0.6 
-
-processing pattern %s shopping_bags white_wine 
-
-0.8 
-
-processing pattern %s soda white_wine 
-
-0.6 
-
-processing pattern %s bottled_water white_wine 
-
-0.6 
-
-processing pattern %s detergent sausage 
-
-0.6 
-
-processing pattern %s detergent shopping_bags 
-
-0.8 
-
-processing pattern %s detergent pip_fruit 
-
-0.6 
-
-processing pattern %s detergent frozen_vegetables 
-
-0.8 
-
-processing pattern %s detergent rolls-buns 
-
-0.6 
-
-processing pattern %s detergent tropical_fruit 
-
-0.6 
-
-processing pattern %s detergent soda 
-
-0.6 
-
-processing pattern %s detergent yogurt 
-
-0.6 
-
-processing pattern %s detergent root_vegetables 
-
-0.6 
-
-processing pattern %s detergent root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s detergent other_vegetables 
-
-0.6 
-
-processing pattern %s detergent other_vegetables whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s detergent whole_milk 
 
 0.8 
 
-processing pattern %s canned_beer red-blush_wine 
+processing pattern %s red-blush_wine 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s red-blush_wine tropical_fruit 
+processing pattern %s chewing_gum 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s red-blush_wine root_vegetables 
+processing pattern %s grapes 
 
-0.6 
-
-processing pattern %s red-blush_wine shopping_bags 
-
-0.8 
-
-processing pattern %s bottled_water red-blush_wine 
-
-0.6 
-
-processing pattern %s red-blush_wine rolls-buns 
-
-0.6 
-
-processing pattern %s red-blush_wine whole_milk 
-
-0.8 
-
-processing pattern %s red-blush_wine soda 
-
-0.6 
-
-processing pattern %s bottled_beer red-blush_wine 
-
-0.6 
-
-processing pattern %s other_vegetables red-blush_wine 
-
-0.6 
-
-processing pattern %s chewing_gum tropical_fruit 
-
-0.6 
-
-processing pattern %s bottled_water chewing_gum 
-
-0.6 
-
-processing pattern %s chewing_gum shopping_bags 
-
-0.8 
-
-processing pattern %s chewing_gum rolls-buns 
-
-0.6 
-
-processing pattern %s chewing_gum other_vegetables 
-
-0.6 
-
-processing pattern %s chewing_gum whole_milk 
-
-0.8 
-
-processing pattern %s chewing_gum soda 
-
-0.6 
-
-processing pattern %s beef grapes 
-
-0.6 
-
-processing pattern %s berries grapes 
-
-0.6 
-
-processing pattern %s grapes whipped_sour_cream 
-
-0.6 
-
-processing pattern %s grapes sausage 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice grapes 
-
-0.6 
-
-processing pattern %s grapes pip_fruit 
-
-0.6 
-
-processing pattern %s grapes pastry 
-
-0.6 
-
-processing pattern %s citrus_fruit grapes 
-
-0.6 
-
-processing pattern %s grapes soda 
-
-0.6 
-
-processing pattern %s bottled_water grapes 
-
-0.6 
-
-processing pattern %s grapes root_vegetables 
-
-0.6 
-
-processing pattern %s grapes other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s grapes yogurt 
-
-0.6 
-
-processing pattern %s grapes other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s grapes rolls-buns 
-
-0.6 
-
-processing pattern %s grapes tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s grapes other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s grapes whole_milk 
-
-0.8 
-
-processing pattern %s grapes other_vegetables whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s grapes other_vegetables 
 
 0.6 
 
-processing pattern %s cat_food domestic_eggs 
+processing pattern %s cat_food 
 
-0.4 
-
-processing pattern %s cat_food newspapers 
-
-0.4 
-
-processing pattern %s cat_food coffee 
-
-0.4 
-
-processing pattern %s cat_food whipped_sour_cream 
-
-0.4 
-
-processing pattern %s cat_food margarine 
-
-0.6 
-
-processing pattern %s cat_food pastry 
-
-0.4 
-
-processing pattern %s cat_food chocolate 
-
-0.4 
-
-processing pattern %s beef cat_food 
-
-0.4 
-
-processing pattern %s cat_food sausage 
-
-0.4 
-
-processing pattern %s cat_food napkins 
-
-0.4 
-
-processing pattern %s cat_food citrus_fruit 
-
-0.4 
-
-processing pattern %s cat_food rolls-buns 
-
-0.4 
-
-processing pattern %s bottled_water cat_food 
-
-0.4 
-
-processing pattern %s cat_food soda 
-
-0.4 
-
-processing pattern %s cat_food shopping_bags 
-
-0.6 
-
-processing pattern %s cat_food root_vegetables 
-
-0.4 
-
-processing pattern %s cat_food other_vegetables root_vegetables 
-
-0.6 
-
-processing pattern %s cat_food tropical_fruit 
-
-0.4 
-
-processing pattern %s cat_food tropical_fruit whole_milk 
-
-0.7 
-
-processing pattern %s cat_food other_vegetables yogurt 
-
-0.6 
-
-processing pattern %s cat_food whole_milk yogurt 
-
-0.7 
-
-processing pattern %s cat_food other_vegetables 
-
-0.4 
-
-processing pattern %s cat_food other_vegetables whole_milk 
-
-0.7 
+NOT PROCESSED 
 
 processing pattern %s cat_food whole_milk 
 
 0.6 
 
-processing pattern %s hard_cheese newspapers 
-
-0.6 
-
-processing pattern %s ham hard_cheese 
-
-0.6 
-
-processing pattern %s hard_cheese pastry 
-
-0.6 
-
-processing pattern %s hard_cheese pip_fruit 
-
-0.6 
-
-processing pattern %s hard_cheese shopping_bags 
-
-0.8 
-
-processing pattern %s citrus_fruit hard_cheese 
-
-0.6 
-
-processing pattern %s hard_cheese napkins 
-
-0.6 
-
-processing pattern %s bottled_water hard_cheese 
-
-0.6 
-
-processing pattern %s domestic_eggs hard_cheese 
-
-0.6 
-
-processing pattern %s butter hard_cheese 
-
-0.6 
-
-processing pattern %s hard_cheese tropical_fruit 
-
-0.6 
-
-processing pattern %s hard_cheese soda 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice hard_cheese 
-
-0.6 
-
-processing pattern %s hard_cheese whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s hard_cheese other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s hard_cheese sausage 
-
-0.6 
-
-processing pattern %s hard_cheese other_vegetables sausage 
-
-0.7 
-
-processing pattern %s hard_cheese root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s hard_cheese other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s hard_cheese rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s hard_cheese other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s hard_cheese other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s hard_cheese whole_milk yogurt 
-
-0.8 
-
 processing pattern %s hard_cheese other_vegetables 
 
 0.6 
 
-processing pattern %s hard_cheese other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s hard_cheese whole_milk 
-
-0.8 
-
-processing pattern %s coffee sliced_cheese 
-
-0.6 
-
-processing pattern %s ham sliced_cheese 
-
-0.6 
-
-processing pattern %s brown_bread sliced_cheese 
-
-0.6 
-
-processing pattern %s curd sliced_cheese 
-
-0.6 
-
-processing pattern %s pork sliced_cheese 
-
-0.6 
-
-processing pattern %s margarine sliced_cheese 
-
-0.8 
-
-processing pattern %s napkins sliced_cheese 
-
-0.6 
-
-processing pattern %s newspapers sliced_cheese 
-
-0.6 
-
-processing pattern %s domestic_eggs sliced_cheese 
-
-0.6 
-
-processing pattern %s citrus_fruit sliced_cheese 
-
-0.6 
-
-processing pattern %s pastry sliced_cheese 
-
-0.6 
-
-processing pattern %s butter sliced_cheese 
-
-0.6 
-
-processing pattern %s sliced_cheese whipped_sour_cream 
-
-0.6 
-
-processing pattern %s sliced_cheese whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water sliced_cheese 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice sliced_cheese 
-
-0.6 
-
-processing pattern %s pip_fruit sliced_cheese 
-
-0.6 
-
-processing pattern %s shopping_bags sliced_cheese 
-
-0.8 
-
-processing pattern %s sliced_cheese soda 
-
-0.6 
-
-processing pattern %s sliced_cheese tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s sliced_cheese tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables sliced_cheese tropical_fruit 
-
-0.7 
-
-processing pattern %s root_vegetables sliced_cheese whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables sliced_cheese 
-
-0.7 
-
-processing pattern %s rolls-buns sausage sliced_cheese 
-
-0.7 
-
-processing pattern %s sausage sliced_cheese whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns sliced_cheese 
-
-0.6 
-
-processing pattern %s rolls-buns sliced_cheese whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables sliced_cheese yogurt 
-
-0.7 
-
-processing pattern %s sliced_cheese whole_milk yogurt 
 
 0.8 
 
@@ -2278,899 +784,71 @@ processing pattern %s other_vegetables sliced_cheese
 
 0.6 
 
-processing pattern %s other_vegetables sliced_cheese whole_milk 
-
-0.8 
-
 processing pattern %s sliced_cheese whole_milk 
 
 0.8 
 
-processing pattern %s ice_cream whipped_sour_cream 
+processing pattern %s ice_cream 
 
-0.6 
-
-processing pattern %s bottled_water ice_cream 
-
-0.6 
-
-processing pattern %s ice_cream root_vegetables 
-
-0.6 
-
-processing pattern %s ice_cream newspapers 
-
-0.6 
-
-processing pattern %s ice_cream shopping_bags 
-
-0.8 
-
-processing pattern %s ice_cream rolls-buns 
-
-0.6 
-
-processing pattern %s ice_cream yogurt 
-
-0.6 
-
-processing pattern %s ice_cream tropical_fruit 
-
-0.6 
-
-processing pattern %s ice_cream other_vegetables 
-
-0.6 
-
-processing pattern %s ice_cream whole_milk 
-
-0.8 
-
-processing pattern %s ice_cream soda 
-
-0.6 
-
-processing pattern %s meat pastry 
-
-0.6 
-
-processing pattern %s meat pork 
-
-0.6 
-
-processing pattern %s meat pip_fruit 
-
-0.6 
-
-processing pattern %s bottled_water meat 
-
-0.6 
-
-processing pattern %s butter meat 
-
-0.6 
-
-processing pattern %s meat newspapers 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice meat 
-
-0.6 
-
-processing pattern %s frankfurter meat 
-
-0.8 
-
-processing pattern %s meat tropical_fruit 
-
-0.6 
-
-processing pattern %s domestic_eggs meat 
-
-0.6 
-
-processing pattern %s meat shopping_bags 
-
-0.8 
-
-processing pattern %s citrus_fruit meat 
-
-0.6 
-
-processing pattern %s meat whipped_sour_cream 
-
-0.6 
-
-processing pattern %s brown_bread meat 
-
-0.6 
-
-processing pattern %s meat other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s meat root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s meat sausage 
-
-0.6 
-
-processing pattern %s meat yogurt 
-
-0.6 
-
-processing pattern %s meat other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s meat soda 
-
-0.6 
-
-processing pattern %s meat other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s meat rolls-buns whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s meat other_vegetables 
 
 0.6 
 
-processing pattern %s meat other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s meat whole_milk 
 
 0.8 
 
-processing pattern %s beverages sausage 
+processing pattern %s beverages 
 
-0.6 
-
-processing pattern %s beverages fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s beverages pip_fruit 
-
-0.6 
-
-processing pattern %s beverages bottled_water 
-
-0.6 
-
-processing pattern %s beverages shopping_bags 
-
-0.8 
-
-processing pattern %s beverages root_vegetables 
-
-0.6 
-
-processing pattern %s beverages pastry 
-
-0.6 
-
-processing pattern %s beverages tropical_fruit 
-
-0.6 
-
-processing pattern %s beverages soda 
-
-0.6 
-
-processing pattern %s beverages other_vegetables 
-
-0.6 
-
-processing pattern %s beverages rolls-buns 
-
-0.6 
-
-processing pattern %s beverages yogurt 
-
-0.6 
-
-processing pattern %s beverages whole_milk 
-
-0.8 
-
-processing pattern %s frankfurter ham 
-
-0.8 
-
-processing pattern %s ham napkins 
-
-0.6 
-
-processing pattern %s brown_bread ham 
-
-0.6 
-
-processing pattern %s ham margarine 
-
-0.8 
-
-processing pattern %s chocolate ham 
-
-0.6 
-
-processing pattern %s dessert ham 
-
-0.6 
-
-processing pattern %s citrus_fruit ham 
-
-0.6 
-
-processing pattern %s bottled_water ham 
-
-0.6 
-
-processing pattern %s butter ham 
-
-0.6 
-
-processing pattern %s ham root_vegetables 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice ham 
-
-0.6 
-
-processing pattern %s ham shopping_bags 
-
-0.8 
-
-processing pattern %s ham pip_fruit 
-
-0.6 
-
-processing pattern %s ham other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s ham whipped_sour_cream 
-
-0.6 
-
-processing pattern %s ham whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs ham 
-
-0.6 
-
-processing pattern %s ham pastry 
-
-0.6 
-
-processing pattern %s ham soda 
-
-0.6 
-
-processing pattern %s ham sausage 
-
-0.6 
-
-processing pattern %s ham white_bread 
-
-0.6 
-
-processing pattern %s ham other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s ham tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s ham other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s ham whole_milk yogurt 
-
-0.8 
-
-processing pattern %s ham rolls-buns 
-
-0.6 
-
-processing pattern %s ham rolls-buns whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s ham other_vegetables 
 
 0.6 
 
-processing pattern %s ham other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s ham whole_milk 
 
 0.8 
 
-processing pattern %s fruitvegetable_juice specialty_bar 
+processing pattern %s specialty_bar 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s bottled_water specialty_bar 
-
-0.6 
-
-processing pattern %s citrus_fruit specialty_bar 
-
-0.6 
-
-processing pattern %s specialty_bar waffles 
-
-0.6 
-
-processing pattern %s chocolate specialty_bar 
-
-0.6 
-
-processing pattern %s specialty_bar tropical_fruit 
-
-0.6 
-
-processing pattern %s shopping_bags specialty_bar 
+processing pattern %s butter_milk yogurt 
 
 0.8 
-
-processing pattern %s pastry specialty_bar 
-
-0.6 
-
-processing pattern %s specialty_bar yogurt 
-
-0.6 
-
-processing pattern %s rolls-buns specialty_bar 
-
-0.6 
-
-processing pattern %s other_vegetables specialty_bar 
-
-0.6 
-
-processing pattern %s specialty_bar whole_milk 
-
-0.8 
-
-processing pattern %s soda specialty_bar 
-
-0.6 
-
-processing pattern %s butter_milk coffee 
-
-0.8 
-
-processing pattern %s butter_milk dessert 
-
-0.8 
-
-processing pattern %s butter_milk cream_cheese 
-
-0.8 
-
-processing pattern %s butter_milk curd 
-
-0.8 
-
-processing pattern %s butter_milk frankfurter 
-
-1.0 
-
-processing pattern %s butter_milk pastry 
-
-0.8 
-
-processing pattern %s butter_milk sausage 
-
-0.8 
-
-processing pattern %s bottled_water butter_milk 
-
-0.8 
-
-processing pattern %s brown_bread butter_milk 
-
-0.8 
-
-processing pattern %s butter_milk whipped_sour_cream 
-
-0.8 
-
-processing pattern %s butter_milk whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s butter_milk shopping_bags 
-
-1.0 
-
-processing pattern %s butter_milk citrus_fruit 
-
-0.8 
-
-processing pattern %s butter_milk soda 
-
-0.8 
-
-processing pattern %s butter_milk fruitvegetable_juice 
-
-0.8 
-
-processing pattern %s butter_milk other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s butter_milk root_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s butter_milk pip_fruit whole_milk 
-
-0.9 
-
-processing pattern %s butter_milk other_vegetables pip_fruit 
-
-0.8 
-
-processing pattern %s butter_milk tropical_fruit 
-
-0.8 
-
-processing pattern %s butter_milk tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s butter_milk rolls-buns yogurt 
-
-0.8 
-
-processing pattern %s butter_milk other_vegetables rolls-buns 
-
-0.8 
-
-processing pattern %s butter_milk rolls-buns whole_milk 
-
-0.9 
-
-processing pattern %s butter_milk other_vegetables yogurt 
-
-0.8 
-
-processing pattern %s butter_milk whole_milk yogurt 
-
-0.9 
 
 processing pattern %s butter_milk other_vegetables 
 
 0.8 
 
-processing pattern %s butter_milk other_vegetables whole_milk 
-
-0.9 
-
 processing pattern %s butter_milk whole_milk 
 
 1.0 
-
-processing pattern %s frankfurter oil 
-
-0.8 
-
-processing pattern %s hygiene_articles oil 
-
-0.4 
-
-processing pattern %s curd oil 
-
-0.6 
-
-processing pattern %s chocolate oil 
-
-0.6 
-
-processing pattern %s oil pip_fruit 
-
-0.6 
-
-processing pattern %s oil shopping_bags 
-
-0.8 
-
-processing pattern %s oil pastry 
-
-0.6 
-
-processing pattern %s newspapers oil 
-
-0.6 
-
-processing pattern %s oil pork 
-
-0.6 
-
-processing pattern %s beef oil 
-
-0.6 
-
-processing pattern %s coffee oil 
-
-0.6 
-
-processing pattern %s bottled_beer oil 
-
-0.6 
-
-processing pattern %s butter oil 
-
-0.6 
-
-processing pattern %s margarine oil 
-
-0.8 
-
-processing pattern %s domestic_eggs oil 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice oil 
-
-0.6 
-
-processing pattern %s oil sausage 
-
-0.6 
-
-processing pattern %s bottled_water oil 
-
-0.6 
-
-processing pattern %s oil whipped_sour_cream 
-
-0.6 
-
-processing pattern %s oil other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s oil tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s oil soda 
-
-0.6 
-
-processing pattern %s citrus_fruit oil whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit oil other_vegetables 
-
-0.7 
-
-processing pattern %s oil rolls-buns 
-
-0.6 
-
-processing pattern %s oil rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s oil whole_milk yogurt 
-
-0.8 
-
-processing pattern %s oil other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s oil other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s oil other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s oil root_vegetables whole_milk 
-
-0.8 
 
 processing pattern %s oil other_vegetables 
 
 0.6 
 
-processing pattern %s oil other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s oil whole_milk 
 
 0.8 
 
-processing pattern %s frozen_meals white_bread 
+processing pattern %s misc._beverages 
 
-0.6 
+NOT PROCESSED 
 
-processing pattern %s frozen_meals newspapers 
+processing pattern %s frozen_meals 
 
-0.6 
-
-processing pattern %s frozen_meals long_life_bakery_product 
-
-0.4 
-
-processing pattern %s bottled_beer frozen_meals 
-
-0.6 
-
-processing pattern %s butter frozen_meals 
-
-0.6 
-
-processing pattern %s frozen_meals pastry 
-
-0.6 
-
-processing pattern %s frozen_meals whipped_sour_cream 
-
-0.6 
-
-processing pattern %s brown_bread frozen_meals 
-
-0.6 
-
-processing pattern %s frankfurter frozen_meals 
-
-0.8 
-
-processing pattern %s domestic_eggs frozen_meals 
-
-0.6 
-
-processing pattern %s bottled_water frozen_meals 
-
-0.6 
-
-processing pattern %s citrus_fruit frozen_meals 
-
-0.6 
-
-processing pattern %s frozen_meals sausage 
-
-0.6 
-
-processing pattern %s frozen_meals frozen_vegetables 
-
-0.8 
-
-processing pattern %s frozen_meals other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s frozen_meals root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s frozen_meals fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s frozen_meals pip_fruit 
-
-0.6 
-
-processing pattern %s frozen_meals shopping_bags 
-
-0.8 
-
-processing pattern %s frozen_meals rolls-buns 
-
-0.6 
-
-processing pattern %s frozen_meals tropical_fruit 
-
-0.6 
-
-processing pattern %s frozen_meals tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s frozen_meals yogurt 
-
-0.6 
-
-processing pattern %s frozen_meals whole_milk yogurt 
-
-0.8 
-
-processing pattern %s frozen_meals soda 
-
-0.6 
-
-processing pattern %s frozen_meals other_vegetables 
-
-0.6 
-
-processing pattern %s frozen_meals other_vegetables whole_milk 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s frozen_meals whole_milk 
 
 0.8 
 
-processing pattern %s butter misc._beverages 
-
-0.6 
-
-processing pattern %s domestic_eggs misc._beverages 
-
-0.6 
-
-processing pattern %s misc._beverages root_vegetables 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice misc._beverages 
-
-0.6 
-
-processing pattern %s misc._beverages shopping_bags 
-
-0.8 
-
-processing pattern %s misc._beverages yogurt 
-
-0.6 
-
-processing pattern %s misc._beverages tropical_fruit 
-
-0.6 
-
-processing pattern %s misc._beverages rolls-buns 
-
-0.6 
-
-processing pattern %s bottled_water misc._beverages 
-
-0.6 
-
-processing pattern %s misc._beverages other_vegetables 
-
-0.6 
-
-processing pattern %s misc._beverages whole_milk 
-
-0.8 
-
-processing pattern %s misc._beverages soda 
-
-0.6 
-
-processing pattern %s candy salty_snack 
-
-0.8 
-
-processing pattern %s candy domestic_eggs 
-
-0.6 
-
-processing pattern %s candy white_bread 
-
-0.6 
-
-processing pattern %s candy long_life_bakery_product 
-
-0.4 
-
-processing pattern %s candy coffee 
-
-0.6 
-
-processing pattern %s butter candy 
-
-0.6 
-
-processing pattern %s candy waffles 
-
-0.6 
-
-processing pattern %s candy margarine 
-
-0.8 
-
-processing pattern %s candy whipped_sour_cream 
-
-0.6 
-
-processing pattern %s candy pastry 
-
-0.6 
-
-processing pattern %s candy sausage 
-
-0.6 
-
-processing pattern %s bottled_water candy 
-
-0.6 
-
-processing pattern %s candy citrus_fruit 
-
-0.6 
-
-processing pattern %s candy fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s candy root_vegetables 
-
-0.6 
-
-processing pattern %s candy shopping_bags 
-
-0.8 
-
-processing pattern %s candy chocolate 
-
-0.6 
-
-processing pattern %s candy tropical_fruit 
-
-0.6 
-
-processing pattern %s candy yogurt 
-
-0.6 
-
-processing pattern %s candy whole_milk yogurt 
-
-0.8 
-
-processing pattern %s candy other_vegetables soda 
-
-0.7 
-
-processing pattern %s candy other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s candy other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s candy rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s candy rolls-buns soda 
-
-0.7 
-
 processing pattern %s candy whole_milk 
-
-0.8 
-
-processing pattern %s candy soda whole_milk 
 
 0.8 
 
@@ -3178,219 +856,15 @@ processing pattern %s candy soda
 
 0.6 
 
-processing pattern %s fruitvegetable_juice specialty_chocolate 
+processing pattern %s specialty_chocolate 
+
+NOT PROCESSED 
+
+processing pattern %s onions root_vegetables 
 
 0.6 
-
-processing pattern %s specialty_chocolate whipped_sour_cream 
-
-0.6 
-
-processing pattern %s chocolate specialty_chocolate 
-
-0.6 
-
-processing pattern %s root_vegetables specialty_chocolate 
-
-0.6 
-
-processing pattern %s specialty_chocolate tropical_fruit 
-
-0.6 
-
-processing pattern %s pastry specialty_chocolate 
-
-0.6 
-
-processing pattern %s bottled_water specialty_chocolate 
-
-0.6 
-
-processing pattern %s specialty_chocolate yogurt 
-
-0.6 
-
-processing pattern %s specialty_chocolate whole_milk yogurt 
-
-0.8 
-
-processing pattern %s shopping_bags specialty_chocolate 
-
-0.8 
-
-processing pattern %s rolls-buns specialty_chocolate 
-
-0.6 
-
-processing pattern %s other_vegetables specialty_chocolate 
-
-0.6 
-
-processing pattern %s soda specialty_chocolate 
-
-0.6 
-
-processing pattern %s specialty_chocolate whole_milk 
-
-0.8 
-
-processing pattern %s coffee onions 
-
-0.6 
-
-processing pattern %s curd onions 
-
-0.6 
-
-processing pattern %s chicken onions 
-
-0.8 
-
-processing pattern %s onions pastry 
-
-0.6 
-
-processing pattern %s beef onions 
-
-0.6 
-
-processing pattern %s frozen_vegetables onions 
-
-0.8 
-
-processing pattern %s napkins onions 
-
-0.6 
-
-processing pattern %s newspapers onions 
-
-0.6 
-
-processing pattern %s brown_bread onions 
-
-0.6 
-
-processing pattern %s bottled_beer onions 
-
-0.6 
-
-processing pattern %s onions pip_fruit 
-
-0.6 
-
-processing pattern %s onions sausage 
-
-0.6 
-
-processing pattern %s frankfurter onions 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice onions 
-
-0.6 
-
-processing pattern %s onions pork 
-
-0.6 
-
-processing pattern %s butter onions 
-
-0.6 
-
-processing pattern %s butter onions whole_milk 
-
-0.8 
-
-processing pattern %s onions shopping_bags 
-
-0.8 
-
-processing pattern %s domestic_eggs onions other_vegetables 
-
-0.7 
-
-processing pattern %s domestic_eggs onions whole_milk 
-
-0.8 
-
-processing pattern %s onions whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s onions soda 
-
-0.6 
-
-processing pattern %s onions other_vegetables soda 
-
-0.7 
-
-processing pattern %s citrus_fruit onions 
-
-0.6 
-
-processing pattern %s citrus_fruit onions other_vegetables 
-
-0.7 
-
-processing pattern %s onions tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water onions 
-
-0.6 
-
-processing pattern %s bottled_water onions other_vegetables 
-
-0.7 
-
-processing pattern %s onions rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s onions rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s onions whole_milk yogurt 
-
-0.8 
-
-processing pattern %s onions other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s onions root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables root_vegetables 
-
-0.7 
 
 processing pattern %s onions whole_milk 
-
-0.8 
-
-processing pattern %s onions other_vegetables whole_milk 
 
 0.8 
 
@@ -3398,755 +872,47 @@ processing pattern %s onions other_vegetables
 
 0.6 
 
-processing pattern %s hamburger_meat hygiene_articles 
-
-0.4 
-
-processing pattern %s hygiene_articles sugar 
-
-0.4 
-
-processing pattern %s chocolate hygiene_articles 
-
-0.4 
-
-processing pattern %s bottled_beer hygiene_articles 
-
-0.4 
-
-processing pattern %s hygiene_articles newspapers 
-
-0.4 
-
-processing pattern %s frozen_vegetables hygiene_articles 
-
-0.6 
-
-processing pattern %s brown_bread hygiene_articles 
-
-0.4 
-
-processing pattern %s frankfurter hygiene_articles 
-
-0.6 
-
-processing pattern %s beef hygiene_articles 
-
-0.4 
-
-processing pattern %s coffee hygiene_articles 
-
-0.4 
-
-processing pattern %s hygiene_articles pork 
-
-0.4 
-
-processing pattern %s fruitvegetable_juice hygiene_articles 
-
-0.4 
-
-processing pattern %s hygiene_articles margarine 
-
-0.6 
-
-processing pattern %s curd hygiene_articles 
-
-0.4 
-
-processing pattern %s hygiene_articles whipped_sour_cream 
-
-0.4 
-
-processing pattern %s hygiene_articles sausage 
-
-0.4 
-
-processing pattern %s butter hygiene_articles 
-
-0.4 
-
-processing pattern %s butter hygiene_articles whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles pastry 
-
-0.4 
-
-processing pattern %s hygiene_articles pastry whole_milk 
-
-0.7 
-
-processing pattern %s domestic_eggs hygiene_articles 
-
-0.4 
-
-processing pattern %s domestic_eggs hygiene_articles whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles pip_fruit 
-
-0.4 
-
-processing pattern %s hygiene_articles pip_fruit whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles shopping_bags 
-
-0.6 
-
-processing pattern %s citrus_fruit hygiene_articles 
-
-0.4 
-
-processing pattern %s citrus_fruit hygiene_articles whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles other_vegetables root_vegetables 
-
-0.6 
-
-processing pattern %s hygiene_articles root_vegetables whole_milk 
-
-0.7 
-
-processing pattern %s bottled_water hygiene_articles 
-
-0.4 
-
-processing pattern %s bottled_water hygiene_articles whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles rolls-buns 
-
-0.4 
-
-processing pattern %s hygiene_articles rolls-buns whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles napkins 
-
-0.4 
-
-processing pattern %s hygiene_articles napkins whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles tropical_fruit yogurt 
-
-0.6 
-
-processing pattern %s hygiene_articles other_vegetables tropical_fruit 
-
-0.6 
-
-processing pattern %s hygiene_articles tropical_fruit whole_milk 
-
-0.7 
-
-processing pattern %s hygiene_articles soda 
-
-0.4 
-
-processing pattern %s hygiene_articles other_vegetables yogurt 
-
-0.6 
-
-processing pattern %s hygiene_articles whole_milk yogurt 
-
-0.7 
-
 processing pattern %s hygiene_articles other_vegetables 
 
 0.4 
-
-processing pattern %s hygiene_articles other_vegetables whole_milk 
-
-0.7 
 
 processing pattern %s hygiene_articles whole_milk 
 
 0.6 
 
-processing pattern %s dessert hamburger_meat 
+processing pattern %s hamburger_meat rolls-buns 
 
 0.6 
-
-processing pattern %s hamburger_meat napkins 
-
-0.6 
-
-processing pattern %s hamburger_meat newspapers 
-
-0.6 
-
-processing pattern %s hamburger_meat white_bread 
-
-0.6 
-
-processing pattern %s bottled_water hamburger_meat 
-
-0.6 
-
-processing pattern %s coffee hamburger_meat 
-
-0.6 
-
-processing pattern %s frozen_vegetables hamburger_meat 
-
-0.8 
-
-processing pattern %s hamburger_meat margarine 
-
-0.8 
-
-processing pattern %s curd hamburger_meat 
-
-0.6 
-
-processing pattern %s curd hamburger_meat whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat pork 
-
-0.6 
-
-processing pattern %s brown_bread hamburger_meat 
-
-0.6 
-
-processing pattern %s frankfurter hamburger_meat 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice hamburger_meat 
-
-0.6 
-
-processing pattern %s chicken hamburger_meat 
-
-0.8 
-
-processing pattern %s beef hamburger_meat 
-
-0.6 
-
-processing pattern %s citrus_fruit hamburger_meat 
-
-0.6 
-
-processing pattern %s hamburger_meat shopping_bags 
-
-0.8 
-
-processing pattern %s domestic_eggs hamburger_meat 
-
-0.6 
-
-processing pattern %s domestic_eggs hamburger_meat whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat tropical_fruit 
-
-0.6 
-
-processing pattern %s hamburger_meat whipped_sour_cream 
-
-0.6 
-
-processing pattern %s hamburger_meat whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s butter hamburger_meat 
-
-0.6 
-
-processing pattern %s butter hamburger_meat whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s hamburger_meat pastry 
-
-0.6 
-
-processing pattern %s hamburger_meat pastry whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat sausage 
-
-0.6 
-
-processing pattern %s hamburger_meat sausage whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat soda 
-
-0.6 
-
-processing pattern %s hamburger_meat other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s hamburger_meat root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s hamburger_meat whole_milk yogurt 
-
-0.8 
-
-processing pattern %s hamburger_meat rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s hamburger_meat other_vegetables rolls-buns 
-
-0.7 
 
 processing pattern %s hamburger_meat other_vegetables 
 
 0.6 
 
-processing pattern %s hamburger_meat other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s hamburger_meat whole_milk 
 
 0.8 
 
-processing pattern %s berries coffee 
+processing pattern %s berries whipped_sour_cream 
 
 0.6 
 
-processing pattern %s berries frozen_vegetables 
-
-0.8 
-
-processing pattern %s berries margarine 
-
-0.8 
-
-processing pattern %s berries newspapers 
+processing pattern %s berries other_vegetables 
 
 0.6 
-
-processing pattern %s berries napkins 
-
-0.6 
-
-processing pattern %s berries curd 
-
-0.6 
-
-processing pattern %s berries pork 
-
-0.6 
-
-processing pattern %s berries brown_bread 
-
-0.6 
-
-processing pattern %s berries chicken 
-
-0.8 
-
-processing pattern %s berries fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s berries pip_fruit 
-
-0.6 
-
-processing pattern %s berries butter 
-
-0.6 
-
-processing pattern %s berries domestic_eggs 
-
-0.6 
-
-processing pattern %s berries bottled_water 
-
-0.6 
-
-processing pattern %s berries pastry 
-
-0.6 
-
-processing pattern %s beef berries 
-
-0.6 
-
-processing pattern %s berries shopping_bags 
-
-0.8 
-
-processing pattern %s berries sausage 
-
-0.6 
-
-processing pattern %s berries citrus_fruit 
-
-0.6 
-
-processing pattern %s berries rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s berries other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s berries rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s berries other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s berries root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s berries other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s berries tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s berries soda 
-
-0.6 
-
-processing pattern %s berries soda yogurt 
-
-0.7 
-
-processing pattern %s berries whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s berries whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s berries other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s berries other_vegetables whole_milk 
-
-0.8 
 
 processing pattern %s berries yogurt 
 
 0.6 
 
-processing pattern %s berries whole_milk yogurt 
-
-0.8 
-
 processing pattern %s berries whole_milk 
 
 0.8 
 
-processing pattern %s UHT-milk napkins 
+processing pattern %s UHT-milk 
 
-0.8 
-
-processing pattern %s UHT-milk frozen_vegetables 
-
-1.0 
-
-processing pattern %s UHT-milk cream_cheese 
-
-0.8 
-
-processing pattern %s UHT-milk whipped_sour_cream 
-
-0.8 
-
-processing pattern %s UHT-milk dessert 
-
-0.8 
-
-processing pattern %s UHT-milk frankfurter 
-
-1.0 
-
-processing pattern %s UHT-milk pork 
-
-0.8 
-
-processing pattern %s UHT-milk sausage 
-
-0.8 
-
-processing pattern %s UHT-milk pastry 
-
-0.8 
-
-processing pattern %s UHT-milk pip_fruit 
-
-0.8 
-
-processing pattern %s UHT-milk margarine 
-
-1.0 
-
-processing pattern %s UHT-milk whole_milk 
-
-1.0 
-
-processing pattern %s UHT-milk fruitvegetable_juice 
-
-0.8 
-
-processing pattern %s UHT-milk domestic_eggs 
-
-0.8 
-
-processing pattern %s UHT-milk brown_bread 
-
-0.8 
-
-processing pattern %s UHT-milk coffee 
-
-0.8 
-
-processing pattern %s UHT-milk newspapers 
-
-0.8 
-
-processing pattern %s UHT-milk citrus_fruit 
-
-0.8 
-
-processing pattern %s UHT-milk shopping_bags 
-
-1.0 
-
-processing pattern %s UHT-milk root_vegetables 
-
-0.8 
-
-processing pattern %s UHT-milk tropical_fruit 
-
-0.8 
-
-processing pattern %s UHT-milk rolls-buns 
-
-0.8 
-
-processing pattern %s UHT-milk bottled_water 
-
-0.8 
-
-processing pattern %s UHT-milk bottled_water soda 
-
-0.8 
-
-processing pattern %s UHT-milk yogurt 
-
-0.8 
-
-processing pattern %s UHT-milk soda 
-
-0.8 
+NOT PROCESSED 
 
 processing pattern %s UHT-milk other_vegetables 
-
-0.8 
-
-processing pattern %s chicken sugar 
-
-0.8 
-
-processing pattern %s cream_cheese sugar 
-
-0.6 
-
-processing pattern %s sugar white_bread 
-
-0.6 
-
-processing pattern %s beef sugar 
-
-0.6 
-
-processing pattern %s butter sugar 
-
-0.6 
-
-processing pattern %s newspapers sugar 
-
-0.6 
-
-processing pattern %s frozen_vegetables sugar 
-
-0.8 
-
-processing pattern %s brown_bread sugar 
-
-0.6 
-
-processing pattern %s napkins sugar 
-
-0.6 
-
-processing pattern %s bottled_beer sugar 
-
-0.6 
-
-processing pattern %s curd sugar 
-
-0.6 
-
-processing pattern %s shopping_bags sugar 
-
-0.8 
-
-processing pattern %s sausage sugar 
-
-0.6 
-
-processing pattern %s frankfurter sugar 
-
-0.8 
-
-processing pattern %s pork sugar 
-
-0.6 
-
-processing pattern %s pork sugar whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice sugar 
-
-0.6 
-
-processing pattern %s coffee sugar 
-
-0.6 
-
-processing pattern %s sugar tropical_fruit 
-
-0.6 
-
-processing pattern %s sugar tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water sugar 
-
-0.6 
-
-processing pattern %s bottled_water sugar whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit sugar 
-
-0.6 
-
-processing pattern %s pip_fruit sugar whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit sugar 
-
-0.6 
-
-processing pattern %s citrus_fruit sugar whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables sugar whipped_sour_cream 
-
-0.7 
-
-processing pattern %s sugar whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs sugar 
-
-0.6 
-
-processing pattern %s domestic_eggs sugar whole_milk 
-
-0.8 
-
-processing pattern %s pastry sugar 
-
-0.6 
-
-processing pattern %s pastry sugar whole_milk 
-
-0.8 
-
-processing pattern %s margarine sugar 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables sugar 
-
-0.7 
-
-processing pattern %s root_vegetables sugar whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables sugar yogurt 
-
-0.7 
-
-processing pattern %s sugar whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables rolls-buns sugar 
-
-0.7 
-
-processing pattern %s rolls-buns sugar whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables soda sugar 
-
-0.7 
-
-processing pattern %s soda sugar whole_milk 
 
 0.8 
 
@@ -4154,1265 +920,117 @@ processing pattern %s other_vegetables sugar
 
 0.6 
 
-processing pattern %s other_vegetables sugar whole_milk 
-
-0.8 
-
 processing pattern %s sugar whole_milk 
 
 0.8 
 
-processing pattern %s beef dessert 
+processing pattern %s dessert yogurt 
 
 0.6 
 
-processing pattern %s butter dessert 
+processing pattern %s dessert soda 
 
 0.6 
-
-processing pattern %s dessert waffles 
-
-0.6 
-
-processing pattern %s dessert long_life_bakery_product 
-
-0.4 
-
-processing pattern %s dessert margarine 
-
-0.8 
-
-processing pattern %s dessert frozen_vegetables 
-
-0.8 
-
-processing pattern %s dessert pork 
-
-0.6 
-
-processing pattern %s dessert newspapers 
-
-0.6 
-
-processing pattern %s dessert frankfurter 
-
-0.8 
-
-processing pattern %s dessert napkins 
-
-0.6 
-
-processing pattern %s cream_cheese dessert 
-
-0.6 
-
-processing pattern %s chocolate dessert 
-
-0.6 
-
-processing pattern %s dessert white_bread 
-
-0.6 
-
-processing pattern %s dessert domestic_eggs 
-
-0.6 
-
-processing pattern %s citrus_fruit dessert 
-
-0.6 
-
-processing pattern %s brown_bread dessert 
-
-0.6 
-
-processing pattern %s dessert whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s dessert other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s dessert other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s dessert pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water dessert 
-
-0.6 
-
-processing pattern %s curd dessert 
-
-0.6 
-
-processing pattern %s curd dessert whole_milk 
-
-0.8 
-
-processing pattern %s dessert pastry 
-
-0.6 
-
-processing pattern %s dessert root_vegetables 
-
-0.6 
-
-processing pattern %s dessert other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s dessert sausage whole_milk 
-
-0.8 
-
-processing pattern %s dessert other_vegetables sausage 
-
-0.7 
-
-processing pattern %s dessert fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s dessert fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s dessert shopping_bags 
-
-0.8 
-
-processing pattern %s dessert other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s dessert tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s dessert rolls-buns 
-
-0.6 
-
-processing pattern %s dessert other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s dessert other_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s dessert whole_milk yogurt 
-
-0.8 
-
-processing pattern %s dessert soda yogurt 
-
-0.7 
-
-processing pattern %s dessert other_vegetables soda 
-
-0.7 
-
-processing pattern %s dessert soda whole_milk 
-
-0.8 
 
 processing pattern %s dessert other_vegetables 
 
 0.6 
 
-processing pattern %s dessert other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s dessert whole_milk 
 
 0.8 
 
-processing pattern %s frankfurter long_life_bakery_product 
-
-0.6 
-
-processing pattern %s cream_cheese long_life_bakery_product 
+processing pattern %s long_life_bakery_product yogurt 
 
 0.4 
-
-processing pattern %s curd long_life_bakery_product 
-
-0.4 
-
-processing pattern %s long_life_bakery_product margarine 
-
-0.6 
-
-processing pattern %s chicken long_life_bakery_product 
-
-0.6 
-
-processing pattern %s long_life_bakery_product salty_snack 
-
-0.6 
-
-processing pattern %s brown_bread long_life_bakery_product 
-
-0.4 
-
-processing pattern %s coffee long_life_bakery_product 
-
-0.4 
-
-processing pattern %s long_life_bakery_product newspapers 
-
-0.4 
-
-processing pattern %s frozen_vegetables long_life_bakery_product 
-
-0.6 
-
-processing pattern %s domestic_eggs long_life_bakery_product 
-
-0.4 
-
-processing pattern %s long_life_bakery_product waffles 
-
-0.4 
-
-processing pattern %s citrus_fruit long_life_bakery_product 
-
-0.4 
-
-processing pattern %s bottled_water long_life_bakery_product 
-
-0.4 
-
-processing pattern %s long_life_bakery_product white_bread 
-
-0.4 
-
-processing pattern %s butter long_life_bakery_product 
-
-0.4 
-
-processing pattern %s butter long_life_bakery_product whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product pip_fruit 
-
-0.4 
-
-processing pattern %s long_life_bakery_product napkins 
-
-0.4 
-
-processing pattern %s long_life_bakery_product napkins whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product root_vegetables whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product other_vegetables root_vegetables 
-
-0.6 
-
-processing pattern %s chocolate long_life_bakery_product 
-
-0.4 
-
-processing pattern %s chocolate long_life_bakery_product whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product shopping_bags 
-
-0.6 
-
-processing pattern %s long_life_bakery_product sausage 
-
-0.4 
-
-processing pattern %s long_life_bakery_product sausage whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product other_vegetables whipped_sour_cream 
-
-0.6 
-
-processing pattern %s long_life_bakery_product whipped_sour_cream whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product pastry 
-
-0.4 
-
-processing pattern %s fruitvegetable_juice long_life_bakery_product other_vegetables 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice long_life_bakery_product whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product other_vegetables tropical_fruit 
-
-0.6 
-
-processing pattern %s long_life_bakery_product tropical_fruit whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product soda 
-
-0.4 
-
-processing pattern %s long_life_bakery_product soda whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product rolls-buns 
-
-0.4 
-
-processing pattern %s long_life_bakery_product rolls-buns whole_milk 
-
-0.7 
-
-processing pattern %s long_life_bakery_product other_vegetables yogurt 
-
-0.6 
-
-processing pattern %s long_life_bakery_product other_vegetables whole_milk yogurt 
-
-0.7333333333333333 
-
-processing pattern %s long_life_bakery_product whole_milk yogurt 
-
-0.7 
 
 processing pattern %s long_life_bakery_product other_vegetables 
 
 0.4 
 
-processing pattern %s long_life_bakery_product other_vegetables whole_milk 
-
-0.7 
-
 processing pattern %s long_life_bakery_product whole_milk 
 
 0.6 
 
-processing pattern %s salty_snack white_bread 
+processing pattern %s salty_snack soda 
 
 0.8 
-
-processing pattern %s canned_beer salty_snack 
-
-0.8 
-
-processing pattern %s cream_cheese salty_snack 
-
-0.8 
-
-processing pattern %s beef salty_snack 
-
-0.8 
-
-processing pattern %s frozen_vegetables salty_snack 
-
-1.0 
-
-processing pattern %s butter salty_snack 
-
-0.8 
-
-processing pattern %s margarine salty_snack 
-
-1.0 
-
-processing pattern %s newspapers salty_snack 
-
-0.8 
-
-processing pattern %s curd salty_snack 
-
-0.8 
-
-processing pattern %s coffee salty_snack 
-
-0.8 
-
-processing pattern %s frankfurter salty_snack 
-
-1.0 
-
-processing pattern %s bottled_beer salty_snack 
-
-0.8 
-
-processing pattern %s pork salty_snack 
-
-0.8 
-
-processing pattern %s chocolate salty_snack 
-
-0.8 
-
-processing pattern %s domestic_eggs salty_snack 
-
-0.8 
-
-processing pattern %s citrus_fruit salty_snack 
-
-0.8 
-
-processing pattern %s salty_snack waffles 
-
-0.8 
-
-processing pattern %s napkins salty_snack 
-
-0.8 
-
-processing pattern %s pip_fruit salty_snack 
-
-0.8 
-
-processing pattern %s bottled_water salty_snack 
-
-0.8 
-
-processing pattern %s root_vegetables salty_snack 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables salty_snack 
-
-0.8 
-
-processing pattern %s rolls-buns salty_snack 
-
-0.8 
-
-processing pattern %s pastry salty_snack 
-
-0.8 
-
-processing pattern %s salty_snack whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s other_vegetables salty_snack whipped_sour_cream 
-
-0.8 
-
-processing pattern %s salty_snack sausage 
-
-0.8 
-
-processing pattern %s salty_snack tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s other_vegetables salty_snack tropical_fruit 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice salty_snack 
-
-0.8 
-
-processing pattern %s salty_snack shopping_bags 
-
-1.0 
-
-processing pattern %s salty_snack whole_milk yogurt 
-
-0.9 
-
-processing pattern %s other_vegetables salty_snack yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables salty_snack soda 
-
-0.8 
-
-processing pattern %s salty_snack soda whole_milk 
-
-0.9 
 
 processing pattern %s other_vegetables salty_snack 
 
 0.8 
 
-processing pattern %s other_vegetables salty_snack whole_milk 
-
-0.9 
-
 processing pattern %s salty_snack whole_milk 
 
 1.0 
 
-processing pattern %s canned_beer waffles 
+processing pattern %s rolls-buns waffles 
 
 0.6 
 
-processing pattern %s coffee waffles 
+processing pattern %s soda waffles 
 
 0.6 
-
-processing pattern %s cream_cheese waffles 
-
-0.6 
-
-processing pattern %s beef waffles 
-
-0.6 
-
-processing pattern %s frankfurter waffles 
-
-0.8 
-
-processing pattern %s domestic_eggs waffles 
-
-0.6 
-
-processing pattern %s curd waffles 
-
-0.6 
-
-processing pattern %s napkins waffles 
-
-0.6 
-
-processing pattern %s pork waffles 
-
-0.6 
-
-processing pattern %s waffles white_bread 
-
-0.6 
-
-processing pattern %s butter waffles 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice waffles 
-
-0.6 
-
-processing pattern %s margarine waffles 
-
-0.8 
-
-processing pattern %s newspapers waffles 
-
-0.6 
-
-processing pattern %s bottled_water waffles 
-
-0.6 
-
-processing pattern %s citrus_fruit waffles 
-
-0.6 
-
-processing pattern %s pip_fruit waffles 
-
-0.6 
-
-processing pattern %s sausage waffles 
-
-0.6 
-
-processing pattern %s waffles whipped_sour_cream 
-
-0.6 
-
-processing pattern %s waffles whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s shopping_bags waffles 
-
-0.8 
-
-processing pattern %s chocolate waffles 
-
-0.6 
-
-processing pattern %s tropical_fruit waffles yogurt 
-
-0.7 
-
-processing pattern %s tropical_fruit waffles whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables waffles 
-
-0.7 
-
-processing pattern %s root_vegetables waffles whole_milk 
-
-0.8 
-
-processing pattern %s pastry waffles 
-
-0.6 
-
-processing pattern %s pastry waffles whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns waffles yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables waffles yogurt 
-
-0.7 
-
-processing pattern %s waffles whole_milk yogurt 
-
-0.8 
-
-processing pattern %s rolls-buns soda waffles 
-
-0.7 
-
-processing pattern %s other_vegetables rolls-buns waffles 
-
-0.7 
-
-processing pattern %s rolls-buns waffles whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables soda waffles 
-
-0.7 
-
-processing pattern %s soda waffles whole_milk 
-
-0.8 
 
 processing pattern %s other_vegetables waffles 
 
 0.6 
 
-processing pattern %s other_vegetables waffles whole_milk 
-
-0.8 
-
 processing pattern %s waffles whole_milk 
 
 0.8 
 
-processing pattern %s chicken cream_cheese 
-
-0.8 
-
-processing pattern %s cream_cheese pork 
+processing pattern %s cream_cheese rolls-buns 
 
 0.6 
 
-processing pattern %s cream_cheese frozen_vegetables 
-
-0.8 
-
-processing pattern %s cream_cheese newspapers 
+processing pattern %s cream_cheese yogurt 
 
 0.6 
-
-processing pattern %s cream_cheese frankfurter 
-
-0.8 
-
-processing pattern %s cream_cheese white_bread 
-
-0.6 
-
-processing pattern %s chocolate cream_cheese 
-
-0.6 
-
-processing pattern %s coffee cream_cheese 
-
-0.6 
-
-processing pattern %s beef cream_cheese 
-
-0.6 
-
-processing pattern %s butter cream_cheese 
-
-0.6 
-
-processing pattern %s butter cream_cheese whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese napkins 
-
-0.6 
-
-processing pattern %s cream_cheese pastry 
-
-0.6 
-
-processing pattern %s cream_cheese margarine 
-
-0.8 
-
-processing pattern %s brown_bread cream_cheese 
-
-0.6 
-
-processing pattern %s cream_cheese domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s cream_cheese domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese curd other_vegetables 
-
-0.7 
-
-processing pattern %s cream_cheese curd whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese other_vegetables sausage 
-
-0.7 
-
-processing pattern %s cream_cheese sausage whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese shopping_bags 
-
-0.8 
-
-processing pattern %s citrus_fruit cream_cheese whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit cream_cheese other_vegetables 
-
-0.7 
-
-processing pattern %s cream_cheese fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s cream_cheese fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water cream_cheese 
-
-0.6 
-
-processing pattern %s bottled_water cream_cheese whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s cream_cheese whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese soda 
-
-0.6 
-
-processing pattern %s cream_cheese soda yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s cream_cheese tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s cream_cheese other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s cream_cheese rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s cream_cheese rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s cream_cheese other_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s cream_cheese whole_milk yogurt 
-
-0.8 
 
 processing pattern %s cream_cheese other_vegetables 
 
 0.6 
 
-processing pattern %s cream_cheese other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s cream_cheese whole_milk 
 
 0.8 
 
-processing pattern %s chicken white_bread 
-
-0.8 
-
-processing pattern %s beef white_bread 
+processing pattern %s tropical_fruit white_bread 
 
 0.6 
 
-processing pattern %s coffee white_bread 
+processing pattern %s white_bread yogurt 
 
 0.6 
 
-processing pattern %s newspapers white_bread 
+processing pattern %s soda white_bread 
 
 0.6 
-
-processing pattern %s curd white_bread 
-
-0.6 
-
-processing pattern %s napkins white_bread 
-
-0.6 
-
-processing pattern %s frozen_vegetables white_bread 
-
-0.8 
-
-processing pattern %s margarine white_bread 
-
-0.8 
-
-processing pattern %s margarine white_bread whole_milk 
-
-0.9 
-
-processing pattern %s bottled_beer white_bread 
-
-0.6 
-
-processing pattern %s pork white_bread 
-
-0.6 
-
-processing pattern %s chocolate white_bread 
-
-0.6 
-
-processing pattern %s butter white_bread 
-
-0.6 
-
-processing pattern %s bottled_water white_bread 
-
-0.6 
-
-processing pattern %s citrus_fruit white_bread 
-
-0.6 
-
-processing pattern %s brown_bread white_bread 
-
-0.6 
-
-processing pattern %s frankfurter white_bread 
-
-0.8 
-
-processing pattern %s whipped_sour_cream white_bread whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables whipped_sour_cream white_bread 
-
-0.7 
-
-processing pattern %s pastry white_bread 
-
-0.6 
-
-processing pattern %s domestic_eggs white_bread 
-
-0.6 
-
-processing pattern %s domestic_eggs white_bread whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables rolls-buns white_bread 
-
-0.7 
-
-processing pattern %s rolls-buns white_bread whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit white_bread yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit white_bread 
-
-0.7 
-
-processing pattern %s pip_fruit white_bread whole_milk 
-
-0.8 
-
-processing pattern %s sausage soda white_bread 
-
-0.7 
-
-processing pattern %s other_vegetables sausage white_bread 
-
-0.7 
-
-processing pattern %s sausage white_bread whole_milk 
-
-0.8 
-
-processing pattern %s shopping_bags white_bread whole_milk 
-
-0.9 
-
-processing pattern %s shopping_bags soda white_bread 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice soda white_bread 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables white_bread 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice white_bread whole_milk 
-
-0.8 
-
-processing pattern %s root_vegetables white_bread yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables root_vegetables white_bread 
-
-0.7 
-
-processing pattern %s root_vegetables white_bread whole_milk 
-
-0.8 
-
-processing pattern %s tropical_fruit white_bread yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables tropical_fruit white_bread 
-
-0.7 
-
-processing pattern %s tropical_fruit white_bread whole_milk 
-
-0.8 
-
-processing pattern %s soda white_bread yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables white_bread yogurt 
-
-0.7 
-
-processing pattern %s white_bread whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables soda white_bread 
-
-0.7 
-
-processing pattern %s soda white_bread whole_milk 
-
-0.8 
 
 processing pattern %s other_vegetables white_bread 
 
 0.6 
 
-processing pattern %s other_vegetables white_bread whole_milk 
-
-0.8 
-
 processing pattern %s white_bread whole_milk 
 
 0.8 
 
-processing pattern %s chicken chocolate 
+processing pattern %s chicken yogurt 
 
 0.8 
 
-processing pattern %s canned_beer chicken 
+processing pattern %s chicken soda 
 
 0.8 
 
-processing pattern %s chicken curd 
+processing pattern %s chicken rolls-buns 
 
 0.8 
 
-processing pattern %s chicken frankfurter 
-
-1.0 
-
-processing pattern %s brown_bread chicken 
+processing pattern %s chicken root_vegetables 
 
 0.8 
-
-processing pattern %s chicken fruitvegetable_juice 
-
-0.8 
-
-processing pattern %s chicken napkins 
-
-0.8 
-
-processing pattern %s chicken coffee 
-
-0.8 
-
-processing pattern %s chicken margarine 
-
-1.0 
-
-processing pattern %s chicken pip_fruit whole_milk 
-
-0.9 
-
-processing pattern %s chicken other_vegetables pip_fruit 
-
-0.8 
-
-processing pattern %s chicken other_vegetables pastry 
-
-0.8 
-
-processing pattern %s chicken pastry whole_milk 
-
-0.9 
-
-processing pattern %s beef chicken 
-
-0.8 
-
-processing pattern %s beef chicken whole_milk 
-
-0.9 
-
-processing pattern %s chicken shopping_bags 
-
-1.0 
-
-processing pattern %s chicken newspapers 
-
-0.8 
-
-processing pattern %s bottled_water chicken 
-
-0.8 
-
-processing pattern %s chicken sausage whole_milk 
-
-0.9 
-
-processing pattern %s chicken other_vegetables sausage 
-
-0.8 
-
-processing pattern %s butter chicken other_vegetables 
-
-0.8 
-
-processing pattern %s butter chicken whole_milk 
-
-0.9 
-
-processing pattern %s chicken other_vegetables pork 
-
-0.8 
-
-processing pattern %s chicken pork whole_milk 
-
-0.9 
-
-processing pattern %s chicken domestic_eggs other_vegetables 
-
-0.8 
-
-processing pattern %s chicken domestic_eggs whole_milk 
-
-0.9 
-
-processing pattern %s chicken tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s chicken other_vegetables tropical_fruit 
-
-0.8 
-
-processing pattern %s chicken frozen_vegetables whole_milk 
-
-1.0 
-
-processing pattern %s chicken frozen_vegetables other_vegetables 
-
-0.9 
-
-processing pattern %s chicken citrus_fruit yogurt 
-
-0.8 
-
-processing pattern %s chicken citrus_fruit root_vegetables 
-
-0.8 
-
-processing pattern %s chicken citrus_fruit whole_milk 
-
-0.9 
-
-processing pattern %s chicken citrus_fruit other_vegetables 
-
-0.8 
-
-processing pattern %s chicken other_vegetables whipped_sour_cream 
-
-0.8 
-
-processing pattern %s chicken whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s chicken rolls-buns yogurt 
-
-0.8 
-
-processing pattern %s chicken root_vegetables yogurt 
-
-0.8 
-
-processing pattern %s chicken whole_milk yogurt 
-
-0.9 
-
-processing pattern %s chicken other_vegetables whole_milk yogurt 
-
-0.8666666666666667 
-
-processing pattern %s chicken other_vegetables yogurt 
-
-0.8 
-
-processing pattern %s chicken other_vegetables soda 
-
-0.8 
-
-processing pattern %s chicken soda whole_milk 
-
-0.9 
-
-processing pattern %s chicken rolls-buns root_vegetables 
-
-0.8 
-
-processing pattern %s chicken other_vegetables rolls-buns 
-
-0.8 
-
-processing pattern %s chicken other_vegetables rolls-buns whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s chicken rolls-buns whole_milk 
-
-0.9 
-
-processing pattern %s chicken other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s chicken other_vegetables root_vegetables whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s chicken root_vegetables whole_milk 
-
-0.9 
 
 processing pattern %s chicken whole_milk 
 
@@ -5426,233 +1044,25 @@ processing pattern %s chicken other_vegetables
 
 0.8 
 
-processing pattern %s chocolate frozen_vegetables 
+processing pattern %s frozen_vegetables soda 
 
 0.8 
 
-processing pattern %s brown_bread frozen_vegetables 
+processing pattern %s frozen_vegetables tropical_fruit 
 
 0.8 
 
-processing pattern %s frozen_vegetables shopping_bags 
-
-1.0 
-
-processing pattern %s bottled_beer frozen_vegetables 
+processing pattern %s frozen_vegetables rolls-buns 
 
 0.8 
 
-processing pattern %s curd frozen_vegetables 
+processing pattern %s frozen_vegetables root_vegetables 
 
 0.8 
 
-processing pattern %s curd frozen_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s coffee frozen_vegetables 
+processing pattern %s frozen_vegetables yogurt 
 
 0.8 
-
-processing pattern %s frozen_vegetables newspapers 
-
-0.8 
-
-processing pattern %s beef frozen_vegetables 
-
-0.8 
-
-processing pattern %s frozen_vegetables napkins 
-
-0.8 
-
-processing pattern %s frozen_vegetables napkins whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables pastry 
-
-0.8 
-
-processing pattern %s frozen_vegetables margarine 
-
-1.0 
-
-processing pattern %s frozen_vegetables margarine whole_milk 
-
-1.0 
-
-processing pattern %s frankfurter frozen_vegetables 
-
-1.0 
-
-processing pattern %s frankfurter frozen_vegetables whole_milk 
-
-1.0 
-
-processing pattern %s domestic_eggs frozen_vegetables 
-
-0.8 
-
-processing pattern %s butter frozen_vegetables other_vegetables 
-
-0.8 
-
-processing pattern %s butter frozen_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables other_vegetables sausage 
-
-0.8 
-
-processing pattern %s frozen_vegetables sausage whole_milk 
-
-0.9 
-
-processing pattern %s bottled_water frozen_vegetables 
-
-0.8 
-
-processing pattern %s bottled_water frozen_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables pork 
-
-0.8 
-
-processing pattern %s frozen_vegetables pork whole_milk 
-
-0.9 
-
-processing pattern %s citrus_fruit frozen_vegetables yogurt 
-
-0.8 
-
-processing pattern %s citrus_fruit frozen_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s citrus_fruit frozen_vegetables other_vegetables 
-
-0.8 
-
-processing pattern %s citrus_fruit frozen_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables other_vegetables pip_fruit 
-
-0.8 
-
-processing pattern %s frozen_vegetables pip_fruit whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables fruitvegetable_juice root_vegetables 
-
-0.8 
-
-processing pattern %s frozen_vegetables fruitvegetable_juice yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables fruitvegetable_juice other_vegetables 
-
-0.8 
-
-processing pattern %s frozen_vegetables fruitvegetable_juice whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables root_vegetables whipped_sour_cream 
-
-0.8 
-
-processing pattern %s frozen_vegetables whipped_sour_cream yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables other_vegetables whipped_sour_cream 
-
-0.8 
-
-processing pattern %s frozen_vegetables soda yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables soda whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables other_vegetables soda 
-
-0.8 
-
-processing pattern %s frozen_vegetables root_vegetables tropical_fruit 
-
-0.8 
-
-processing pattern %s frozen_vegetables tropical_fruit yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables other_vegetables tropical_fruit 
-
-0.8 
-
-processing pattern %s frozen_vegetables tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables rolls-buns root_vegetables 
-
-0.8 
-
-processing pattern %s frozen_vegetables rolls-buns yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables other_vegetables rolls-buns 
-
-0.8 
-
-processing pattern %s frozen_vegetables rolls-buns whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables root_vegetables yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s frozen_vegetables other_vegetables root_vegetables whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s frozen_vegetables root_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_vegetables other_vegetables yogurt 
-
-0.8 
-
-processing pattern %s frozen_vegetables other_vegetables whole_milk yogurt 
-
-0.8666666666666667 
-
-processing pattern %s frozen_vegetables whole_milk yogurt 
-
-0.9 
 
 processing pattern %s frozen_vegetables other_vegetables 
 
@@ -5666,461 +1076,85 @@ processing pattern %s frozen_vegetables whole_milk
 
 1.0 
 
-processing pattern %s chocolate curd 
+processing pattern %s chocolate tropical_fruit 
 
 0.6 
-
-processing pattern %s canned_beer chocolate 
-
-0.6 
-
-processing pattern %s chocolate margarine 
-
-0.8 
-
-processing pattern %s beef chocolate 
-
-0.6 
-
-processing pattern %s chocolate domestic_eggs 
-
-0.6 
-
-processing pattern %s chocolate coffee 
-
-0.6 
-
-processing pattern %s brown_bread chocolate 
-
-0.6 
-
-processing pattern %s bottled_beer chocolate 
-
-0.6 
-
-processing pattern %s chocolate frankfurter 
-
-0.8 
-
-processing pattern %s chocolate pork 
-
-0.6 
-
-processing pattern %s chocolate whipped_sour_cream 
-
-0.6 
-
-processing pattern %s chocolate napkins 
-
-0.6 
-
-processing pattern %s chocolate napkins whole_milk 
-
-0.8 
-
-processing pattern %s chocolate newspapers 
-
-0.6 
-
-processing pattern %s chocolate newspapers whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water chocolate 
-
-0.6 
-
-processing pattern %s bottled_water chocolate soda 
-
-0.7 
-
-processing pattern %s chocolate pip_fruit 
-
-0.6 
-
-processing pattern %s chocolate pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter chocolate 
-
-0.6 
-
-processing pattern %s butter chocolate whole_milk 
-
-0.8 
-
-processing pattern %s chocolate citrus_fruit whole_milk 
-
-0.8 
-
-processing pattern %s chocolate citrus_fruit other_vegetables 
-
-0.7 
-
-processing pattern %s chocolate other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s chocolate root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s chocolate other_vegetables sausage 
-
-0.7 
-
-processing pattern %s chocolate sausage whole_milk 
-
-0.8 
-
-processing pattern %s chocolate fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s chocolate fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s chocolate rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s chocolate other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s chocolate tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s chocolate pastry 
-
-0.6 
-
-processing pattern %s chocolate pastry whole_milk 
-
-0.8 
 
 processing pattern %s chocolate shopping_bags 
 
 0.8 
 
-processing pattern %s chocolate soda yogurt 
+processing pattern %s chocolate yogurt 
 
-0.7 
+0.6 
 
-processing pattern %s chocolate rolls-buns yogurt 
+processing pattern %s chocolate rolls-buns 
 
-0.7 
+0.6 
 
-processing pattern %s chocolate other_vegetables yogurt 
+processing pattern %s chocolate other_vegetables 
 
-0.7 
-
-processing pattern %s chocolate whole_milk yogurt 
-
-0.8 
-
-processing pattern %s chocolate other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s chocolate rolls-buns soda 
-
-0.7 
-
-processing pattern %s chocolate rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s chocolate other_vegetables soda 
-
-0.7 
-
-processing pattern %s chocolate other_vegetables whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s chocolate soda 
 
 0.6 
 
-processing pattern %s chocolate soda whole_milk 
-
-0.8 
-
 processing pattern %s chocolate whole_milk 
 
 0.8 
 
-processing pattern %s beef coffee 
+processing pattern %s bottled_water napkins 
 
 0.6 
 
-processing pattern %s beef bottled_beer 
+processing pattern %s napkins root_vegetables 
 
 0.6 
 
-processing pattern %s beef brown_bread 
+processing pattern %s napkins tropical_fruit 
 
 0.6 
 
-processing pattern %s beef brown_bread whole_milk 
-
-0.8 
-
-processing pattern %s beef curd 
+processing pattern %s napkins rolls-buns 
 
 0.6 
 
-processing pattern %s beef curd whole_milk 
-
-0.8 
-
-processing pattern %s beef frankfurter other_vegetables 
-
-0.8 
-
-processing pattern %s beef frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s beef pip_fruit 
+processing pattern %s napkins soda 
 
 0.6 
 
-processing pattern %s beef pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s beef shopping_bags 
-
-0.8 
-
-processing pattern %s beef fruitvegetable_juice 
+processing pattern %s napkins yogurt 
 
 0.6 
 
-processing pattern %s beef fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s beef other_vegetables sausage 
-
-0.7 
-
-processing pattern %s beef sausage whole_milk 
-
-0.8 
-
-processing pattern %s beef root_vegetables sausage 
-
-0.7 
-
-processing pattern %s beef butter other_vegetables 
-
-0.7 
-
-processing pattern %s beef butter yogurt 
-
-0.7 
-
-processing pattern %s beef butter root_vegetables 
-
-0.7 
-
-processing pattern %s beef butter whole_milk 
-
-0.8 
-
-processing pattern %s beef domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s beef domestic_eggs other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s beef domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s beef margarine 
-
-0.8 
-
-processing pattern %s beef margarine whole_milk 
-
-0.9 
-
-processing pattern %s beef bottled_water 
+processing pattern %s napkins other_vegetables 
 
 0.6 
 
-processing pattern %s beef bottled_water whole_milk 
+processing pattern %s napkins whole_milk 
 
 0.8 
 
-processing pattern %s beef other_vegetables pastry 
+processing pattern %s beef soda 
 
-0.7 
+0.6 
 
-processing pattern %s beef pastry whole_milk 
+processing pattern %s beef citrus_fruit 
 
-0.8 
+0.6 
 
-processing pattern %s beef newspapers whole_milk 
+processing pattern %s beef yogurt 
 
-0.8 
+0.6 
 
-processing pattern %s beef newspapers root_vegetables 
+processing pattern %s beef rolls-buns 
 
-0.7 
+0.6 
 
-processing pattern %s beef newspapers other_vegetables 
+processing pattern %s beef root_vegetables 
 
-0.7 
-
-processing pattern %s beef whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s beef root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s beef whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s beef pork root_vegetables 
-
-0.7 
-
-processing pattern %s beef pork whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables pork 
-
-0.7 
-
-processing pattern %s beef rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s beef tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s beef root_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables root_vegetables tropical_fruit 
-
-0.7333333333333333 
-
-processing pattern %s beef other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s beef other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s beef tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s beef soda whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables soda 
-
-0.7 
-
-processing pattern %s beef root_vegetables soda 
-
-0.7 
-
-processing pattern %s beef citrus_fruit rolls-buns 
-
-0.7 
-
-processing pattern %s beef citrus_fruit other_vegetables 
-
-0.7 
-
-processing pattern %s beef citrus_fruit root_vegetables 
-
-0.7 
-
-processing pattern %s beef citrus_fruit whole_milk 
-
-0.8 
-
-processing pattern %s beef rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s beef root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s beef root_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s beef other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s beef other_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s beef whole_milk yogurt 
-
-0.8 
-
-processing pattern %s beef other_vegetables rolls-buns root_vegetables 
-
-0.7333333333333333 
-
-processing pattern %s beef rolls-buns root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s beef other_vegetables rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s beef rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s beef other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s beef other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s beef root_vegetables whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s beef other_vegetables 
 
@@ -6134,501 +1168,29 @@ processing pattern %s beef whole_milk
 
 0.8 
 
-processing pattern %s canned_beer napkins 
-
-0.6 
-
-processing pattern %s frankfurter napkins 
-
-0.8 
-
-processing pattern %s coffee napkins 
-
-0.6 
-
-processing pattern %s beef napkins 
-
-0.6 
-
-processing pattern %s margarine napkins 
-
-0.8 
-
-processing pattern %s curd napkins 
-
-0.6 
-
-processing pattern %s curd napkins whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread napkins 
-
-0.6 
-
-processing pattern %s butter napkins 
-
-0.6 
-
-processing pattern %s butter napkins whole_milk 
-
-0.8 
-
-processing pattern %s napkins pork 
-
-0.6 
-
-processing pattern %s napkins pork whole_milk 
-
-0.8 
-
-processing pattern %s bottled_beer napkins 
-
-0.6 
-
-processing pattern %s bottled_beer napkins whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs napkins 
-
-0.6 
-
-processing pattern %s domestic_eggs napkins whole_milk 
-
-0.8 
-
-processing pattern %s napkins newspapers 
-
-0.6 
-
-processing pattern %s napkins sausage 
-
-0.6 
-
-processing pattern %s napkins sausage whole_milk 
-
-0.8 
-
-processing pattern %s napkins other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s napkins pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s napkins pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice napkins yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice napkins whole_milk 
-
-0.8 
-
-processing pattern %s napkins other_vegetables pastry 
-
-0.7 
-
-processing pattern %s napkins pastry whole_milk 
-
-0.8 
-
-processing pattern %s napkins shopping_bags 
-
-0.8 
-
-processing pattern %s napkins shopping_bags whole_milk 
-
-0.9 
-
-processing pattern %s napkins whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s napkins root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s napkins other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s napkins whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit napkins yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit napkins other_vegetables 
-
-0.7 
-
-processing pattern %s citrus_fruit napkins tropical_fruit 
-
-0.7 
-
-processing pattern %s citrus_fruit napkins whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water napkins soda 
-
-0.7 
-
-processing pattern %s bottled_water napkins tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water napkins other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water napkins whole_milk 
-
-0.8 
-
-processing pattern %s napkins root_vegetables soda 
-
-0.7 
-
-processing pattern %s napkins root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s napkins root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s napkins rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s napkins other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s napkins root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s napkins soda tropical_fruit 
-
-0.7 
-
-processing pattern %s napkins rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s napkins tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s napkins other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s napkins tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s napkins rolls-buns soda 
-
-0.7 
-
-processing pattern %s napkins rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s napkins other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s napkins rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s napkins other_vegetables soda 
-
-0.7 
-
-processing pattern %s napkins soda yogurt 
-
-0.7 
-
-processing pattern %s napkins soda whole_milk 
-
-0.8 
-
-processing pattern %s napkins other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s napkins whole_milk yogurt 
-
-0.8 
-
-processing pattern %s napkins other_vegetables 
-
-0.6 
-
-processing pattern %s napkins other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s napkins whole_milk 
-
-0.8 
-
-processing pattern %s coffee curd 
-
-0.6 
-
-processing pattern %s bottled_beer curd 
-
-0.6 
-
-processing pattern %s curd pork 
-
-0.6 
-
-processing pattern %s curd frankfurter 
-
-0.8 
-
-processing pattern %s brown_bread curd 
-
-0.6 
-
-processing pattern %s curd fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s curd shopping_bags 
-
-0.8 
-
-processing pattern %s curd newspapers 
-
-0.6 
-
-processing pattern %s curd newspapers whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water curd yogurt 
-
-0.7 
-
-processing pattern %s bottled_water curd whole_milk 
-
-0.8 
-
-processing pattern %s curd margarine other_vegetables 
-
-0.8 
-
-processing pattern %s curd margarine yogurt 
-
-0.8 
-
-processing pattern %s curd margarine whole_milk 
-
-0.9 
-
-processing pattern %s curd domestic_eggs yogurt 
-
-0.7 
-
-processing pattern %s curd domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s curd domestic_eggs other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s curd domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s butter curd yogurt 
-
-0.7 
-
-processing pattern %s butter curd other_vegetables 
-
-0.7 
-
-processing pattern %s butter curd whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit curd yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit curd other_vegetables 
-
-0.7 
-
-processing pattern %s citrus_fruit curd whole_milk 
-
-0.8 
-
-processing pattern %s curd pastry yogurt 
-
-0.7 
-
-processing pattern %s curd other_vegetables pastry 
-
-0.7 
-
-processing pattern %s curd pastry whole_milk 
-
-0.8 
-
-processing pattern %s curd other_vegetables sausage 
-
-0.7 
-
-processing pattern %s curd sausage whole_milk 
-
-0.8 
-
-processing pattern %s curd sausage yogurt 
-
-0.7 
-
-processing pattern %s curd pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s curd other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s curd pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s curd pip_fruit whole_milk yogurt 
-
-0.8 
-
-processing pattern %s curd pip_fruit whole_milk 
-
-0.8 
-
 processing pattern %s curd soda 
 
 0.6 
 
-processing pattern %s curd soda whole_milk 
+processing pattern %s curd rolls-buns 
 
-0.8 
+0.6 
 
-processing pattern %s curd rolls-buns yogurt 
+processing pattern %s curd tropical_fruit 
 
-0.7 
+0.6 
 
-processing pattern %s curd rolls-buns whole_milk yogurt 
+processing pattern %s curd whipped_sour_cream 
 
-0.8 
+0.6 
 
-processing pattern %s curd other_vegetables rolls-buns 
+processing pattern %s curd root_vegetables 
 
-0.7 
+0.6 
 
-processing pattern %s curd rolls-buns whole_milk 
+processing pattern %s curd other_vegetables 
 
-0.8 
-
-processing pattern %s curd tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s curd root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s curd tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s curd tropical_fruit whole_milk yogurt 
-
-0.8 
-
-processing pattern %s curd other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s curd other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s curd tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s curd root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s curd other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s curd other_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s curd whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s curd whipped_sour_cream whole_milk yogurt 
-
-0.8 
-
-processing pattern %s curd whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s curd root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s curd root_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s curd other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s curd other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s curd root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s curd other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s curd other_vegetables whole_milk yogurt 
-
-0.8 
+0.6 
 
 processing pattern %s curd other_vegetables whole_milk 
 
@@ -6646,297 +1208,49 @@ processing pattern %s curd whole_milk
 
 0.8 
 
-processing pattern %s butter coffee 
+processing pattern %s butter sausage 
 
 0.6 
 
-processing pattern %s butter coffee whole_milk 
-
-0.8 
-
-processing pattern %s butter frankfurter 
-
-0.8 
-
-processing pattern %s butter frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s butter shopping_bags 
-
-0.8 
-
-processing pattern %s butter other_vegetables pork 
-
-0.7 
-
-processing pattern %s butter pork whole_milk 
-
-0.8 
-
-processing pattern %s butter newspapers 
+processing pattern %s butter soda 
 
 0.6 
 
-processing pattern %s butter newspapers whole_milk 
-
-0.8 
-
-processing pattern %s bottled_beer butter 
+processing pattern %s bottled_water butter 
 
 0.6 
 
-processing pattern %s bottled_beer butter whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread butter 
+processing pattern %s butter citrus_fruit 
 
 0.6 
 
-processing pattern %s brown_bread butter whole_milk 
+processing pattern %s butter domestic_eggs 
 
-0.8 
+0.6 
 
-processing pattern %s butter margarine whole_milk 
+processing pattern %s butter tropical_fruit 
 
-0.9 
+0.6 
 
-processing pattern %s butter margarine other_vegetables 
+processing pattern %s butter whipped_sour_cream 
 
-0.8 
+0.6 
 
-processing pattern %s butter other_vegetables pip_fruit 
+processing pattern %s butter root_vegetables 
 
-0.7 
-
-processing pattern %s butter other_vegetables pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter other_vegetables pastry 
-
-0.7 
-
-processing pattern %s butter pastry whole_milk 
-
-0.8 
-
-processing pattern %s butter fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s butter fruitvegetable_juice yogurt 
-
-0.7 
-
-processing pattern %s butter fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s butter sausage whipped_sour_cream 
-
-0.7 
-
-processing pattern %s butter sausage yogurt 
-
-0.7 
-
-processing pattern %s butter other_vegetables sausage 
-
-0.7 
-
-processing pattern %s butter sausage whole_milk 
-
-0.8 
-
-processing pattern %s butter rolls-buns soda 
-
-0.7 
-
-processing pattern %s butter soda whole_milk 
-
-0.8 
-
-processing pattern %s butter other_vegetables soda 
-
-0.7 
-
-processing pattern %s bottled_water butter root_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water butter other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water butter other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water butter whole_milk 
-
-0.8 
-
-processing pattern %s butter citrus_fruit root_vegetables 
-
-0.7 
-
-processing pattern %s butter citrus_fruit yogurt 
-
-0.7 
-
-processing pattern %s butter citrus_fruit other_vegetables 
-
-0.7 
-
-processing pattern %s butter citrus_fruit other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s butter citrus_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter domestic_eggs rolls-buns 
-
-0.7 
-
-processing pattern %s butter domestic_eggs yogurt 
-
-0.7 
-
-processing pattern %s butter domestic_eggs root_vegetables 
-
-0.7 
-
-processing pattern %s butter domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s butter domestic_eggs other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s butter domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s butter tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s butter root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s butter other_vegetables tropical_fruit yogurt 
-
-0.7333333333333333 
-
-processing pattern %s butter tropical_fruit whole_milk yogurt 
-
-0.8 
-
-processing pattern %s butter other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s butter other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s butter rolls-buns whipped_sour_cream 
-
-0.7 
-
-processing pattern %s butter root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s butter root_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s butter whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s butter whipped_sour_cream whole_milk yogurt 
-
-0.8 
-
-processing pattern %s butter other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s butter other_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s butter whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s butter rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s butter root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s butter root_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s butter other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s butter other_vegetables root_vegetables whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s butter root_vegetables whole_milk 
 
 0.8 
 
-processing pattern %s butter rolls-buns yogurt 
+processing pattern %s butter rolls-buns 
 
-0.7 
+0.6 
 
-processing pattern %s butter rolls-buns whole_milk yogurt 
+processing pattern %s butter yogurt 
 
-0.8 
-
-processing pattern %s butter other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s butter other_vegetables rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s butter rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s butter other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s butter other_vegetables whole_milk yogurt 
-
-0.8 
+0.6 
 
 processing pattern %s butter whole_milk yogurt 
 
@@ -6954,193 +1268,29 @@ processing pattern %s butter whole_milk
 
 0.8 
 
-processing pattern %s canned_beer pork 
+processing pattern %s pork whipped_sour_cream 
 
 0.6 
 
-processing pattern %s coffee pork 
+processing pattern %s pork tropical_fruit 
 
 0.6 
 
-processing pattern %s fruitvegetable_juice pork whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables pork 
-
-0.7 
-
-processing pattern %s bottled_beer pork 
+processing pattern %s pork yogurt 
 
 0.6 
 
-processing pattern %s brown_bread pork 
+processing pattern %s pork rolls-buns 
 
 0.6 
 
-processing pattern %s brown_bread pork whole_milk 
+processing pattern %s pork soda 
 
-0.8 
+0.6 
 
-processing pattern %s domestic_eggs other_vegetables pork 
+processing pattern %s pork root_vegetables 
 
-0.7 
-
-processing pattern %s domestic_eggs pork whole_milk 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables pork 
-
-0.8 
-
-processing pattern %s frankfurter pork whole_milk 
-
-0.9 
-
-processing pattern %s pip_fruit pork whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pip_fruit pork 
-
-0.7 
-
-processing pattern %s other_vegetables pastry pork 
-
-0.7 
-
-processing pattern %s pastry pork whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pork sausage 
-
-0.7 
-
-processing pattern %s pork sausage whole_milk 
-
-0.8 
-
-processing pattern %s margarine pork 
-
-0.8 
-
-processing pattern %s margarine pork whole_milk 
-
-0.9 
-
-processing pattern %s pork shopping_bags 
-
-0.8 
-
-processing pattern %s other_vegetables pork shopping_bags 
-
-0.8 
-
-processing pattern %s citrus_fruit pork root_vegetables 
-
-0.7 
-
-processing pattern %s citrus_fruit pork whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit other_vegetables pork 
-
-0.7 
-
-processing pattern %s newspapers other_vegetables pork 
-
-0.7 
-
-processing pattern %s newspapers pork whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water other_vegetables pork 
-
-0.7 
-
-processing pattern %s bottled_water pork whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pork whipped_sour_cream 
-
-0.7 
-
-processing pattern %s pork whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s pork root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s pork tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables pork tropical_fruit 
-
-0.7 
-
-processing pattern %s pork tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s pork root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables pork yogurt 
-
-0.7 
-
-processing pattern %s pork whole_milk yogurt 
-
-0.8 
-
-processing pattern %s pork rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s other_vegetables pork rolls-buns 
-
-0.7 
-
-processing pattern %s other_vegetables pork rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s pork rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s pork root_vegetables soda 
-
-0.7 
-
-processing pattern %s other_vegetables pork soda 
-
-0.7 
-
-processing pattern %s pork soda whole_milk 
-
-0.8 
-
-processing pattern %s pork root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pork root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pork root_vegetables 
-
-0.7 
+0.6 
 
 processing pattern %s other_vegetables pork 
 
@@ -7154,381 +1304,61 @@ processing pattern %s pork whole_milk
 
 0.8 
 
-processing pattern %s brown_bread coffee 
-
-0.6 
-
-processing pattern %s canned_beer coffee 
-
-0.6 
-
-processing pattern %s coffee newspapers 
-
-0.6 
-
-processing pattern %s coffee margarine 
-
-0.8 
-
-processing pattern %s coffee domestic_eggs 
-
-0.6 
-
-processing pattern %s coffee domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s bottled_beer coffee 
-
-0.6 
-
-processing pattern %s bottled_beer coffee whole_milk 
-
-0.8 
-
-processing pattern %s coffee frankfurter 
-
-0.8 
-
-processing pattern %s coffee frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s coffee fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s coffee fruitvegetable_juice soda 
-
-0.7 
-
-processing pattern %s coffee other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s coffee whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit coffee 
-
-0.6 
-
-processing pattern %s coffee pastry 
-
-0.6 
-
-processing pattern %s coffee pastry whole_milk 
-
-0.8 
-
-processing pattern %s coffee sausage 
-
-0.6 
-
-processing pattern %s coffee sausage whole_milk 
-
-0.8 
-
-processing pattern %s coffee other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s coffee pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s coffee other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s coffee tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s coffee tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s coffee other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s coffee root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water coffee 
-
-0.6 
-
-processing pattern %s bottled_water coffee whole_milk 
-
-0.8 
-
 processing pattern %s coffee shopping_bags 
 
 0.8 
 
-processing pattern %s coffee shopping_bags whole_milk 
+processing pattern %s coffee yogurt 
 
-0.9 
+0.6 
 
-processing pattern %s coffee other_vegetables yogurt 
+processing pattern %s coffee soda 
 
-0.7 
+0.6 
 
-processing pattern %s coffee whole_milk yogurt 
+processing pattern %s coffee rolls-buns 
 
-0.8 
-
-processing pattern %s coffee other_vegetables soda 
-
-0.7 
-
-processing pattern %s coffee soda whole_milk 
-
-0.8 
-
-processing pattern %s coffee other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s coffee rolls-buns whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s coffee other_vegetables 
 
 0.6 
 
-processing pattern %s coffee other_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s coffee whole_milk 
 
 0.8 
 
-processing pattern %s canned_beer margarine 
+processing pattern %s domestic_eggs margarine 
 
 0.8 
 
-processing pattern %s margarine shopping_bags 
-
-1.0 
-
-processing pattern %s margarine shopping_bags whole_milk 
-
-1.0 
-
-processing pattern %s bottled_beer margarine other_vegetables 
+processing pattern %s margarine pip_fruit 
 
 0.8 
 
-processing pattern %s bottled_beer margarine whole_milk 
-
-0.9 
-
-processing pattern %s fruitvegetable_juice margarine other_vegetables 
+processing pattern %s margarine tropical_fruit 
 
 0.8 
 
-processing pattern %s fruitvegetable_juice margarine whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter margarine 
-
-1.0 
-
-processing pattern %s brown_bread margarine 
+processing pattern %s margarine soda 
 
 0.8 
 
-processing pattern %s brown_bread margarine whole_milk 
-
-0.9 
-
-processing pattern %s margarine pastry yogurt 
+processing pattern %s bottled_water margarine 
 
 0.8 
 
-processing pattern %s margarine pastry whole_milk 
-
-0.9 
-
-processing pattern %s margarine whipped_sour_cream yogurt 
+processing pattern %s margarine root_vegetables 
 
 0.8 
 
-processing pattern %s margarine other_vegetables whipped_sour_cream 
+processing pattern %s margarine yogurt 
 
 0.8 
 
-processing pattern %s margarine whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s margarine newspapers 
+processing pattern %s margarine rolls-buns 
 
 0.8 
-
-processing pattern %s margarine newspapers whole_milk 
-
-0.9 
-
-processing pattern %s margarine rolls-buns sausage 
-
-0.8 
-
-processing pattern %s margarine sausage whole_milk 
-
-0.9 
-
-processing pattern %s citrus_fruit margarine other_vegetables 
-
-0.8 
-
-processing pattern %s citrus_fruit margarine yogurt 
-
-0.8 
-
-processing pattern %s citrus_fruit margarine whole_milk 
-
-0.9 
-
-processing pattern %s domestic_eggs margarine root_vegetables 
-
-0.8 
-
-processing pattern %s domestic_eggs margarine other_vegetables 
-
-0.8 
-
-processing pattern %s domestic_eggs margarine whole_milk 
-
-0.9 
-
-processing pattern %s margarine pip_fruit yogurt 
-
-0.8 
-
-processing pattern %s margarine pip_fruit root_vegetables 
-
-0.8 
-
-processing pattern %s margarine other_vegetables pip_fruit 
-
-0.8 
-
-processing pattern %s margarine pip_fruit whole_milk 
-
-0.9 
-
-processing pattern %s margarine rolls-buns tropical_fruit 
-
-0.8 
-
-processing pattern %s margarine other_vegetables tropical_fruit 
-
-0.8 
-
-processing pattern %s margarine tropical_fruit yogurt 
-
-0.8 
-
-processing pattern %s margarine tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s margarine other_vegetables soda 
-
-0.8 
-
-processing pattern %s margarine soda yogurt 
-
-0.8 
-
-processing pattern %s margarine rolls-buns soda 
-
-0.8 
-
-processing pattern %s margarine soda whole_milk 
-
-0.9 
-
-processing pattern %s bottled_water margarine root_vegetables 
-
-0.8 
-
-processing pattern %s bottled_water margarine other_vegetables 
-
-0.8 
-
-processing pattern %s bottled_water margarine rolls-buns 
-
-0.8 
-
-processing pattern %s bottled_water margarine yogurt 
-
-0.8 
-
-processing pattern %s bottled_water margarine whole_milk 
-
-0.9 
-
-processing pattern %s margarine rolls-buns root_vegetables 
-
-0.8 
-
-processing pattern %s margarine root_vegetables yogurt 
-
-0.8 
-
-processing pattern %s margarine root_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s margarine other_vegetables root_vegetables whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s margarine other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s margarine rolls-buns yogurt 
-
-0.8 
-
-processing pattern %s margarine rolls-buns whole_milk yogurt 
-
-0.8666666666666667 
-
-processing pattern %s margarine other_vegetables yogurt 
-
-0.8 
-
-processing pattern %s margarine other_vegetables whole_milk yogurt 
-
-0.8666666666666667 
-
-processing pattern %s margarine whole_milk yogurt 
-
-0.9 
-
-processing pattern %s margarine other_vegetables rolls-buns 
-
-0.8 
-
-processing pattern %s margarine other_vegetables rolls-buns whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s margarine rolls-buns whole_milk 
-
-0.9 
 
 processing pattern %s margarine other_vegetables 
 
@@ -7542,497 +1372,97 @@ processing pattern %s margarine whole_milk
 
 1.0 
 
-processing pattern %s canned_beer frankfurter 
-
-0.8 
-
-processing pattern %s frankfurter newspapers 
-
-0.8 
-
-processing pattern %s frankfurter fruitvegetable_juice 
-
-0.8 
-
-processing pattern %s frankfurter fruitvegetable_juice whole_milk 
-
-0.9 
-
-processing pattern %s bottled_beer frankfurter 
-
-0.8 
-
-processing pattern %s bottled_beer frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter other_vegetables whipped_sour_cream 
-
-0.8 
-
-processing pattern %s frankfurter whipped_sour_cream whole_milk 
-
-0.9 
-
-processing pattern %s citrus_fruit frankfurter other_vegetables 
-
-0.8 
-
-processing pattern %s citrus_fruit frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s domestic_eggs frankfurter other_vegetables 
-
-0.8 
-
-processing pattern %s domestic_eggs frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s brown_bread frankfurter 
-
-0.8 
-
-processing pattern %s brown_bread frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter pip_fruit yogurt 
-
-0.8 
-
-processing pattern %s frankfurter pip_fruit whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter other_vegetables pip_fruit 
-
-0.8 
-
-processing pattern %s bottled_water frankfurter whole_milk 
-
-0.9 
-
-processing pattern %s bottled_water frankfurter rolls-buns 
-
-0.8 
-
-processing pattern %s frankfurter shopping_bags whole_milk 
+processing pattern %s frankfurter shopping_bags 
 
 1.0 
 
-processing pattern %s frankfurter rolls-buns shopping_bags 
-
-0.9 
-
-processing pattern %s frankfurter pastry soda 
+processing pattern %s frankfurter pastry 
 
 0.8 
 
-processing pattern %s frankfurter pastry yogurt 
+processing pattern %s frankfurter tropical_fruit 
 
 0.8 
 
-processing pattern %s frankfurter pastry rolls-buns 
+processing pattern %s frankfurter sausage 
 
 0.8 
 
-processing pattern %s frankfurter other_vegetables pastry 
+processing pattern %s frankfurter root_vegetables 
 
 0.8 
 
-processing pattern %s frankfurter pastry whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter root_vegetables tropical_fruit 
+processing pattern %s frankfurter yogurt 
 
 0.8 
 
-processing pattern %s frankfurter rolls-buns tropical_fruit 
+processing pattern %s frankfurter soda 
 
 0.8 
 
-processing pattern %s frankfurter tropical_fruit yogurt 
+processing pattern %s frankfurter other_vegetables 
 
 0.8 
-
-processing pattern %s frankfurter other_vegetables tropical_fruit 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables tropical_fruit whole_milk 
-
-0.8666666666666667 
-
-processing pattern %s frankfurter tropical_fruit whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter root_vegetables sausage 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables sausage 
-
-0.8 
-
-processing pattern %s frankfurter sausage whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter rolls-buns sausage 
-
-0.8 
-
-processing pattern %s frankfurter root_vegetables yogurt 
-
-0.8 
-
-processing pattern %s frankfurter rolls-buns root_vegetables 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables root_vegetables 
-
-0.8 
-
-processing pattern %s frankfurter root_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter soda yogurt 
-
-0.8 
-
-processing pattern %s frankfurter rolls-buns yogurt 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables yogurt 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables whole_milk yogurt 
-
-0.8666666666666667 
-
-processing pattern %s frankfurter whole_milk yogurt 
-
-0.9 
-
-processing pattern %s frankfurter other_vegetables soda 
-
-0.8 
-
-processing pattern %s frankfurter soda whole_milk 
-
-0.9 
-
-processing pattern %s frankfurter rolls-buns soda 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables rolls-buns 
-
-0.8 
-
-processing pattern %s frankfurter other_vegetables whole_milk 
-
-0.9 
 
 processing pattern %s frankfurter rolls-buns 
 
 0.8 
 
-processing pattern %s frankfurter rolls-buns whole_milk 
-
-0.9 
-
 processing pattern %s frankfurter whole_milk 
 
 1.0 
 
-processing pattern %s canned_beer domestic_eggs 
+processing pattern %s domestic_eggs pip_fruit 
 
 0.6 
 
-processing pattern %s bottled_beer domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_beer domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s brown_bread domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs newspapers 
+processing pattern %s domestic_eggs pastry 
 
 0.6 
 
-processing pattern %s domestic_eggs newspapers whole_milk 
+processing pattern %s domestic_eggs shopping_bags 
 
 0.8 
 
-processing pattern %s domestic_eggs fruitvegetable_juice root_vegetables 
+processing pattern %s bottled_water domestic_eggs 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs fruitvegetable_juice yogurt 
+processing pattern %s domestic_eggs sausage 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs fruitvegetable_juice other_vegetables 
+processing pattern %s domestic_eggs whipped_sour_cream 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs fruitvegetable_juice whole_milk 
+processing pattern %s citrus_fruit domestic_eggs 
 
-0.8 
+0.6 
 
-processing pattern %s domestic_eggs pip_fruit yogurt 
+processing pattern %s domestic_eggs tropical_fruit 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs pip_fruit root_vegetables 
+processing pattern %s domestic_eggs soda 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs other_vegetables pip_fruit 
+processing pattern %s domestic_eggs root_vegetables 
 
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs pastry rolls-buns 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables pastry 
-
-0.7 
-
-processing pattern %s domestic_eggs pastry whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns shopping_bags 
-
-0.8 
-
-processing pattern %s domestic_eggs shopping_bags soda 
-
-0.8 
-
-processing pattern %s domestic_eggs other_vegetables shopping_bags 
-
-0.8 
-
-processing pattern %s domestic_eggs shopping_bags whole_milk 
-
-0.9 
-
-processing pattern %s bottled_water domestic_eggs yogurt 
-
-0.7 
-
-processing pattern %s bottled_water domestic_eggs soda 
-
-0.7 
-
-processing pattern %s bottled_water domestic_eggs rolls-buns 
-
-0.7 
-
-processing pattern %s bottled_water domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs sausage soda 
-
-0.7 
-
-processing pattern %s domestic_eggs rolls-buns sausage 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables sausage 
-
-0.7 
-
-processing pattern %s domestic_eggs sausage whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns whipped_sour_cream 
-
-0.7 
-
-processing pattern %s domestic_eggs root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s domestic_eggs whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit domestic_eggs yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit domestic_eggs other_vegetables 
-
-0.7 
-
-processing pattern %s citrus_fruit domestic_eggs other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit domestic_eggs whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s domestic_eggs soda tropical_fruit 
-
-0.7 
-
-processing pattern %s domestic_eggs root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s domestic_eggs root_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s domestic_eggs tropical_fruit whole_milk yogurt 
-
-0.8 
-
-processing pattern %s domestic_eggs other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs soda yogurt 
-
-0.7 
-
-processing pattern %s domestic_eggs root_vegetables soda 
-
-0.7 
-
-processing pattern %s domestic_eggs rolls-buns soda 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables soda 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables soda whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs soda whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables root_vegetables whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s domestic_eggs root_vegetables whole_milk 
 
 0.8 
 
-processing pattern %s domestic_eggs root_vegetables yogurt 
+processing pattern %s domestic_eggs yogurt 
 
-0.7 
+0.6 
 
-processing pattern %s domestic_eggs root_vegetables whole_milk yogurt 
+processing pattern %s domestic_eggs rolls-buns 
 
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s domestic_eggs whole_milk yogurt 
-
-0.8 
-
-processing pattern %s domestic_eggs other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s domestic_eggs other_vegetables rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s domestic_eggs rolls-buns whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s domestic_eggs other_vegetables 
 
@@ -8046,213 +1476,49 @@ processing pattern %s domestic_eggs whole_milk
 
 0.8 
 
-processing pattern %s brown_bread whipped_sour_cream 
+processing pattern %s bottled_water brown_bread 
 
 0.6 
 
-processing pattern %s brown_bread other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s brown_bread canned_beer 
+processing pattern %s brown_bread fruitvegetable_juice 
 
 0.6 
 
-processing pattern %s bottled_beer brown_bread 
+processing pattern %s brown_bread citrus_fruit 
 
 0.6 
 
-processing pattern %s bottled_beer brown_bread whole_milk 
+processing pattern %s brown_bread shopping_bags 
 
 0.8 
 
-processing pattern %s brown_bread newspapers 
+processing pattern %s brown_bread pastry 
 
 0.6 
 
-processing pattern %s brown_bread newspapers whole_milk 
+processing pattern %s brown_bread root_vegetables 
 
-0.8 
+0.6 
 
-processing pattern %s brown_bread pip_fruit yogurt 
+processing pattern %s brown_bread tropical_fruit 
 
-0.7 
+0.6 
 
-processing pattern %s brown_bread pip_fruit whole_milk 
+processing pattern %s brown_bread sausage 
 
-0.8 
+0.6 
 
-processing pattern %s brown_bread other_vegetables pip_fruit 
+processing pattern %s brown_bread soda 
 
-0.7 
+0.6 
 
-processing pattern %s bottled_water brown_bread other_vegetables 
+processing pattern %s brown_bread rolls-buns 
 
-0.7 
+0.6 
 
-processing pattern %s bottled_water brown_bread whole_milk 
+processing pattern %s brown_bread yogurt 
 
-0.8 
-
-processing pattern %s bottled_water brown_bread soda 
-
-0.7 
-
-processing pattern %s brown_bread fruitvegetable_juice yogurt 
-
-0.7 
-
-processing pattern %s brown_bread fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s brown_bread fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread citrus_fruit root_vegetables 
-
-0.7 
-
-processing pattern %s brown_bread citrus_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s brown_bread citrus_fruit yogurt 
-
-0.7 
-
-processing pattern %s brown_bread citrus_fruit other_vegetables 
-
-0.7 
-
-processing pattern %s brown_bread citrus_fruit whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread shopping_bags soda 
-
-0.8 
-
-processing pattern %s brown_bread other_vegetables shopping_bags 
-
-0.8 
-
-processing pattern %s brown_bread shopping_bags whole_milk 
-
-0.9 
-
-processing pattern %s brown_bread pastry yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables pastry 
-
-0.7 
-
-processing pattern %s brown_bread pastry whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s brown_bread root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread sausage soda 
-
-0.7 
-
-processing pattern %s brown_bread rolls-buns sausage 
-
-0.7 
-
-processing pattern %s brown_bread sausage yogurt 
-
-0.7 
-
-processing pattern %s brown_bread sausage whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread other_vegetables sausage 
-
-0.7 
-
-processing pattern %s brown_bread soda yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables soda 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables soda whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread soda whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread rolls-buns soda 
-
-0.7 
-
-processing pattern %s brown_bread rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s brown_bread rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s brown_bread other_vegetables yogurt 
-
-0.7 
-
-processing pattern %s brown_bread other_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s brown_bread whole_milk yogurt 
-
-0.8 
+0.6 
 
 processing pattern %s brown_bread other_vegetables 
 
@@ -8266,253 +1532,41 @@ processing pattern %s brown_bread whole_milk
 
 0.8 
 
-processing pattern %s bottled_beer whipped_sour_cream 
+processing pattern %s bottled_water whipped_sour_cream 
 
 0.6 
 
-processing pattern %s newspapers whipped_sour_cream yogurt 
+processing pattern %s fruitvegetable_juice whipped_sour_cream 
 
-0.7 
+0.6 
 
-processing pattern %s newspapers whipped_sour_cream whole_milk 
+processing pattern %s sausage whipped_sour_cream 
 
-0.8 
+0.6 
 
-processing pattern %s newspapers other_vegetables whipped_sour_cream 
+processing pattern %s pip_fruit whipped_sour_cream 
 
-0.7 
+0.6 
 
-processing pattern %s pastry whipped_sour_cream yogurt 
+processing pattern %s citrus_fruit whipped_sour_cream 
 
-0.7 
+0.6 
 
-processing pattern %s pastry whipped_sour_cream whole_milk 
+processing pattern %s soda whipped_sour_cream 
 
-0.8 
+0.6 
 
-processing pattern %s other_vegetables pastry whipped_sour_cream 
+processing pattern %s tropical_fruit whipped_sour_cream 
 
-0.7 
+0.6 
 
-processing pattern %s shopping_bags whipped_sour_cream whole_milk 
+processing pattern %s rolls-buns whipped_sour_cream 
 
-0.9 
-
-processing pattern %s other_vegetables shopping_bags whipped_sour_cream 
-
-0.8 
-
-processing pattern %s bottled_water tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s bottled_water whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s bottled_water other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s bottled_water whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s sausage whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables sausage whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables sausage whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s sausage whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s pip_fruit tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit tropical_fruit whipped_sour_cream 
-
-0.7333333333333333 
-
-processing pattern %s pip_fruit whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit rolls-buns whipped_sour_cream 
-
-0.7 
-
-processing pattern %s citrus_fruit tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s citrus_fruit root_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s citrus_fruit whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit whipped_sour_cream whole_milk yogurt 
-
-0.8 
-
-processing pattern %s citrus_fruit other_vegetables whipped_sour_cream 
-
-0.7 
-
-processing pattern %s citrus_fruit other_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s root_vegetables soda whipped_sour_cream 
-
-0.7 
-
-processing pattern %s soda tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s rolls-buns soda whipped_sour_cream 
-
-0.7 
-
-processing pattern %s soda whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables soda whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables soda whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s soda whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s root_vegetables tropical_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables tropical_fruit whipped_sour_cream 
-
-0.7333333333333333 
-
-processing pattern %s other_vegetables tropical_fruit whipped_sour_cream yogurt 
-
-0.7333333333333333 
-
-processing pattern %s tropical_fruit whipped_sour_cream whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables tropical_fruit whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables tropical_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s tropical_fruit whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables rolls-buns root_vegetables whipped_sour_cream 
-
-0.7333333333333333 
-
-processing pattern %s rolls-buns root_vegetables whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns whipped_sour_cream yogurt 
-
-0.7 
-
-processing pattern %s rolls-buns whipped_sour_cream whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables rolls-buns whipped_sour_cream 
-
-0.7 
-
-processing pattern %s other_vegetables rolls-buns whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s rolls-buns whipped_sour_cream whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables whipped_sour_cream yogurt 
-
-0.7333333333333333 
-
-processing pattern %s root_vegetables whipped_sour_cream whole_milk yogurt 
-
-0.8 
+0.6 
 
 processing pattern %s other_vegetables root_vegetables whipped_sour_cream 
 
 0.7 
-
-processing pattern %s other_vegetables root_vegetables whipped_sour_cream whole_milk 
-
-0.8 
 
 processing pattern %s root_vegetables whipped_sour_cream whole_milk 
 
@@ -8521,10 +1575,6 @@ processing pattern %s root_vegetables whipped_sour_cream whole_milk
 processing pattern %s other_vegetables whipped_sour_cream yogurt 
 
 0.7 
-
-processing pattern %s other_vegetables whipped_sour_cream whole_milk yogurt 
-
-0.8 
 
 processing pattern %s whipped_sour_cream whole_milk yogurt 
 
@@ -8542,261 +1592,53 @@ processing pattern %s whipped_sour_cream whole_milk
 
 0.8 
 
-processing pattern %s canned_beer fruitvegetable_juice 
-
-0.6 
-
-processing pattern %s bottled_beer bottled_water fruitvegetable_juice 
-
-0.7 
-
-processing pattern %s bottled_beer fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_beer fruitvegetable_juice soda 
-
-0.7 
-
-processing pattern %s bottled_beer fruitvegetable_juice whole_milk 
-
-0.8 
-
 processing pattern %s fruitvegetable_juice newspapers 
 
 0.6 
 
-processing pattern %s fruitvegetable_juice other_vegetables pastry 
+processing pattern %s fruitvegetable_juice pastry 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice pastry yogurt 
+processing pattern %s fruitvegetable_juice pip_fruit 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice pastry whole_milk 
+processing pattern %s fruitvegetable_juice sausage 
 
-0.8 
+0.6 
 
-processing pattern %s fruitvegetable_juice pip_fruit soda 
+processing pattern %s citrus_fruit fruitvegetable_juice 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice pip_fruit root_vegetables 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice pip_fruit whole_milk 
+processing pattern %s fruitvegetable_juice shopping_bags 
 
 0.8 
 
-processing pattern %s fruitvegetable_juice rolls-buns sausage 
+processing pattern %s fruitvegetable_juice root_vegetables 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice sausage yogurt 
+processing pattern %s fruitvegetable_juice tropical_fruit 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice sausage soda 
+processing pattern %s bottled_water fruitvegetable_juice 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice other_vegetables sausage 
+processing pattern %s fruitvegetable_juice rolls-buns 
 
-0.7 
+0.6 
 
-processing pattern %s fruitvegetable_juice sausage whole_milk 
+processing pattern %s fruitvegetable_juice soda 
 
-0.8 
-
-processing pattern %s citrus_fruit fruitvegetable_juice soda 
-
-0.7 
-
-processing pattern %s citrus_fruit fruitvegetable_juice yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit fruitvegetable_juice root_vegetables 
-
-SKIPPED 
-
-processing pattern %s citrus_fruit fruitvegetable_juice tropical_fruit 
-
-0.7 
-
-processing pattern %s citrus_fruit fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit fruitvegetable_juice other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables shopping_bags 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice shopping_bags yogurt 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice shopping_bags soda 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice shopping_bags whole_milk 
-
-0.9 
-
-processing pattern %s fruitvegetable_juice rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice root_vegetables 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables root_vegetables tropical_fruit 
-
-0.7333333333333333 
-
-processing pattern %s fruitvegetable_juice root_vegetables soda 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice root_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice tropical_fruit 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice soda tropical_fruit 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice tropical_fruit whole_milk yogurt 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables tropical_fruit yogurt 
-
-0.7333333333333333 
-
-processing pattern %s fruitvegetable_juice tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice rolls-buns 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice yogurt 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice soda 
-
-0.7 
-
-processing pattern %s bottled_water fruitvegetable_juice whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice rolls-buns soda 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables rolls-buns 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice other_vegetables soda 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables soda whole_milk 
-
-0.8 
-
-processing pattern %s fruitvegetable_juice soda yogurt 
-
-0.7 
-
-processing pattern %s fruitvegetable_juice soda whole_milk 
-
-0.8 
+0.6 
 
 processing pattern %s fruitvegetable_juice other_vegetables yogurt 
 
 0.7 
-
-processing pattern %s fruitvegetable_juice other_vegetables whole_milk yogurt 
-
-0.8 
 
 processing pattern %s fruitvegetable_juice whole_milk yogurt 
 
@@ -8814,235 +1656,39 @@ processing pattern %s fruitvegetable_juice whole_milk
 
 0.8 
 
-processing pattern %s canned_beer pip_fruit 
+processing pattern %s pip_fruit shopping_bags 
+
+0.8 
+
+processing pattern %s bottled_water pip_fruit 
 
 0.6 
 
-processing pattern %s bottled_beer pip_fruit 
+processing pattern %s pastry pip_fruit 
 
 0.6 
 
-processing pattern %s newspapers pip_fruit 
+processing pattern %s pip_fruit sausage 
 
 0.6 
 
-processing pattern %s newspapers pip_fruit whole_milk 
+processing pattern %s pip_fruit soda 
 
-0.8 
+0.6 
 
-processing pattern %s pip_fruit root_vegetables shopping_bags 
+processing pattern %s citrus_fruit pip_fruit 
 
-0.8 
+0.6 
 
-processing pattern %s citrus_fruit pip_fruit shopping_bags 
+processing pattern %s pip_fruit rolls-buns 
 
-0.8 
-
-processing pattern %s other_vegetables pip_fruit shopping_bags 
-
-0.8 
-
-processing pattern %s pip_fruit shopping_bags tropical_fruit 
-
-0.8 
-
-processing pattern %s pip_fruit shopping_bags whole_milk 
-
-0.9 
-
-processing pattern %s bottled_water pip_fruit soda 
-
-0.7 
-
-processing pattern %s bottled_water pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s bottled_water other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s bottled_water pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s pastry pip_fruit sausage 
-
-0.7 
-
-processing pattern %s pastry pip_fruit rolls-buns 
-
-0.7 
-
-processing pattern %s pastry pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s pastry pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s other_vegetables pastry pip_fruit 
-
-0.7 
-
-processing pattern %s other_vegetables pastry pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s pastry pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit root_vegetables sausage 
-
-0.7 
-
-processing pattern %s pip_fruit rolls-buns sausage 
-
-0.7 
-
-processing pattern %s pip_fruit sausage tropical_fruit 
-
-0.7 
-
-processing pattern %s pip_fruit sausage soda 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit sausage 
-
-0.7 
-
-processing pattern %s pip_fruit sausage yogurt 
-
-0.7 
-
-processing pattern %s pip_fruit sausage whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit root_vegetables soda 
-
-0.7 
-
-processing pattern %s pip_fruit rolls-buns soda 
-
-0.7 
-
-processing pattern %s pip_fruit soda tropical_fruit 
-
-0.7 
-
-processing pattern %s pip_fruit soda yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit soda 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit soda whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit soda whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit pip_fruit yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit pip_fruit root_vegetables 
-
-0.7 
-
-processing pattern %s citrus_fruit other_vegetables pip_fruit root_vegetables 
-
-0.7333333333333333 
-
-processing pattern %s citrus_fruit pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit other_vegetables pip_fruit whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit pip_fruit tropical_fruit 
-
-0.7 
-
-processing pattern %s citrus_fruit other_vegetables pip_fruit tropical_fruit 
-
-0.7333333333333333 
-
-processing pattern %s citrus_fruit other_vegetables pip_fruit 
-
-0.7 
-
-processing pattern %s pip_fruit rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s pip_fruit rolls-buns yogurt 
-
-0.7 
-
-processing pattern %s pip_fruit rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit rolls-buns 
-
-0.7 
-
-processing pattern %s other_vegetables pip_fruit rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s pip_fruit rolls-buns whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pip_fruit root_vegetables yogurt 
-
-0.7333333333333333 
-
-processing pattern %s pip_fruit root_vegetables whole_milk yogurt 
-
-0.8 
-
-processing pattern %s pip_fruit root_vegetables tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pip_fruit root_vegetables tropical_fruit 
-
-0.7333333333333333 
+0.6 
 
 processing pattern %s other_vegetables pip_fruit root_vegetables 
 
 0.7 
 
-processing pattern %s other_vegetables pip_fruit root_vegetables whole_milk 
-
-0.8 
-
 processing pattern %s pip_fruit root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pip_fruit tropical_fruit yogurt 
-
-0.7333333333333333 
-
-processing pattern %s pip_fruit tropical_fruit whole_milk yogurt 
 
 0.8 
 
@@ -9050,19 +1696,11 @@ processing pattern %s other_vegetables pip_fruit yogurt
 
 0.7 
 
-processing pattern %s other_vegetables pip_fruit whole_milk yogurt 
-
-0.8 
-
 processing pattern %s pip_fruit whole_milk yogurt 
 
 0.8 
 
 processing pattern %s pip_fruit tropical_fruit whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pip_fruit tropical_fruit whole_milk 
 
 0.8 
 
@@ -9082,654 +1720,6 @@ processing pattern %s pip_fruit whole_milk
 
 0.8 
 
-processing pattern %s bottled_beer canned_beer 
+processing pattern %s canned_beer whole_milk 
 
-0.6 
-
-processing pattern %s canned_beer tropical_fruit 
-
-0.6 
-
-processing pattern %s canned_beer root_vegetables 
-
-0.6 
-
-processing pattern %s canned_beer citrus_fruit 
-
-0.6 
-
-processing pattern %s canned_beer pastry 
-
-0.6 
-
-processing pattern %s canned_beer newspapers 
-
-0.6 
-
-processing pattern %s canned_beer yogurt 
-
-0.6 
-
-processing pattern %s canned_beer sausage shopping_bags 
-
-0.8 
-
-processing pattern %s canned_beer rolls-buns sausage 
-
-0.7 
-
-processing pattern %s bottled_water canned_beer 
-
-0.6 
-
-processing pattern %s bottled_water canned_beer soda 
-
-0.7 
-
-processing pattern %s canned_beer other_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s canned_beer soda whole_milk 
-
-0.8 
-
-processing pattern %s canned_beer other_vegetables 
-
-0.6 
-
-processing pattern %s canned_beer other_vegetables soda 
-
-0.7 
-
-processing pattern %s canned_beer rolls-buns soda 
-
-0.7 
-
-processing pattern %s canned_beer rolls-buns shopping_bags 
-
-0.8 
-
-processing pattern %s canned_beer shopping_bags 
-
-0.8 
-
-processing pattern %s canned_beer shopping_bags soda 
-
-0.8 
-
-processing pattern %s canned_beer soda 
-
-0.6 
-
-processing pattern %s bottled_beer newspapers 
-
-0.6 
-
-processing pattern %s newspapers shopping_bags 
-
-0.8 
-
-processing pattern %s newspapers sausage yogurt 
-
-0.7 
-
-processing pattern %s newspapers rolls-buns sausage 
-
-0.7 
-
-processing pattern %s newspapers sausage whole_milk 
-
-0.8 
-
-processing pattern %s newspapers other_vegetables sausage 
-
-0.7 
-
-processing pattern %s citrus_fruit newspapers yogurt 
-
-0.7 
-
-processing pattern %s citrus_fruit newspapers whole_milk 
-
-0.8 
-
-processing pattern %s citrus_fruit newspapers other_vegetables 
-
-0.7 
-
-processing pattern %s newspapers pastry rolls-buns 
-
-0.7 
-
-processing pattern %s newspapers pastry whole_milk 
-
-0.8 
-
-processing pattern %s bottled_water newspapers tropical_fruit 
-
-0.7 
-
-processing pattern %s bottled_water newspapers yogurt 
-
-0.7 
-
-processing pattern %s bottled_water newspapers other_vegetables 
-
-0.7 
-
-processing pattern %s bottled_water newspapers soda 
-
-0.7 
-
-processing pattern %s bottled_water newspapers rolls-buns 
-
-0.7 
-
-processing pattern %s bottled_water newspapers whole_milk 
-
-0.8 
-
-processing pattern %s newspapers root_vegetables soda 
-
-0.7 
-
-processing pattern %s newspapers rolls-buns root_vegetables 
-
-0.7 
-
-processing pattern %s newspapers root_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s newspapers root_vegetables yogurt 
-
-0.7 
-
-processing pattern %s newspapers root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s newspapers other_vegetables root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s newspapers other_vegetables root_vegetables 
-
-0.7 
-
-processing pattern %s newspapers soda tropical_fruit 
-
-0.7 
-
-processing pattern %s newspapers rolls-buns tropical_fruit 
-
-0.7 
-
-processing pattern %s newspapers tropical_fruit yogurt 
-
-0.7 
-
-processing pattern %s newspapers other_vegetables tropical_fruit 
-
-0.7 
-
-processing pattern %s newspapers tropical_fruit whole_milk
-=======
-processing pattern %s curd_cheese other_vegetables 
-
-0.6 
-
-processing pattern %s curd_cheese whole_milk 
-
-0.8 
-
-processing pattern %s cleaner 
-
-NOT PROCESSED 
-
-processing pattern %s cleaner whole_milk 
-
-0.8 
-
-processing pattern %s liver_loaf 
-
-NOT PROCESSED 
-
-processing pattern %s liver_loaf whole_milk 
-
-0.8 
-
-processing pattern %s spices 
-
-NOT PROCESSED 
-
-processing pattern %s other_vegetables spices 
-
-0.8 
-
-processing pattern %s jam other_vegetables 
-
-0.8 
-
-processing pattern %s jam root_vegetables 
-
-0.8 
-
-processing pattern %s jam whole_milk 
-
-1.0 
-
-processing pattern %s softener 
-
-NOT PROCESSED 
-
-processing pattern %s softener whole_milk 
-
-0.8 
-
-processing pattern %s sauces 
-
-NOT PROCESSED 
-
-processing pattern %s sauces whole_milk 
-
-0.8 
-
-processing pattern %s sparkling_wine 
-
-NOT PROCESSED 
-
-processing pattern %s cereals other_vegetables 
-
-0.4 
-
-processing pattern %s cereals yogurt 
-
-0.4 
-
-processing pattern %s cereals whole_milk 
-
-0.6 
-
-processing pattern %s dental_care whole_milk 
-
-0.8 
-
-processing pattern %s dental_care other_vegetables 
-
-0.6 
-
-processing pattern %s kitchen_towels other_vegetables 
-
-0.8 
-
-processing pattern %s kitchen_towels whole_milk 
-
-1.0 
-
-processing pattern %s female_sanitary_products 
-
-NOT PROCESSED 
-
-processing pattern %s female_sanitary_products whole_milk 
-
-0.8 
-
-processing pattern %s vinegar yogurt 
-
-0.6 
-
-processing pattern %s other_vegetables vinegar 
-
-0.6 
-
-processing pattern %s vinegar whole_milk 
-
-0.8 
-
-processing pattern %s soups whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables soups whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables soups 
-
-0.6 
-
-processing pattern %s zwieback 
-
-NOT PROCESSED 
-
-processing pattern %s popcorn soda 
-
-0.8 
-
-processing pattern %s popcorn salty_snack 
-
-1.0 
-
-processing pattern %s popcorn whole_milk 
-
-1.0 
-
-processing pattern %s instant_coffee rolls-buns 
-
-0.6 
-
-processing pattern %s instant_coffee other_vegetables 
-
-0.6 
-
-processing pattern %s instant_coffee yogurt 
-
-0.6 
-
-processing pattern %s instant_coffee whole_milk 
-
-0.8 
-
-processing pattern %s instant_coffee soda 
-
-0.6 
-
-processing pattern %s butter rice 
-
-0.6 
-
-processing pattern %s citrus_fruit rice 
-
-0.6 
-
-processing pattern %s fruitvegetable_juice rice 
-
-0.6 
-
-processing pattern %s rice tropical_fruit 
-
-0.6 
-
-processing pattern %s rice whole_milk yogurt 
-
-0.8 
-
-processing pattern %s other_vegetables rice yogurt 
-
-0.7 
-
-processing pattern %s other_vegetables rice root_vegetables 
-
-0.7 
-
-processing pattern %s other_vegetables rice root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s rice root_vegetables whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables rice 
-
-0.6 
-
-processing pattern %s other_vegetables rice whole_milk 
-
-0.8 
-
-processing pattern %s rice whole_milk 
-
-0.8 
-
-processing pattern %s bottled_beer liquor_appetizer 
-
-0.6 
-
-processing pattern %s liquor_appetizer soda 
-
-0.6 
-
-processing pattern %s Instant_food_products root_vegetables 
-
-0.6 
-
-processing pattern %s Instant_food_products soda 
-
-0.6 
-
-processing pattern %s Instant_food_products rolls-buns 
-
-0.6 
-
-processing pattern %s Instant_food_products other_vegetables 
-
-0.6 
-
-processing pattern %s Instant_food_products whole_milk 
-
-0.8 
-
-processing pattern %s Instant_food_products hamburger_meat 
-
-0.6 
-
-processing pattern %s pastry turkey 
-
-0.8 
-
-processing pattern %s rolls-buns turkey 
-
-0.8 
-
-processing pattern %s turkey yogurt 
-
-0.8 
-
-processing pattern %s root_vegetables turkey 
-
-0.8 
-
-processing pattern %s other_vegetables root_vegetables turkey 
-
-0.8 
-
-processing pattern %s tropical_fruit turkey 
-
-0.8 
-
-processing pattern %s turkey whole_milk 
-
-1.0 
-
-processing pattern %s other_vegetables turkey whole_milk 
-
-0.9 
-
-processing pattern %s other_vegetables turkey 
-
-0.8 
-
-processing pattern %s house_keeping_products yogurt 
-
-0.4 
-
-processing pattern %s house_keeping_products other_vegetables 
-
-0.4 
-
-processing pattern %s house_keeping_products whole_milk 
-
-0.6 
-
-processing pattern %s frozen_potato_products rolls-buns 
-
-0.8 
-
-processing pattern %s frozen_potato_products yogurt 
-
-0.8 
-
-processing pattern %s frozen_potato_products other_vegetables 
-
-0.8 
-
-processing pattern %s frozen_potato_products other_vegetables whole_milk 
-
-0.9 
-
-processing pattern %s frozen_potato_products soda 
-
-0.8 
-
-processing pattern %s frozen_potato_products whole_milk 
-
-1.0 
-
-processing pattern %s root_vegetables specialty_cheese 
-
-0.6 
-
-processing pattern %s specialty_cheese yogurt 
-
-0.6 
-
-processing pattern %s specialty_cheese whole_milk yogurt 
-
-0.8 
-
-processing pattern %s specialty_cheese whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables specialty_cheese whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables specialty_cheese 
-
-0.6 
-
-processing pattern %s dog_food shopping_bags 
-
-0.6 
-
-processing pattern %s dog_food soda 
-
-0.4 
-
-processing pattern %s dog_food yogurt 
-
-0.4 
-
-processing pattern %s dog_food other_vegetables 
-
-0.4 
-
-processing pattern %s dog_food whole_milk 
-
-0.6 
-
-processing pattern %s candles pastry 
-
-0.6 
-
-processing pattern %s candles margarine 
-
-0.8 
-
-processing pattern %s candles other_vegetables 
-
-0.6 
-
-processing pattern %s candles whole_milk 
-
-0.8 
-
-processing pattern %s shopping_bags sweet_spreads 
-
-0.8 
-
-processing pattern %s root_vegetables sweet_spreads 
-
-0.6 
-
-processing pattern %s sweet_spreads yogurt 
-
-0.6 
-
-processing pattern %s other_vegetables sweet_spreads 
-
-0.6 
-
-processing pattern %s soda sweet_spreads 
-
-0.6 
-
-processing pattern %s sweet_spreads whole_milk 
-
-0.8 
-
-processing pattern %s chocolate_marshmallow domestic_eggs 
-
-0.6 
-
-processing pattern %s chocolate_marshmallow tropical_fruit 
-
-0.6 
-
-processing pattern %s chocolate_marshmallow other_vegetables 
-
-0.6 
-
-processing pattern %s chocolate_marshmallow rolls-buns 
-
-0.6 
-
-processing pattern %s chocolate_marshmallow soda 
-
-0.6 
-
-processing pattern %s chocolate_marshmallow whole_milk 
-
-0.8 
-
-processing pattern %s mayonnaise sausage 
-
-0.8 
-
-processing pattern %s mayonnaise soda 
-
-0.8 
-
-processing pattern %s mayonnaise root_vegetables 
-
-0.8 
-
-processing pattern %s mayonnaise yogurt 
-
-0.8 
-
-processing pattern %s mayonnaise rolls-buns 
-
-0.8 
-
-processing pattern %s mayonnaise whole_milk 
-
-1.0 
-
-processing pattern %s mayonnaise other_vegetables 
-
-0.8 
-
-processing pattern %s photo-film 
-
-NOT PROCESSED 
-
-processing pattern %s photo-film whole_milk 
-
-0.8 
-
-processing pattern %s other_vegetables pet_care
+0.8

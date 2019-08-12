@@ -1,1 +1,1 @@
- python main.py ../datasets/processed_concept_hierarchy.txt ../datasets/patterns.txt > results
+ python main_alt.py ../datasets/processed_concept_hierarchy.txt ../datasets/patterns.txt > output_hierarchy
