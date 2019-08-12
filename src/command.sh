@@ -1,1 +1,1 @@
- python main.py ../datasets/processed_concept_hierarchy.txt ../datasets/patterns.txt > results
+ python main.py ../datasets/test_concept_hierarchy.txt ../datasets/test_patterns.txt > test_results

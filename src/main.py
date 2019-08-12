@@ -71,7 +71,7 @@ def read_input():
             is_item = 1
     
     # threshold randomly decided
-    freq_patterns =extract_frequent_pattern.extract_frequent_patterns(fpat, 13)
+    freq_patterns =extract_frequent_pattern.extract_frequent_patterns(fpat, 0.1)
     
     return (item_path_dict, freq_patterns)
 
