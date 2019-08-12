@@ -1,0 +1,36 @@
+a
+root x p a
+
+b
+root x p b
+
+c
+root x p c
+
+d
+root x q d
+
+e 
+root x r e
+
+f 
+root y s f
+
+g 
+root y s g
+
+h 
+root y s h 
+
+i 
+root z t i
+
+j
+root z t j
+
+k 
+root z u k
+
+l 
+root z v l
+ 

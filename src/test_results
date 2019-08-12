@@ -1,0 +1,201 @@
+4
+processing pattern %s c 
+
+NOT PROCESSED 
+
+processing pattern %s b c 
+
+0.0 
+
+processing pattern %s a c 
+
+0.0 
+
+processing pattern %s a b c 
+
+0.0 
+
+processing pattern %s i 
+
+NOT PROCESSED 
+
+processing pattern %s f i 
+
+0.6666666666666666 
+
+processing pattern %s a i 
+
+0.6666666666666666 
+
+processing pattern %s a f i 
+
+0.6666666666666666 
+
+processing pattern %s b e 
+
+0.3333333333333333 
+
+processing pattern %s a b e 
+
+0.16666666666666666 
+
+processing pattern %s e f 
+
+0.6666666666666666 
+
+processing pattern %s a e f 
+
+0.5 
+
+processing pattern %s a e 
+
+0.3333333333333333 
+
+processing pattern %s b 
+
+NOT PROCESSED 
+
+processing pattern %s a b 
+
+0.0 
+
+processing pattern %s f 
+
+NOT PROCESSED 
+
+processing pattern %s b f 
+
+0.6666666666666666 
+
+processing pattern %s a f 
+
+0.6666666666666666 
+
+processing pattern %s a b f 
+
+0.3333333333333333 
+
+processing pattern %s a 
+
+NOT PROCESSED 
+
+pattern  0 - 
+c
+drank - 
+NOT PROCESSED
+
+
+pattern  1 - 
+b c
+drank - 
+0.0
+
+
+pattern  2 - 
+a c
+drank - 
+0.0
+
+
+pattern  3 - 
+a b c
+drank - 
+0.0
+
+
+pattern  4 - 
+i
+drank - 
+NOT PROCESSED
+
+
+pattern  5 - 
+f i
+drank - 
+0.6666666666666666
+
+
+pattern  6 - 
+a i
+drank - 
+0.6666666666666666
+
+
+pattern  7 - 
+a f i
+drank - 
+0.6666666666666666
+
+
+pattern  8 - 
+b e
+drank - 
+0.3333333333333333
+
+
+pattern  9 - 
+a b e
+drank - 
+0.16666666666666666
+
+
+pattern  10 - 
+e f
+drank - 
+0.6666666666666666
+
+
+pattern  11 - 
+a e f
+drank - 
+0.5
+
+
+pattern  12 - 
+a e
+drank - 
+0.3333333333333333
+
+
+pattern  13 - 
+b
+drank - 
+NOT PROCESSED
+
+
+pattern  14 - 
+a b
+drank - 
+0.0
+
+
+pattern  15 - 
+f
+drank - 
+NOT PROCESSED
+
+
+pattern  16 - 
+b f
+drank - 
+0.6666666666666666
+
+
+pattern  17 - 
+a f
+drank - 
+0.6666666666666666
+
+
+pattern  18 - 
+a b f
+drank - 
+0.3333333333333333
+
+
+pattern  19 - 
+a
+drank - 
+NOT PROCESSED
+
+
