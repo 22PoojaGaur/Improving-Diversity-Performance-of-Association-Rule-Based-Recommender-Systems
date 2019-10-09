@@ -1,0 +1,2002 @@
+concept hierarchy height
+5
+processing pattern %s 50 
+
+NOT PROCESSED 
+
+processing pattern %s 181 50 
+
+0.75 
+
+processing pattern %s 174 50 
+
+0.25 
+
+processing pattern %s 100 50 
+
+0.75 
+
+processing pattern %s 1 50 
+
+0.75 
+
+processing pattern %s 172 50 
+
+0.0 
+
+processing pattern %s 127 50 
+
+0.75 
+
+processing pattern %s 174 181 
+
+0.75 
+
+processing pattern %s 174 181 50 
+
+0.5 
+
+processing pattern %s 50 98 
+
+0.75 
+
+processing pattern %s 172 174 
+
+0.25 
+
+processing pattern %s 1 181 
+
+0.75 
+
+processing pattern %s 100 181 
+
+0.75 
+
+processing pattern %s 1 181 50 
+
+0.75 
+
+processing pattern %s 172 174 50 
+
+0.125 
+
+processing pattern %s 258 50 
+
+0.75 
+
+processing pattern %s 172 181 50 
+
+0.375 
+
+processing pattern %s 174 98 
+
+0.75 
+
+processing pattern %s 100 181 50 
+
+0.75 
+
+processing pattern %s 222 50 
+
+0.75 
+
+processing pattern %s 50 7 
+
+0.75 
+
+processing pattern %s 50 56 
+
+0.75 
+
+processing pattern %s 210 50 
+
+0.25 
+
+processing pattern %s 204 50 
+
+0.75 
+
+processing pattern %s 174 204 
+
+0.75 
+
+processing pattern %s 172 174 181 
+
+0.5 
+
+processing pattern %s 50 79 
+
+0.75 
+
+processing pattern %s 121 50 
+
+0.75 
+
+processing pattern %s 172 174 181 50 
+
+0.3333333333333333 
+
+processing pattern %s 100 7 
+
+0.75 
+
+processing pattern %s 174 210 
+
+0.0 
+
+processing pattern %s 174 79 
+
+0.75 
+
+processing pattern %s 174 56 
+
+0.75 
+
+processing pattern %s 174 50 98 
+
+0.5 
+
+processing pattern %s 173 50 
+
+0.5 
+
+processing pattern %s 117 50 
+
+0.25 
+
+processing pattern %s 127 181 
+
+0.75 
+
+processing pattern %s 181 222 
+
+0.25 
+
+processing pattern %s 181 50 98 
+
+0.75 
+
+processing pattern %s 121 181 
+
+0.0 
+
+processing pattern %s 127 181 50 
+
+0.75 
+
+processing pattern %s 181 258 
+
+0.75 
+
+processing pattern %s 181 222 50 
+
+0.5 
+
+processing pattern %s 195 50 
+
+0.75 
+
+processing pattern %s 168 50 
+
+0.5 
+
+processing pattern %s 237 50 
+
+0.75 
+
+processing pattern %s 173 174 
+
+0.5 
+
+processing pattern %s 174 195 
+
+0.75 
+
+processing pattern %s 181 210 50 
+
+0.5 
+
+processing pattern %s 174 204 50 
+
+0.5 
+
+processing pattern %s 174 210 50 
+
+0.125 
+
+processing pattern %s 181 204 50 
+
+0.5 
+
+processing pattern %s 117 181 
+
+0.75 
+
+processing pattern %s 174 50 79 
+
+0.5 
+
+processing pattern %s 121 181 50 
+
+0.375 
+
+processing pattern %s 181 50 7 
+
+0.75 
+
+processing pattern %s 181 258 50 
+
+0.75 
+
+processing pattern %s 168 174 
+
+0.5 
+
+processing pattern %s 100 237 
+
+0.75 
+
+processing pattern %s 183 50 
+
+0.75 
+
+processing pattern %s 173 174 50 
+
+0.375 
+
+processing pattern %s 257 50 
+
+0.75 
+
+processing pattern %s 172 50 98 
+
+0.375 
+
+processing pattern %s 174 50 56 
+
+0.5 
+
+processing pattern %s 50 69 
+
+0.75 
+
+processing pattern %s 258 300 
+
+0.75 
+
+processing pattern %s 174 69 
+
+0.75 
+
+processing pattern %s 172 210 50 
+
+0.125 
+
+processing pattern %s 172 204 50 
+
+0.375 
+
+processing pattern %s 181 50 79 
+
+0.75 
+
+processing pattern %s 174 181 98 
+
+0.75 
+
+processing pattern %s 174 22 
+
+0.25 
+
+processing pattern %s 22 50 
+
+0.25 
+
+processing pattern %s 50 89 
+
+0.75 
+
+processing pattern %s 50 96 
+
+0.75 
+
+processing pattern %s 173 181 50 
+
+0.625 
+
+processing pattern %s 174 181 210 
+
+0.375 
+
+processing pattern %s 117 181 50 
+
+0.5 
+
+processing pattern %s 1 174 50 
+
+0.5 
+
+processing pattern %s 1 100 50 
+
+0.75 
+
+processing pattern %s 174 96 
+
+0.75 
+
+processing pattern %s 172 174 210 
+
+0.125 
+
+processing pattern %s 423 50 
+
+0.75 
+
+processing pattern %s 174 195 50 
+
+0.5 
+
+processing pattern %s 181 50 56 
+
+0.75 
+
+processing pattern %s 174 181 50 98 
+
+0.5833333333333334 
+
+processing pattern %s 174 183 
+
+0.75 
+
+processing pattern %s 151 50 
+
+0.75 
+
+processing pattern %s 172 174 204 
+
+0.5 
+
+processing pattern %s 174 181 210 50 
+
+0.3333333333333333 
+
+processing pattern %s 174 181 204 
+
+0.5 
+
+processing pattern %s 100 174 50 
+
+0.5 
+
+processing pattern %s 176 50 
+
+0.75 
+
+processing pattern %s 172 174 98 
+
+0.5 
+
+processing pattern %s 168 174 50 
+
+0.375 
+
+processing pattern %s 172 174 210 50 
+
+0.08333333333333333 
+
+processing pattern %s 174 176 
+
+0.75 
+
+processing pattern %s 174 423 
+
+0.75 
+
+processing pattern %s 172 50 79 
+
+0.375 
+
+processing pattern %s 172 174 204 50 
+
+0.3333333333333333 
+
+processing pattern %s 174 181 204 50 
+
+0.4166666666666667 
+
+processing pattern %s 174 89 
+
+0.75 
+
+processing pattern %s 172 174 50 98 
+
+0.3333333333333333 
+
+processing pattern %s 174 28 
+
+0.75 
+
+processing pattern %s 318 50 
+
+0.5 
+
+processing pattern %s 172 181 210 50 
+
+0.3333333333333333 
+
+processing pattern %s 100 286 
+
+0.75 
+
+processing pattern %s 28 50 
+
+0.75 
+
+processing pattern %s 181 195 50 
+
+0.5 
+
+processing pattern %s 288 50 
+
+0.75 
+
+processing pattern %s 202 50 
+
+0.75 
+
+processing pattern %s 216 50 
+
+0.75 
+
+processing pattern %s 173 174 181 
+
+0.625 
+
+processing pattern %s 174 181 79 
+
+0.75 
+
+processing pattern %s 258 288 
+
+0.75 
+
+processing pattern %s 174 183 50 
+
+0.5 
+
+processing pattern %s 50 64 
+
+0.5 
+
+processing pattern %s 168 181 50 
+
+0.625 
+
+processing pattern %s 100 50 7 
+
+0.75 
+
+processing pattern %s 294 50 
+
+0.5 
+
+processing pattern %s 174 191 
+
+0.75 
+
+processing pattern %s 191 50 
+
+0.75 
+
+processing pattern %s 181 257 
+
+0.25 
+
+processing pattern %s 174 64 
+
+0.5 
+
+processing pattern %s 174 22 50 
+
+0.25 
+
+processing pattern %s 172 195 50 
+
+0.375 
+
+processing pattern %s 172 173 50 
+
+0.25 
+
+processing pattern %s 173 174 181 50 
+
+0.5 
+
+processing pattern %s 172 181 204 50 
+
+0.3333333333333333 
+
+processing pattern %s 100 50 98 
+
+0.5 
+
+processing pattern %s 405 50 
+
+0.25 
+
+processing pattern %s 174 50 69 
+
+0.5 
+
+processing pattern %s 174 181 50 79 
+
+0.5833333333333334 
+
+processing pattern %s 50 56 98 
+
+0.75 
+
+processing pattern %s 172 174 79 
+
+0.5 
+
+processing pattern %s 100 127 50 
+
+0.75 
+
+processing pattern %s 174 216 
+
+0.75 
+
+processing pattern %s 172 173 174 
+
+0.375 
+
+processing pattern %s 172 181 50 98 
+
+0.5 
+
+processing pattern %s 172 174 181 210 
+
+0.3333333333333333 
+
+processing pattern %s 172 50 56 
+
+0.375 
+
+processing pattern %s 258 286 
+
+0.75 
+
+processing pattern %s 174 50 96 
+
+0.5 
+
+processing pattern %s 181 257 50 
+
+0.5 
+
+processing pattern %s 151 181 
+
+0.75 
+
+processing pattern %s 204 210 50 
+
+0.5 
+
+processing pattern %s 174 50 89 
+
+0.5 
+
+processing pattern %s 174 423 50 
+
+0.5 
+
+processing pattern %s 172 174 195 
+
+0.5 
+
+processing pattern %s 174 318 
+
+0.5 
+
+processing pattern %s 174 204 210 
+
+0.375 
+
+processing pattern %s 172 174 181 210 50 
+
+0.25 
+
+processing pattern %s 172 174 50 79 
+
+0.3333333333333333 
+
+processing pattern %s 181 237 50 
+
+0.75 
+
+processing pattern %s 174 181 56 
+
+0.75 
+
+processing pattern %s 174 176 50 
+
+0.5 
+
+processing pattern %s 1 174 181 
+
+0.75 
+
+processing pattern %s 234 50 
+
+0.75 
+
+processing pattern %s 121 405 
+
+0.75 
+
+processing pattern %s 174 181 195 
+
+0.5 
+
+processing pattern %s 181 50 69 
+
+0.75 
+
+processing pattern %s 172 173 174 50 
+
+0.25 
+
+processing pattern %s 204 50 98 
+
+0.75 
+
+processing pattern %s 1 172 50 
+
+0.375 
+
+processing pattern %s 100 50 56 
+
+0.75 
+
+processing pattern %s 181 183 50 
+
+0.5 
+
+processing pattern %s 181 22 50 
+
+0.5 
+
+processing pattern %s 172 174 181 204 
+
+0.4166666666666667 
+
+processing pattern %s 1 174 181 50 
+
+0.5833333333333334 
+
+processing pattern %s 50 82 
+
+0.5 
+
+processing pattern %s 234 98 
+
+0.75 
+
+processing pattern %s 174 181 195 50 
+
+0.4166666666666667 
+
+processing pattern %s 174 204 98 
+
+0.75 
+
+processing pattern %s 172 174 56 
+
+0.5 
+
+processing pattern %s 174 181 50 56 
+
+0.5833333333333334 
+
+processing pattern %s 127 174 50 
+
+0.5 
+
+processing pattern %s 228 50 
+
+0.75 
+
+processing pattern %s 174 202 
+
+0.75 
+
+processing pattern %s 181 423 50 
+
+0.5 
+
+processing pattern %s 100 9 
+
+0.5 
+
+processing pattern %s 151 181 50 
+
+0.75 
+
+processing pattern %s 172 174 195 50 
+
+0.3333333333333333 
+
+processing pattern %s 168 172 50 
+
+0.25 
+
+processing pattern %s 172 173 181 50 
+
+0.4166666666666667 
+
+processing pattern %s 172 174 181 204 50 
+
+0.3125 
+
+processing pattern %s 174 82 
+
+0.5 
+
+processing pattern %s 181 50 96 
+
+0.5 
+
+processing pattern %s 172 50 96 
+
+0.375 
+
+processing pattern %s 1 222 50 
+
+0.75 
+
+processing pattern %s 172 174 181 98 
+
+0.5833333333333334 
+
+processing pattern %s 174 56 98 
+
+0.75 
+
+processing pattern %s 168 172 174 
+
+0.375 
+
+processing pattern %s 174 79 98 
+
+0.5 
+
+processing pattern %s 50 79 98 
+
+0.5 
+
+processing pattern %s 172 174 181 50 98 
+
+0.4375 
+
+processing pattern %s 1 100 181 
+
+0.75 
+
+processing pattern %s 100 12 
+
+0.75 
+
+processing pattern %s 12 50 
+
+0.75 
+
+processing pattern %s 174 28 50 
+
+0.5 
+
+processing pattern %s 168 174 181 
+
+0.625 
+
+pattern  0 - 
+50
+drank - 
+NOT PROCESSED
+
+
+pattern  1 - 
+181 50
+drank - 
+0.75
+
+
+pattern  2 - 
+174 50
+drank - 
+0.25
+
+
+pattern  3 - 
+100 50
+drank - 
+0.75
+
+
+pattern  4 - 
+1 50
+drank - 
+0.75
+
+
+pattern  5 - 
+172 50
+drank - 
+0.0
+
+
+pattern  6 - 
+127 50
+drank - 
+0.75
+
+
+pattern  7 - 
+174 181
+drank - 
+0.75
+
+
+pattern  8 - 
+174 181 50
+drank - 
+0.5
+
+
+pattern  9 - 
+50 98
+drank - 
+0.75
+
+
+pattern  10 - 
+172 174
+drank - 
+0.25
+
+
+pattern  11 - 
+1 181
+drank - 
+0.75
+
+
+pattern  12 - 
+100 181
+drank - 
+0.75
+
+
+pattern  13 - 
+1 181 50
+drank - 
+0.75
+
+
+pattern  14 - 
+172 174 50
+drank - 
+0.125
+
+
+pattern  15 - 
+258 50
+drank - 
+0.75
+
+
+pattern  16 - 
+172 181 50
+drank - 
+0.375
+
+
+pattern  17 - 
+174 98
+drank - 
+0.75
+
+
+pattern  18 - 
+100 181 50
+drank - 
+0.75
+
+
+pattern  19 - 
+222 50
+drank - 
+0.75
+
+
+pattern  20 - 
+50 7
+drank - 
+0.75
+
+
+pattern  21 - 
+50 56
+drank - 
+0.75
+
+
+pattern  22 - 
+210 50
+drank - 
+0.25
+
+
+pattern  23 - 
+204 50
+drank - 
+0.75
+
+
+pattern  24 - 
+174 204
+drank - 
+0.75
+
+
+pattern  25 - 
+172 174 181
+drank - 
+0.5
+
+
+pattern  26 - 
+50 79
+drank - 
+0.75
+
+
+pattern  27 - 
+121 50
+drank - 
+0.75
+
+
+pattern  28 - 
+172 174 181 50
+drank - 
+0.3333333333333333
+
+
+pattern  29 - 
+100 7
+drank - 
+0.75
+
+
+pattern  30 - 
+174 210
+drank - 
+0.0
+
+
+pattern  31 - 
+174 79
+drank - 
+0.75
+
+
+pattern  32 - 
+174 56
+drank - 
+0.75
+
+
+pattern  33 - 
+174 50 98
+drank - 
+0.5
+
+
+pattern  34 - 
+173 50
+drank - 
+0.5
+
+
+pattern  35 - 
+117 50
+drank - 
+0.25
+
+
+pattern  36 - 
+127 181
+drank - 
+0.75
+
+
+pattern  37 - 
+181 222
+drank - 
+0.25
+
+
+pattern  38 - 
+181 50 98
+drank - 
+0.75
+
+
+pattern  39 - 
+121 181
+drank - 
+0.0
+
+
+pattern  40 - 
+127 181 50
+drank - 
+0.75
+
+
+pattern  41 - 
+181 258
+drank - 
+0.75
+
+
+pattern  42 - 
+181 222 50
+drank - 
+0.5
+
+
+pattern  43 - 
+195 50
+drank - 
+0.75
+
+
+pattern  44 - 
+168 50
+drank - 
+0.5
+
+
+pattern  45 - 
+237 50
+drank - 
+0.75
+
+
+pattern  46 - 
+173 174
+drank - 
+0.5
+
+
+pattern  47 - 
+174 195
+drank - 
+0.75
+
+
+pattern  48 - 
+181 210 50
+drank - 
+0.5
+
+
+pattern  49 - 
+174 204 50
+drank - 
+0.5
+
+
+pattern  50 - 
+174 210 50
+drank - 
+0.125
+
+
+pattern  51 - 
+181 204 50
+drank - 
+0.5
+
+
+pattern  52 - 
+117 181
+drank - 
+0.75
+
+
+pattern  53 - 
+174 50 79
+drank - 
+0.5
+
+
+pattern  54 - 
+121 181 50
+drank - 
+0.375
+
+
+pattern  55 - 
+181 50 7
+drank - 
+0.75
+
+
+pattern  56 - 
+181 258 50
+drank - 
+0.75
+
+
+pattern  57 - 
+168 174
+drank - 
+0.5
+
+
+pattern  58 - 
+100 237
+drank - 
+0.75
+
+
+pattern  59 - 
+183 50
+drank - 
+0.75
+
+
+pattern  60 - 
+173 174 50
+drank - 
+0.375
+
+
+pattern  61 - 
+257 50
+drank - 
+0.75
+
+
+pattern  62 - 
+172 50 98
+drank - 
+0.375
+
+
+pattern  63 - 
+174 50 56
+drank - 
+0.5
+
+
+pattern  64 - 
+50 69
+drank - 
+0.75
+
+
+pattern  65 - 
+258 300
+drank - 
+0.75
+
+
+pattern  66 - 
+174 69
+drank - 
+0.75
+
+
+pattern  67 - 
+172 210 50
+drank - 
+0.125
+
+
+pattern  68 - 
+172 204 50
+drank - 
+0.375
+
+
+pattern  69 - 
+181 50 79
+drank - 
+0.75
+
+
+pattern  70 - 
+174 181 98
+drank - 
+0.75
+
+
+pattern  71 - 
+174 22
+drank - 
+0.25
+
+
+pattern  72 - 
+22 50
+drank - 
+0.25
+
+
+pattern  73 - 
+50 89
+drank - 
+0.75
+
+
+pattern  74 - 
+50 96
+drank - 
+0.75
+
+
+pattern  75 - 
+173 181 50
+drank - 
+0.625
+
+
+pattern  76 - 
+174 181 210
+drank - 
+0.375
+
+
+pattern  77 - 
+117 181 50
+drank - 
+0.5
+
+
+pattern  78 - 
+1 174 50
+drank - 
+0.5
+
+
+pattern  79 - 
+1 100 50
+drank - 
+0.75
+
+
+pattern  80 - 
+174 96
+drank - 
+0.75
+
+
+pattern  81 - 
+172 174 210
+drank - 
+0.125
+
+
+pattern  82 - 
+423 50
+drank - 
+0.75
+
+
+pattern  83 - 
+174 195 50
+drank - 
+0.5
+
+
+pattern  84 - 
+181 50 56
+drank - 
+0.75
+
+
+pattern  85 - 
+174 181 50 98
+drank - 
+0.5833333333333334
+
+
+pattern  86 - 
+174 183
+drank - 
+0.75
+
+
+pattern  87 - 
+151 50
+drank - 
+0.75
+
+
+pattern  88 - 
+172 174 204
+drank - 
+0.5
+
+
+pattern  89 - 
+174 181 210 50
+drank - 
+0.3333333333333333
+
+
+pattern  90 - 
+174 181 204
+drank - 
+0.5
+
+
+pattern  91 - 
+100 174 50
+drank - 
+0.5
+
+
+pattern  92 - 
+176 50
+drank - 
+0.75
+
+
+pattern  93 - 
+172 174 98
+drank - 
+0.5
+
+
+pattern  94 - 
+168 174 50
+drank - 
+0.375
+
+
+pattern  95 - 
+172 174 210 50
+drank - 
+0.08333333333333333
+
+
+pattern  96 - 
+174 176
+drank - 
+0.75
+
+
+pattern  97 - 
+174 423
+drank - 
+0.75
+
+
+pattern  98 - 
+172 50 79
+drank - 
+0.375
+
+
+pattern  99 - 
+172 174 204 50
+drank - 
+0.3333333333333333
+
+
+pattern  100 - 
+174 181 204 50
+drank - 
+0.4166666666666667
+
+
+pattern  101 - 
+174 89
+drank - 
+0.75
+
+
+pattern  102 - 
+172 174 50 98
+drank - 
+0.3333333333333333
+
+
+pattern  103 - 
+174 28
+drank - 
+0.75
+
+
+pattern  104 - 
+318 50
+drank - 
+0.5
+
+
+pattern  105 - 
+172 181 210 50
+drank - 
+0.3333333333333333
+
+
+pattern  106 - 
+100 286
+drank - 
+0.75
+
+
+pattern  107 - 
+28 50
+drank - 
+0.75
+
+
+pattern  108 - 
+181 195 50
+drank - 
+0.5
+
+
+pattern  109 - 
+288 50
+drank - 
+0.75
+
+
+pattern  110 - 
+202 50
+drank - 
+0.75
+
+
+pattern  111 - 
+216 50
+drank - 
+0.75
+
+
+pattern  112 - 
+173 174 181
+drank - 
+0.625
+
+
+pattern  113 - 
+174 181 79
+drank - 
+0.75
+
+
+pattern  114 - 
+258 288
+drank - 
+0.75
+
+
+pattern  115 - 
+174 183 50
+drank - 
+0.5
+
+
+pattern  116 - 
+50 64
+drank - 
+0.5
+
+
+pattern  117 - 
+168 181 50
+drank - 
+0.625
+
+
+pattern  118 - 
+100 50 7
+drank - 
+0.75
+
+
+pattern  119 - 
+294 50
+drank - 
+0.5
+
+
+pattern  120 - 
+174 191
+drank - 
+0.75
+
+
+pattern  121 - 
+191 50
+drank - 
+0.75
+
+
+pattern  122 - 
+181 257
+drank - 
+0.25
+
+
+pattern  123 - 
+174 64
+drank - 
+0.5
+
+
+pattern  124 - 
+174 22 50
+drank - 
+0.25
+
+
+pattern  125 - 
+172 195 50
+drank - 
+0.375
+
+
+pattern  126 - 
+172 173 50
+drank - 
+0.25
+
+
+pattern  127 - 
+173 174 181 50
+drank - 
+0.5
+
+
+pattern  128 - 
+172 181 204 50
+drank - 
+0.3333333333333333
+
+
+pattern  129 - 
+100 50 98
+drank - 
+0.5
+
+
+pattern  130 - 
+405 50
+drank - 
+0.25
+
+
+pattern  131 - 
+174 50 69
+drank - 
+0.5
+
+
+pattern  132 - 
+174 181 50 79
+drank - 
+0.5833333333333334
+
+
+pattern  133 - 
+50 56 98
+drank - 
+0.75
+
+
+pattern  134 - 
+172 174 79
+drank - 
+0.5
+
+
+pattern  135 - 
+100 127 50
+drank - 
+0.75
+
+
+pattern  136 - 
+174 216
+drank - 
+0.75
+
+
+pattern  137 - 
+172 173 174
+drank - 
+0.375
+
+
+pattern  138 - 
+172 181 50 98
+drank - 
+0.5
+
+
+pattern  139 - 
+172 174 181 210
+drank - 
+0.3333333333333333
+
+
+pattern  140 - 
+172 50 56
+drank - 
+0.375
+
+
+pattern  141 - 
+258 286
+drank - 
+0.75
+
+
+pattern  142 - 
+174 50 96
+drank - 
+0.5
+
+
+pattern  143 - 
+181 257 50
+drank - 
+0.5
+
+
+pattern  144 - 
+151 181
+drank - 
+0.75
+
+
+pattern  145 - 
+204 210 50
+drank - 
+0.5
+
+
+pattern  146 - 
+174 50 89
+drank - 
+0.5
+
+
+pattern  147 - 
+174 423 50
+drank - 
+0.5
+
+
+pattern  148 - 
+172 174 195
+drank - 
+0.5
+
+
+pattern  149 - 
+174 318
+drank - 
+0.5
+
+
+pattern  150 - 
+174 204 210
+drank - 
+0.375
+
+
+pattern  151 - 
+172 174 181 210 50
+drank - 
+0.25
+
+
+pattern  152 - 
+172 174 50 79
+drank - 
+0.3333333333333333
+
+
+pattern  153 - 
+181 237 50
+drank - 
+0.75
+
+
+pattern  154 - 
+174 181 56
+drank - 
+0.75
+
+
+pattern  155 - 
+174 176 50
+drank - 
+0.5
+
+
+pattern  156 - 
+1 174 181
+drank - 
+0.75
+
+
+pattern  157 - 
+234 50
+drank - 
+0.75
+
+
+pattern  158 - 
+121 405
+drank - 
+0.75
+
+
+pattern  159 - 
+174 181 195
+drank - 
+0.5
+
+
+pattern  160 - 
+181 50 69
+drank - 
+0.75
+
+
+pattern  161 - 
+172 173 174 50
+drank - 
+0.25
+
+
+pattern  162 - 
+204 50 98
+drank - 
+0.75
+
+
+pattern  163 - 
+1 172 50
+drank - 
+0.375
+
+
+pattern  164 - 
+100 50 56
+drank - 
+0.75
+
+
+pattern  165 - 
+181 183 50
+drank - 
+0.5
+
+
+pattern  166 - 
+181 22 50
+drank - 
+0.5
+
+
+pattern  167 - 
+172 174 181 204
+drank - 
+0.4166666666666667
+
+
+pattern  168 - 
+1 174 181 50
+drank - 
+0.5833333333333334
+
+
+pattern  169 - 
+50 82
+drank - 
+0.5
+
+
+pattern  170 - 
+234 98
+drank - 
+0.75
+
+
+pattern  171 - 
+174 181 195 50
+drank - 
+0.4166666666666667
+
+
+pattern  172 - 
+174 204 98
+drank - 
+0.75
+
+
+pattern  173 - 
+172 174 56
+drank - 
+0.5
+
+
+pattern  174 - 
+174 181 50 56
+drank - 
+0.5833333333333334
+
+
+pattern  175 - 
+127 174 50
+drank - 
+0.5
+
+
+pattern  176 - 
+228 50
+drank - 
+0.75
+
+
+pattern  177 - 
+174 202
+drank - 
+0.75
+
+
+pattern  178 - 
+181 423 50
+drank - 
+0.5
+
+
+pattern  179 - 
+100 9
+drank - 
+0.5
+
+
+pattern  180 - 
+151 181 50
+drank - 
+0.75
+
+
+pattern  181 - 
+172 174 195 50
+drank - 
+0.3333333333333333
+
+
+pattern  182 - 
+168 172 50
+drank - 
+0.25
+
+
+pattern  183 - 
+172 173 181 50
+drank - 
+0.4166666666666667
+
+
+pattern  184 - 
+172 174 181 204 50
+drank - 
+0.3125
+
+
+pattern  185 - 
+174 82
+drank - 
+0.5
+
+
+pattern  186 - 
+181 50 96
+drank - 
+0.5
+
+
+pattern  187 - 
+172 50 96
+drank - 
+0.375
+
+
+pattern  188 - 
+1 222 50
+drank - 
+0.75
+
+
+pattern  189 - 
+172 174 181 98
+drank - 
+0.5833333333333334
+
+
+pattern  190 - 
+174 56 98
+drank - 
+0.75
+
+
+pattern  191 - 
+168 172 174
+drank - 
+0.375
+
+
+pattern  192 - 
+174 79 98
+drank - 
+0.5
+
+
+pattern  193 - 
+50 79 98
+drank - 
+0.5
+
+
+pattern  194 - 
+172 174 181 50 98
+drank - 
+0.4375
+
+
+pattern  195 - 
+1 100 181
+drank - 
+0.75
+
+
+pattern  196 - 
+100 12
+drank - 
+0.75
+
+
+pattern  197 - 
+12 50
+drank - 
+0.75
+
+
+pattern  198 - 
+174 28 50
+drank - 
+0.5
+
+
+pattern  199 - 
+168 174 181
+drank - 
+0.625
+
+

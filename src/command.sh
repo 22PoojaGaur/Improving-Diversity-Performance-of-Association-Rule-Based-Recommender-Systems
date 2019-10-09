@@ -1,1 +1,1 @@
- python main_alt.py ../datasets/processed_concept_hierarchy.txt ../datasets/patterns.txt > output_hierarchy
+ python main_1.py ../Datasets/clean_ch.txt ../Datasets/selected_frequent_pattern.txt > temp.txt

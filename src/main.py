@@ -1,29 +1,26 @@
-# @author 22PoojaGaur
-
-
 from __future__ import division
 import sys
 
 import extract_frequent_pattern
 
 
-def calculate_nodes_in_projection(pattern, ch_dict=None):
+def calculate_nodes_in_projection(patterns, ch_dict=None):
     if ch_dict is None:
         raise ValueError
     nodes_in_proj = set()
 
-    for item in pattern:
+    for item in patterns:
         path = set(ch_dict[item])
         # print  [node.value for node in path]
         nodes_in_proj = nodes_in_proj | path
     return len(nodes_in_proj)
 
 
-def calculate_drank(pattern, ch_dict=None, ch_height=None):
+def calculate_drank(patterns, ch_dict=None, ch_height=None):
     if ch_dict is None or ch_height is None:
         raise ValueError
 
-    num_node_in_proj = calculate_nodes_in_projection(pattern, ch_dict=ch_dict)
+    num_node_in_proj = calculate_nodes_in_projection(patterns, ch_dict=ch_dict)
     num_item_in_pat = len(pattern)
     h = ch_height
 
@@ -71,7 +68,7 @@ def read_input():
             is_item = 1
     
     # threshold randomly decided
-    freq_patterns =extract_frequent_pattern.extract_frequent_patterns(fpat, 13)
+    freq_patterns =extract_frequent_pattern.extract_frequent_patterns(fpat, 18)
     
     return (item_path_dict, freq_patterns)
 
@@ -86,11 +83,11 @@ def main():
     print (ch_height)
     dranks = [0]*len(freq_patterns)
     idx = 0
-    for pattern in freq_patterns:
-        print("processing pattern %s", ' '.join(pattern), '\n')
+    for patterns in freq_patterns:
+        print("processing pattern %s", ' '.join(patterns), '\n')
         try:
             # calculate drank
-            dranks[idx] = calculate_drank(pattern, ch_dict=item_path_dict, ch_height=ch_height)
+            dranks[idx] = calculate_drank(patterns, ch_dict=item_path_dict, ch_height=ch_height)
         except KeyboardInterrupt:
             dranks[idx] = "SKIPPED"
 
@@ -104,7 +101,7 @@ def main():
 
     # Now we have drank for evey frequent pattern.
     for i in range(0, len(freq_patterns)):
-        print("pattern ", str(i), "- ",)
+        print("patterns ", str(i), "- ",)
         print(fin_patterns[i])
         print("drank - ")
         print(dranks[i])
