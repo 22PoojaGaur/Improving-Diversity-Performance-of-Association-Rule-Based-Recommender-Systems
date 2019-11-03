@@ -1,5 +1,7 @@
 # Improving-Diversity-Performance-of-Association-Rule-Based-Recommender-Systems
 
+### Note that the dataset has been moved to movielense-experiment folder.
+
 Order of running the files to run the code:
 - src/movielensdataCleaner.py
   -- takes movielens data as input
