@@ -1,5 +1,0 @@
-a;b;c
-a;b;e
-a;b;f
-a;e;f
-a;f;i
