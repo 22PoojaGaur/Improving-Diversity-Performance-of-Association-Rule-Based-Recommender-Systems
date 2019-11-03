@@ -1,0 +1,84 @@
+enter input file for recommendations -> recommendations for HC-HD 172 174 -> 228 96 204 195 100 98 181 222 210 176 1 56 69 127 173 423 79 183 50 168
+
+
+recommendations for HC 172 174 -> 228 96 204 195 100 98 181 127 176 210 222 69 56 173 1 423 79 183 50 168
+
+
+recommendations for HC-HD 751 -> 
+
+
+recommendations for HC 751 -> 
+
+
+recommendations for HC-HD 9 123 -> 
+
+
+recommendations for HC 9 123 -> 
+
+
+recommendations for HC-HD 64 172 -> 204 195 98 181 56 69 318 79 50 174
+
+
+recommendations for HC 64 172 -> 204 195 98 181 69 56 318 79 50 174
+
+
+recommendations for HC-HD 538 -> 
+
+
+recommendations for HC 538 -> 
+
+
+recommendations for HC-HD 362 -> 
+
+
+recommendations for HC 362 -> 
+
+
+recommendations for HC-HD 887 302 -> 
+
+
+recommendations for HC 887 302 -> 
+
+
+recommendations for HC-HD 228 258 -> 181 50 174
+
+
+recommendations for HC 228 258 -> 181 50 174
+
+
+recommendations for HC-HD 990 -> 
+
+
+recommendations for HC 990 -> 
+
+
+recommendations for HC-HD 288 -> 100 7 98 181 56 258 50 174
+
+
+recommendations for HC 288 -> 100 7 98 181 56 258 50 174
+
+
+recommendations for HC-HD 174 210 -> 228 96 204 195 98 181 222 176 172 127 56 69 173 22 79 183 50 168
+
+
+recommendations for HC 174 210 -> 228 96 204 195 98 181 127 176 172 22 69 56 173 222 79 183 50 168
+
+
+recommendations for HC-HD 117 181 -> 204 195 100 98 121 7 222 210 172 1 176 79 50 174
+
+
+recommendations for HC 117 181 -> 204 195 7 98 121 100 222 176 172 210 1 79 50 174
+
+
+recommendations for HC-HD 50 69 -> 204 100 195 98 181 222 210 172 176 56 318 79 183 174 168
+
+
+recommendations for HC 50 69 -> 204 195 100 98 181 222 210 172 176 56 318 79 183 174 168
+
+
+recommendations for HC-HD 174 96 -> 204 195 100 98 181 176 172 210 56 69 173 79 183 50 168
+
+
+recommendations for HC 174 96 -> 204 195 100 98 181 176 172 210 56 69 79 183 50 168 173
+
+

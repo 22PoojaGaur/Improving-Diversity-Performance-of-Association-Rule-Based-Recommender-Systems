@@ -71,7 +71,7 @@ def read_input():
     #freq_patterns =extract_frequent_pattern.extract_frequent_patterns(fpat, 18)
     freq_patterns = fpat.read().split('\n')
     confidence = [float(pat.split('|')[1]) for pat in freq_patterns]
-    freq_patterns = [pat.split('|')[0].split(' ') for pat in freq_patterns]
+    freq_patterns = [pat.split('|')[0].split() for pat in freq_patterns]
 
     return (item_path_dict, freq_patterns, confidence)
 
@@ -83,18 +83,18 @@ def main():
             ch_height = len(item_path_dict[item])
 
     print("concept hierarchy height")
-    print (ch_height)
-    dranks = [0]*len(freq_patterns)
+    print(ch_height)
+    dranks = [0] * len(freq_patterns)
     idx = 0
     for pattern in freq_patterns:
-        print("processing pattern %s", ' '.join(pattern), '\n')
+        # print("processing pattern %s", ' '.join(pattern), '\n')
         try:
             # calculate drank
             dranks[idx] = calculate_drank(pattern, ch_dict=item_path_dict, ch_height=ch_height)
         except KeyboardInterrupt:
             dranks[idx] = "SKIPPED"
 
-        print(str(dranks[idx]), '\n')
+        # print(str(dranks[idx]), '\n')
         idx += 1
 
     # convert patterns to list
@@ -104,11 +104,14 @@ def main():
 
     # Now we have drank for evey frequent pattern.
     for i in range(0, len(freq_patterns)):
-        print("pattern ", str(i), "- ",)
-        print(fin_patterns[i])
-        print("drank - ")
-        print(dranks[i])
-        print('\n')
+        # print("pattern ", str(i), "- ",)
+        # print(fin_patterns[i])
+        # print("drank - ")
+        # print(dranks[i])
+        # print('\n')
+        # print drank info
+        print(fin_patterns[i] + '|' + str(dranks[i]))
+
 
 if __name__ == '__main__':
     main()
