@@ -1,0 +1,152 @@
+517
+Root metal metal (177,1,79) 517 
+
+614
+Root rock rock (170,43,78) 614 
+
+704
+Root rock rock (43,79,130) 704 
+
+199
+Root rock indie (81,84,79) 199 
+
+1090
+Root rock indie (81,84,79) 1090 
+
+525
+Root hip_pop pop (24,39,130) 525 
+
+466
+Root hip_pop rap (24,39,103,18) 466 
+
+292
+Root hip_pop pop (24,39,130) 292 
+
+425
+Root rock indie_rock (81,84,79) 425 
+
+439
+Root brazilian brazilian (432,693,72) 439 
+
+681
+Root hip_pop pop (24,109,405) 681 
+
+544
+Root rnb american_idol (24,73,784) 544 
+
+225
+Root rock post_punk (81,79,84) 225 
+
+209
+Root rock punk (73,79,182) 209 
+
+540
+Root rock rock (73,1,190) 540 
+
+461
+Root hip_pop pop (24,130,39) 461 
+
+1104
+Root metal industrial_metal (1,6,61) 1104 
+
+328
+Root others house (39,105,18) 328 
+
+226
+Root rock alternative (73,78,79) 226 
+
+412
+Root rock punk (182,169,181) 412 
+
+89
+Root hip_pop pop (24,39,18) 89 
+
+816
+Root hardcore post_hardcore (180,194,169) 816 
+
+288
+Root hip_pop pop (24,167,39) 288 
+
+3057
+Root rock indie (130,526,81) 3057 
+
+441
+Root rock post_punk (275,16,25) 441 
+
+293
+Root rock pop_rock (24,109,130) 293 
+
+331
+Root hip_pop rop (102,103,304) 331 
+
+1672
+Root metal metal_core (376,72,1) 1672 
+
+329
+Root hip_pop pop (24,167,39) 329 
+
+523
+Root rock rock (24,39,109) 523 
+
+1246
+Root rock pop_punk (79,73,176) 1246 
+
+511
+Root rock alternative (73,192,79) 511 
+
+680
+Root hip_pop pop (24,109,130) 680 
+
+464
+Root electronic electronic (18,24,187) 464 
+
+316
+Root rock alternative (130,73,79) 316 
+
+686
+Root rock pop_rock (24,130,109) 686 
+
+352
+Root rnb rnb (24,130,167) 352 
+
+295
+Root rnb rnb (167,24,625) 295 
+
+310
+Root others female_vocalists (24,130,39) 310 
+
+182
+Root rock alternative_rock (81,79,389) 182 
+
+1400
+Root rock indie (18,81,79) 1400 
+
+301
+Root soul soul (625,167,130) 301 
+
+1048
+Root rock indie_rock (81,195,84) 1048 
+
+1369
+Root metal heavy_metal (386,72,192) 1369 
+
+289
+Root hip_pop pop (24,39,130) 289 
+
+1044
+Root metal nu_metal (1,177,386) 1044 
+
+868
+Root rock rock (192,73,88) 868 
+
+918
+Root metal thrash_metal (91,386,1) 918 
+
+1934
+Root soul soul (625,130,134) 1934 
+
+1249
+Root rock hard_rock (72,73,192) 1249 
+
+436
+Root rock alternative (78,73,79) 436

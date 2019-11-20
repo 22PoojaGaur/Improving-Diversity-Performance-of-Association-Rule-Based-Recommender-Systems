@@ -1,0 +1,102 @@
+0.517
+PATH=Root/metal/metal/(177,1,79)/517
+1.614
+PATH=Root/rock/rock/(170,43,78)/614
+2.704
+PATH=Root/rock/rock/(43,79,130)/704
+3.199
+PATH=Root/rock/indie/(81,84,79)/199
+4.1090
+PATH=Root/rock/indie/(81,84,79)/1090
+5.525
+PATH=Root/hip pop/pop/(24,39,130)/525
+6.466
+PATH=Root/hip pop/rap/(24,39,103,18)/466
+7.292
+PATH=Root/hip pop/pop/(24,39,130)/292
+8.425
+PATH=Root/rock/indie rock/(81,84,79)/425
+9.439
+PATH=Root/brazilian/brazilian/(432,693,72)/439
+10.681
+PATH=Root/hip pop/pop/(24,109,405)/681
+11.544
+PATH=Root/rnb/american idol/(24,73,784)/544
+12.225
+PATH=Root/rock/post punk/(81,79,84)/225
+13.209
+PATH=Root/rock/punk/(73,79,182)/209
+14.540
+PATH=Root/rock/rock/(73,1,190)/540
+15.461
+PATH=Root/hip pop/pop/(24,130,39)/461
+16.1104
+PATH=Root/metal/industrial metal/(1,6,61)/1104
+17.328
+PATH=Root/others/house/(39,105,18)/328
+18.226
+PATH=Root/rock/alternative/(73,78,79)/226
+19.412
+PATH=Root/rock/punk/(182,169,181)/412
+20.89
+PATH=Root/hip pop/pop/(24,39,18)/89
+21.816
+PATH=Root/hardcore/post hardcore/(180,194,169)/816
+22.288
+PATH=Root/hip pop/pop/(24,167,39)/288
+23.3057
+PATH=Root/rock/indie/(130,526,81)/3057
+24.441
+PATH=Root/rock/post punk/(275,16,25)/441
+25.293
+PATH=Root/rock/pop rock/(24,109,130)/293
+26.331
+PATH=Root/hip pop/rop/(102,103,304)/331
+27.1672
+PATH=Root/metal/metal core/(376,72,1)/1672
+28.329
+PATH=Root/hip pop/pop/(24,167,39)/329
+29.523
+PATH=Root/rock/rock/(24,39,109)/523
+30.1246
+PATH=Root/rock/pop punk/(79,73,176)/1246
+31.511
+PATH=Root/rock/alternative/(73,192,79)/511
+32.680
+PATH=Root/hip pop/pop/(24,109,130)/680
+33.464
+PATH=Root/electronic/electronic/(18,24,187)/464
+34.316
+PATH=Root/rock/alternative/(130,73,79)/316
+35.686
+PATH=Root/rock/pop rock/(24,130,109)/686
+36.352
+PATH=Root/rnb/rnb/(24,130,167)/352
+37.295
+PATH=Root/rnb/rnb/(167,24,625)/295
+38.310
+PATH=Root/others/female vocalists/(24,130,39)/310
+39.182
+PATH=Root/rock/alternative rock/(81,79,389)/182
+40.1400
+PATH=Root/rock/indie/(18,81,79)/1400
+41.301
+PATH=Root/soul/soul/(625,167,130)/301
+42.1048
+PATH=Root/rock/indie rock/(81,195,84)/1048
+43.1369
+PATH=Root/metal/heavy metal/(386,72,192)/1369
+44.289
+PATH=Root/hip pop/pop/(24,39,130)/289
+45.1044
+PATH=Root/metal/nu metal/(1,177,386)/1044
+46.868
+PATH=Root/rock/rock/(192,73,88)/868
+47.918
+PATH=Root/metal/thrash metal/(91,386,1)/918
+48.1934
+PATH=Root/soul/soul/(625,130,134)/1934
+49.1249
+PATH=Root/rock/hard rock/(72,73,192)/1249
+50.436
+PATH=Root/rock/alternative/(78,73,79)/436

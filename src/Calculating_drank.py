@@ -82,8 +82,8 @@ def main():
         if len(item_path_dict[item]) > ch_height:
             ch_height = len(item_path_dict[item])
 
-    print("concept hierarchy height")
-    print(ch_height)
+    # print("concept hierarchy height")
+    # print(ch_height)
     dranks = [0] * len(freq_patterns)
     idx = 0
     for pattern in freq_patterns:

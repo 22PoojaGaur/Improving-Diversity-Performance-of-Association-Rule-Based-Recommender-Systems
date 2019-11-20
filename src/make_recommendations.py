@@ -44,7 +44,11 @@ if __name__ == '__main__':
 
     sorted_drank_rules = []
     for rule, drank in sorted(rule_drank_dict.items(), key=lambda x: x[1], reverse=True):
-        sorted_drank_rules.append(rule)
+        # put threshold for drank here
+        thresh= 0.05
+        assert thresh != None
+        if float(drank) >= thresh:
+            sorted_drank_rules.append(rule)
 
     rule_inter = list(set(sorted_conf_rules) & set(sorted_drank_rules))
     # for rule, conf in rule_conf_dict.items():
