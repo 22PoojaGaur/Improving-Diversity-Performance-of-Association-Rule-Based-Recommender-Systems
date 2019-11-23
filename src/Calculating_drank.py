@@ -7,12 +7,9 @@ def calculate_nodes_in_projection(pattern, ch_dict=None):
     nodes_in_proj = set()
 
     for item in pattern:
-        try:
-            path = set(ch_dict[item])
-            # print  [node.value for node in path]
-            nodes_in_proj = nodes_in_proj | path
-        except:
-            pass
+        path = set(ch_dict[item])
+        # print  [node.value for node in path]
+        nodes_in_proj = nodes_in_proj | path
     return len(nodes_in_proj)
 
 
@@ -20,7 +17,12 @@ def calculate_drank(pattern, ch_dict=None, ch_height=None):
     if ch_dict is None or ch_height is None:
         raise ValueError
 
-    num_node_in_proj = calculate_nodes_in_projection(pattern, ch_dict=ch_dict)
+    try:
+        num_node_in_proj = calculate_nodes_in_projection(pattern, ch_dict=ch_dict)
+    except:
+        drank = "ITEM NONE"
+        return drank
+
     num_item_in_pat = len(pattern)
     h = ch_height
 
@@ -72,11 +74,25 @@ def read_input():
     freq_patterns = fpat.read().split('\n')
     confidence = [float(pat.split('|')[1]) for pat in freq_patterns]
     freq_patterns = [pat.split('|')[0].split() for pat in freq_patterns]
+    for pat in freq_patterns:
+        try:
+            pat.remove('*')
+        except:
+            pass
 
-    return (item_path_dict, freq_patterns, confidence)
+    res_patterns = []
+    for pat in freq_patterns:
+        for item in pat:
+            if item not in item_path_dict.keys():
+                #print(item)
+                pat.remove(item)
+        res_patterns.append(pat)
+
+    return (item_path_dict, res_patterns, confidence)
 
 def main():
     (item_path_dict, freq_patterns, confidence) = read_input()
+    # print(freq_patterns)
     ch_height = 0
     for item in item_path_dict.keys():
         if len(item_path_dict[item]) > ch_height:
